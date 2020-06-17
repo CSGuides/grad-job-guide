@@ -2,11 +2,13 @@
   display: Wes Weimer
   avatar: weimer
   color: "#990033"
+  timeline: timeline.json
 
 - id: legoues
   display: Claire Le Goues
   avatar: clegoues
   color: "#0099FF"
+  timeline: timeline.json
 
 - id: zak
   display: Zak Fry

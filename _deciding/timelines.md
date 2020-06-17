@@ -21,81 +21,9 @@ better, even though it is at least a little bit fascinating.
 {% endcapture %}
 {% include quote.html content=quote user="legoues" %}
 
-Here's (a subset of) Wes's application information timeline: 
+Here's (a subset of) several application timelines: 
 
-<ul>
-<li> <font color="purple">Jan 11. IBM Research invitation to interview.</font></li>
-<li> <font color="purple">Jan 15. Purdue invitation to interview.</font></li>
-<li> <font color="purple">Jan 27. McGill invitation to interview. </font></li>
-<li> <font color="purple">Jan 31. Virginia invitation to interview.</font></li>
-<li> Feb 17. UMass-Amherst ECE invitation to phone interview. </li>
-<li> Feb 21. UMass-Amherst ECE phone interview. </li>
-<li> <font color="purple">Feb 22. UMass-Amherst ECE invitation to interview.</font></li>
-<li> <font color="blue">Feb 23-25. Purdue interview. </font></li>
-<li> <font color="purple">Feb 25. Microsoft Research invitation to interview.</font></li>
-<li> <font color="blue">Mar 01-04. Virginia interview. </font></li>
-<li> <font color="green">Mar 7. Purdue makes an official offer, requires an answer by Mar 22. </font></li>
-<li> <font color="purple">Mar 14. NYU invitation to interview. </font></li>
-<li> <font color="Blue">Mar 16-19. IBM interview. </font></li>
-<li> <font color="blue">Mar 21-23. McGill interview. </font></li>
-<li> <font color="Red">Mar 23. Dartmouth rejects me without an interview.</font></li>
-<li> <font color="blue">Mar 23-26. Microsoft interview. </font></li>
-<li> <font color="blue">Mar 27-29. UMass-Amherst ECE interview. </font></li>
-<li> <font color="purple">Apr 04. Wesleyan invitation to interview. </font></li>
-<li> Apr 05-10. Present paper at conference. </li>
-<li> <font color="red">Apr 06. EPFL and Wisconsin reject me without an interview.</font></li>
-<li> <font color="blue">Apr 12-14. NYU interview.</font></li>
-<li> <font color="blue">Apr 14-16. Wesleyan interview. </font></li>
-<li> <font color="green">Apr 25. UMass-Amherst ECE makes an official offer, requires an answer by Apr 30.</font></li>
-<li> <font color="green">Apr 27. IBM makes an official offer.</font></li>
-<li> <font color="green">May 09. Virginia makes an official offer. </font></li>
-<li> <font color="green">May 14. NYU makes an official offer. </font></li>
-<li> <font color="red">May 31. MSR rejects me. </font></li>
-<li> Jun 02. Virginia offer accepted.</li>
-</ul>
-
-Here's a similar subset of Claire's timeline:
-
-<ul>
-<li> <font color="purple">Early Nov.  Lincoln Labs invitation to interview. </font></li>
-<li><font color="blue">Nov 27-28. Lincoln Labs interview</font></li>
-<li><font color="purple">Jan 10. Georgia Tech invitation to interview.</font></li>
-<li>Jan 18. UNM phone interview.</li>
-<li><font color="purple">Jan 22. UNM invitation to interview.</font></li>
-<li><font color="purple">Jan 28. NCSU invitation to interview.</font></li>
-<li>Jan 30. GMU phone interview invite.</li>
-<li><font color="purple">Feb 8. UIUC invitation to interview.</font></li>
-<li><font color="blue">Feb 11-13. UNM interview.</font></li>
-<li><font color="purple">Feb 12. Iowa State invitation to interview.</font></li>
-<li><font color="purple">Feb 13. WUSTL invitation to interview.</font></li>
-<li><font color="purple">Feb 14. Waterloo invitation to interview.</font></li>
-<li><font color="blue">Feb 18-20. Georgia Tech interview.</font></li>
-<li><font color="green">Feb 14. Lincoln Labs makes an official offer.<sup>1</sup></font></li>
-<li><font color="purple">Feb 14. GMU invitation to interview.</font></li>
-<li><font color="green">Feb 22. Initial UNM offer, eventually requires a decision by Mar 25.</font></li>
-<li><font color="blue">Feb 21-23. NCSU interview.</font></li>
-<li><font color="blue">Feb 27-Mar 1. UIUC interview</font></li>
-<li><font color="blue">Mar 5-8. Waterloo interview</font></li>
-<li><font color="green">Mar 8. NCSU makes an initial offer (eventual deadline: 4/5, not extensible)</font> </li>
-<li>Mar 19. I decline my Iowa State interview. </li>
-<li><font color="blue">Mar 24-25. GMU interview</font></li>
-<li><font color="blue">Mar 31 - Apr 2. WUSTL interview</font></li>
-<li>Apr 5. I decline Lincoln Labs.</li>
-<li><font color="purple">Apr 5. CMU invitation to interview</font></li>
-<li><font color="green">Apr 10. GMU makes an initial offer, eventual deadline of 5/15</font></li>
-<li><font color="green">Apr 25. UIUC makes an official offer, eventually requires a decision by 5/20</font></li>
-<li><font color="green">Apr 26. Waterloo makes an official offer, eventually requires a decision by 5/14, extended to 5/21 and arbitrarily extensible after that. </font></li>
-<li><font color="blue">Apr 24-27. CMU interview</font></li>
-<li><font color="red">Apr 30. WUSTL rejects me. </font></li>
-<li>May 2-5. Waterloo second visit. </font></li>
-<li>May 7. I decline GMU.</li>
-<li>May 12-14. UIUC second visit</li>
-<li><font color="green">May 15. CMU makes an official offer, though I heard news before then (weekly since my interview) that they were moving forward with my case.  Deadline is May 31. </font></li>
-<li><font color="green">May 13. Georgia Tech makes an official offer, requires a decision by May 31. </font></li>
-<li>May 20. I accept CMU and turn down remaining offers.</li>
-</ul>
-<sup>1</sup>Lincoln expressly deferred making an offer to try to line up with
-the academic interview timeline.
+{% include timeline.html %}
 
 There are a few things to notice about these otherwise-boring timelines:
 - The spread of dates on the <font color="purple">interview
