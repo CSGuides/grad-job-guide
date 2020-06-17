@@ -88,4 +88,4 @@ given hiring year, such as big data or health care informatics in 2013.  Please
 don't pretend to do these things if you don't.  It's tacky and
 obvious.
 {% endcapture %}
-{% include quote.html content=quote user="claire" %}
+{% include quote.html content=quote user="legoues" %}

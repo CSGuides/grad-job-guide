@@ -36,7 +36,7 @@ how much time I spent on the phone with faculty at various departments,
 discussing their lives.  Unlike negotiation, writing the "turn down the offers"
 emails never got any easier.
 {% endcapture %}
-{% include quote.html content=quote user="claire" %}
+{% include quote.html content=quote user="legoues" %}
 
 
 {% capture quote %}

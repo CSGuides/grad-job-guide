@@ -54,4 +54,4 @@ Similarly, I found that most
 schools and chairs were very straightforward with my position on their
 "list" and the likelihood of an offer.
 {% endcapture %}
-{% include quote.html content=quote user="claire" %}
+{% include quote.html content=quote user="legoues" %}

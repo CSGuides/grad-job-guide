@@ -61,7 +61,7 @@ I don't know what the line is between reasonable and unreasonable, nor if I
 succeeded at staying on the correct side of it in all cases, but I
 certainly made a good-faith effort.
 {% endcapture %}
-{% include quote.html content=quote user="claire" %}
+{% include quote.html content=quote user="legoues" %}
 
 Anyway, so they've given you an offer with a starting salary of X. How do
 you ask more without just saying "give me more money"? There are two
@@ -179,7 +179,7 @@ me hours to compose and send.  By contrast, for my final set of
 negotiations, I initiated the conversation on the phone with the department
 chair during the "initial offer" conversation.
 {% endcapture %}
-{% include quote.html content=quote user="claire" %}
+{% include quote.html content=quote user="legoues" %}
 
 Finally, if you think you want to haggle but you need more advice about it,
 email your local department head (or past department heads). They have

@@ -44,7 +44,7 @@ my Masters.  I was told by at least one department chair that the strength of my
 letters was critically important to securing the interview(s) in question.  I
 encourage you to select your letter writers carefully.
 {% endcapture %}
-{% include quote.html content=quote user="claire" %}
+{% include quote.html content=quote user="legoues" %}
 
 {% capture quote %}
 The jobs I applied for required a maximum of three letters and I was fortunate

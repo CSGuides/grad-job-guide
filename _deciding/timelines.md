@@ -19,7 +19,7 @@ Try to resist compulsively checking your website's stats
 on where your pageviews are coming from, because it will not make you feel
 better, even though it is at least a little bit fascinating.
 {% endcapture %}
-{% include quote.html content=quote user="claire" %}
+{% include quote.html content=quote user="legoues" %}
 
 Here's (a subset of) Wes's application information timeline: 
 

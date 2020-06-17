@@ -75,7 +75,7 @@ family obligations. If anyone decided not to interview me or offer me a
 position for these reasons, they would have saved me the trouble of having to
 uncover their misogyny some other way.
 {% endcapture %}
-{% include quote.html content=quote user="claire" %}
+{% include quote.html content=quote user="legoues" %}
 
 {% capture quote %}
 On the topic of being honest about things and covering somewhat personal topics,

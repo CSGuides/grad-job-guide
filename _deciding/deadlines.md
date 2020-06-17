@@ -68,7 +68,7 @@ Ranked-75th-University may have to put out more offers to get a bite.  That
 said, this is a difficult feature of the job search and I wish schools
 could synchronize their schedules a bit more to avoid it.
 {% endcapture %}
-{% include quote.html content=quote user="claire" %}
+{% include quote.html content=quote user="legoues" %}
 
 
 
