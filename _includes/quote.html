@@ -1,0 +1,22 @@
+{% assign author = site.data.people | where:"id", include.user  | first %}
+
+<div class="chat">   
+  <div class="chat-history">
+    <ul class="chat-ul">
+      <li>
+        <div class="message-data align-right">
+          <span class="message-data-name">
+            {{ author.display }}&nbsp;
+            {% if author.avatar %}
+              {% avatar {{ author.avatar }} %}
+            {% endif %}
+          </span>
+        </div>
+        <div class="message {{ author.id }}-message float-right">
+          {{ include.content }}
+        </div>
+        <div class="clearfix"></div>
+      </li>
+    </ul>
+  </div>
+</div>

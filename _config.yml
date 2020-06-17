@@ -22,8 +22,12 @@ comments: false
 # Build settings
 theme: minima
 plugins:
+  - jekyll-avatar
   - jeckyll-last-modified-at
   - jekyll-sitemap
+
+sass:
+  style: compact
 
 # Exclude from processing.
 # The following items will not be processed, by default.

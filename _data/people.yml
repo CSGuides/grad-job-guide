@@ -1,0 +1,13 @@
+- id: weimer
+  display: Wes Weimer
+  avatar: weimer
+  color: "#990033"
+
+- id: claire
+  display: Claire Le Goues
+  avatar: clegoues
+  color: "#0099FF"
+
+- id: zak
+  display: Zak Fry
+  color: "#008000"

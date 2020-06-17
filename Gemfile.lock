@@ -250,6 +250,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-avatar
   jekyll-last-modified-at
   jekyll-sitemap
   minima (~> 2.5)
