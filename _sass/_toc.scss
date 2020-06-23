@@ -1,0 +1,21 @@
+/* css for the sidebar */
+/* https://afeld.github.io/bootstrap-toc/ */
+
+// nav[data-toggle='toc'] {
+//   padding-top: 28px;
+// }
+
+nav[data-toggle='toc'] .nav > li > a:hover,
+nav[data-toggle='toc'] .nav-link.active,
+nav[data-toggle='toc'] .nav-link.active:focus,
+nav[data-toggle='toc'] .nav-link.active:hover,
+nav[data-toggle='toc'] .nav > li > a:focus {
+  color: #007bff;
+  border-left: 1px solid #007bff;
+}
+nav[data-toggle='toc'] .nav > .active > a,
+nav[data-toggle='toc'] .nav > .active:hover > a,
+nav[data-toggle='toc'] .nav > .active:focus > a {
+  color: #007bff;
+  border-left: 2px solid #007bff;
+}

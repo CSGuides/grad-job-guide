@@ -1,0 +1,16 @@
+- id: weimer
+  display: Wes Weimer
+  avatar: weimerw.jpg
+  color: "#990033"
+  timeline: timeline.json
+
+- id: legoues
+  display: Claire Le Goues
+  avatar: claire.jpg
+  color: "#0099FF"
+  timeline: timeline.json
+
+- id: fry
+  avatar: zak.jpeg
+  display: Zak Fry
+  color: "#008000"

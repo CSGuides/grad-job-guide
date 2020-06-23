@@ -1,0 +1,147 @@
+[
+  {
+    "cycle": "2004-2005",
+    "events": [
+      {
+        "date": "Jan 11",
+        "description": "IBM Research invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Jan 15",
+        "description": "Purdue invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Jan 27",
+        "description": "McGill invitation to interview. ",
+        "type": "invitation"
+      },
+      {
+        "date": "Jan 31",
+        "description": "Virginia invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Feb 17",
+        "description": "UMass-Amherst ECE invitation to phone interview. ",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Feb 21",
+        "description": "UMass-Amherst ECE phone interview. ",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Feb 22",
+        "description": "UMass-Amherst ECE invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Feb 23-25",
+        "description": "Purdue interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Feb 25",
+        "description": "Microsoft Research invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Mar 01-04",
+        "description": "Virginia interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Mar 7",
+        "description": "Purdue makes an official offer, requires an answer by Mar 22.",
+        "type": "offer"
+      },
+      {
+        "date": "Mar 14",
+        "description": "NYU invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Mar 16-19",
+        "description": "IBM interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Mar 21-23",
+        "description": "McGill interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Mar 23",
+        "description": "Dartmouth rejects me without an interview.",
+        "type": "reject"
+      },
+      {
+        "date": "Mar 23-26",
+        "description": "Microsoft interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Mar 27-29",
+        "description": "UMass-Amherst ECE interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Apr 04",
+        "description": "Wesleyan invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Apr 05-10",
+        "description": "Present paper at conference.",
+        "type": "other"
+      },
+      {
+        "date": "Apr 06",
+        "description": "EPFL and Wisconsin reject me without an interview.",
+        "type": "reject"
+      },
+      {
+        "date": "Apr 12-14",
+        "description": "NYU interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Apr 14-16",
+        "description": "Wesleyan interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Apr 25",
+        "description": "UMass-Amherst ECE makes an official offer, requires an answer by Apr 30.",
+        "type": "offer"
+      },
+      {
+        "date": "Apr 27",
+        "description": "IBM makes an official offer.",
+        "type": "offer"
+      },
+      {
+        "date": "May 09",
+        "description": "Virginia makes an official offer.",
+        "type": "offer"
+      },
+      {
+        "date": "May 14",
+        "description": "NYU makes an official offer. ",
+        "type": "offer"
+      },
+      {
+        "date": "May 31",
+        "description": "MSR rejects me. ",
+        "type": "reject"
+      },
+      {
+        "date": "Jun 02",
+        "description": "Virginia offer accepted.",
+        "type": "accept"
+      }
+    ]
+  }
+]

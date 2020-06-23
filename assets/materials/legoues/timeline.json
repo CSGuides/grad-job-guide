@@ -1,0 +1,187 @@
+[
+  {
+    "cycle": "2012-2013",
+    "events": [
+      {
+        "date": "Early Nov",
+        "description": "Lincoln Labs invitation to interview. ",
+        "type": "invitation"
+      },
+      {
+        "date": "Nov 27-28",
+        "description": "Lincoln Labs interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Jan 10",
+        "description": "Georgia Tech invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Jan 18",
+        "description": "UNM phone interview.",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Jan 22",
+        "description": "UNM invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Jan 28",
+        "description": "NCSU invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Jan 30",
+        "description": "GMU phone interview invite.",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Feb 8",
+        "description": "UIUC invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Feb 11-13",
+        "description": "UNM interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Feb 12",
+        "description": "Iowa State invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Feb 13",
+        "description": "WUSTL invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Feb 14",
+        "description": "Waterloo invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Feb 18-20",
+        "description": "Georgia Tech interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Feb 14",
+        "description": "Lincoln Labs makes an official offer. (Lincoln expressly deferred making an offer to try to line up with the academic interview timeline.)",
+        "type": "offer"
+      },
+      {
+        "date": "Feb 14",
+        "description": "GMU invitation to interview.",
+        "type": "invitation"
+      },
+      {
+        "date": "Feb 22",
+        "description": "Initial UNM offer, eventually requires a decision by Mar 25.",
+        "type": "offer"
+      },
+      {
+        "date": "Feb 21-23",
+        "description": "NCSU interview.",
+        "type": "interview"
+      },
+      {
+        "date": "Feb 27-Mar 1",
+        "description": "UIUC interview",
+        "type": "interview"
+      },
+      {
+        "date": "Mar 5-8",
+        "description": "Waterloo interview",
+        "type": "interview"
+      },
+      {
+        "date": "Mar 8",
+        "description": "NCSU makes an initial offer (eventual deadline: 4/5, not extensible) ",
+        "type": "offer"
+      },
+      {
+        "date": "Mar 19",
+        "description": "I decline my Iowa State interview. ",
+        "type": "decline-interview"
+      },
+      {
+        "date": "Mar 24-25",
+        "description": "GMU interview",
+        "type": "interview"
+      },
+      {
+        "date": "Mar 31-Apr 2",
+        "description": "WUSTL interview",
+        "type": "interview"
+      },
+      {
+        "date": "Apr 5",
+        "description": "I decline Lincoln Labs.",
+        "type": "decline-offer"
+      },
+      {
+        "date": "Apr 5",
+        "description": "CMU invitation to interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Apr 10",
+        "description": "GMU makes an initial offer, eventual deadline of 5/15",
+        "type": "offer"
+      },
+      {
+        "date": "Apr 25",
+        "description": "UIUC makes an official offer, eventually requires a decision by 5/20",
+        "type": "offer"
+      },
+      {
+        "date": "Apr 26",
+        "description": "Waterloo makes an official offer, eventually requires a decision by 5/14, extended to 5/21 and arbitrarily extensible after that. ",
+        "type": "offer"
+      },
+      {
+        "date": "Apr 24-27",
+        "description": "CMU interview",
+        "type": "interview"
+      },
+      {
+        "date": "Apr 30",
+        "description": "WUSTL rejects me. ",
+        "type": "reject"
+      },
+      {
+        "date": "May 2-5",
+        "description": "Waterloo second visit. ",
+        "type": "other"
+      },
+      {
+        "date": "May 7",
+        "description": "I decline GMU.",
+        "type": "decline-offer"
+      },
+      {
+        "date": "May 12-14",
+        "description": "UIUC second visit",
+        "type": "other"
+      },
+      {
+        "date": "May 15",
+        "description": "CMU makes an official offer, though I heard news before then (weekly since my interview) that they were moving forward with my case.  Deadline is May 31. ",
+        "type": "offer"
+      },
+      {
+        "date": "May 13",
+        "description": "Georgia Tech makes an official offer, requires a decision by May 31. ",
+        "type": "offer"
+      },
+      {
+        "date": "May 20",
+        "description": "I accept CMU and turn down remaining offers.",
+        "type": "accept"
+      }
+    ]
+  }
+]

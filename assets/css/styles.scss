@@ -1,0 +1,37 @@
+---
+# this should make it be processed
+---
+
+.site-footer {
+  background-color: #f5f5f5;
+}
+
+.csg-nav {
+  font-size: .9rem;
+}
+
+
+@import "quotes";
+
+{%- for member in site.data.people -%}
+
+.chat .chat-history .{{ member.id }}-message {
+  background: {{ member.color }};
+}
+.chat .chat-history .{{ member.id }}-message:after {
+  border-color: {{ member.color }} transparent;
+    right: 20px;
+    top: -15px;
+    left: auto;
+    bottom:auto;
+}
+
+.{{ member.id }} {
+  color: {{ member.color }};
+}
+
+{%- endfor -%}
+
+@import "timeline";
+
+@import "toc";
