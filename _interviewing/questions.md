@@ -118,4 +118,4 @@ interviews, but I was somewhat surprised at the number and range of technical
 questions asked of me during interviews.  Studying up on common interview topics
 (theory and algorithms, mostly) will only benefit you in the regard.
 {% endcapture %}
-{% include quote.html content=quote user="zak" %}
+{% include quote.html content=quote user="fry" %}

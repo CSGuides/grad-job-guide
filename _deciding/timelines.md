@@ -63,4 +63,4 @@ sentiments that any place that imposes an overly strict deadline may not be
 a fun place to work, unless they are in a very advantageous bargaining
 position.
 {% endcapture %}
-{% include quote.html content=quote user="zak" %}
+{% include quote.html content=quote user="fry" %}

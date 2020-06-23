@@ -51,4 +51,4 @@ you about things (if not, that's a bad sign) and you might find that you
 made hasty, or even incorrect, assumptions in this difficult, emotional
 time.
 {% endcapture %}
-{% include quote.html content=quote user="zak" %}
+{% include quote.html content=quote user="fry" %}

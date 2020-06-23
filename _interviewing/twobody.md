@@ -87,7 +87,7 @@ personable.  There are plenty of tips in, for instance, the business world about
 being personable, but I think people in all industries look for potential
 employees that they think they could work with every day on a personal level.
 {% endcapture %}
-{% include quote.html content=quote user="zak" %}
+{% include quote.html content=quote user="fry" %}
 
 One final note on partners and jobs: emigrating to Canada with a partner appears
 to be pretty trivial, based on Claire's (serious) conversations with Waterloo on

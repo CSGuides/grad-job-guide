@@ -61,7 +61,7 @@ resort.  While I very much appreciate the generosity and honesty of my previous
 advisor, I am glad that I eventually chose someone with a more comprehensive
 knowledge of my most recent work.
 {% endcapture %}
-{% include quote.html content=quote user="zak" %}
+{% include quote.html content=quote user="fry" %}
 
 ### Organizing Things for your Letter Writers
 
