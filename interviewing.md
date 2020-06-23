@@ -4,7 +4,7 @@ title: Interviewing
 description: >-
   After you submit your applications, it's time to think about preparing for 
   interviews.
-permalink: /deciding/
+permalink: /interviewing/
 ---
 
 {% include_relative _interviewing/talk.md %}
