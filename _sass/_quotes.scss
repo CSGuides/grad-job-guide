@@ -1,7 +1,15 @@
-.chat .chat-history {
-  padding: 30px 30px 20px;
-  border-bottom: 2px solid white;
+.thumb {
+  object-fit:scale-down;
+  object-position: center;
+  max-width: 60px;
+  max-height: 60px;
+  margin-bottom: 1rem;
 }
+
+// .chat .chat-history {
+//   padding: 30px 30px 20px;
+//   border-bottom: 2px solid white;
+// }
 .chat .chat-history .message-data {
   margin-bottom: 15px;
 }
@@ -54,17 +62,4 @@ content: "";
 
 .align-right {
   text-align: right;
-}
-
-.float-right {
-  float: right;
-}
-
-.clearfix:after {
-  visibility: hidden;
-  display: block;
-  font-size: 0;
-  content: " ";
-  clear: both;
-  height: 0;
 }
