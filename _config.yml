@@ -16,6 +16,7 @@ baseurl: "/grad-job-guide" # the subpath of your site, e.g. /blog
 url: "https://csguides.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username:  csguides
+google_analytics: UA-170573147-1
 
 repo: https://github.com/csguides/grad-job-guide
 comments: false
