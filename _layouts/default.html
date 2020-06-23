@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" class="h-100">
+
+{% include head.html %}
+
+<body class="d-flex flex-column h-100" data-spy="scroll" data-target="#toc">
+  {% include header.html %}
+  
+  {%- if page.title -%}
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <h1 class="display-4 no-anchor" data-toc-skip>{{ page.title }}</h1>
+      {%- if page.description -%}
+      <p class="lead">
+        {{ page.description }}
+      </p>
+      {%- endif -%}  
+    </div>
+  </div>
+  {%- endif -%}
+  
+  <main class="container flex-shrink-0">
+    
+    <div class="row">
+      <div class="col-md-3 d-none d-md-block" id="sidebar">
+        
+        <nav id="toc" data-toggle="toc" class="sticky-top pt-2" style="z-index:1">
+          {%- if page.nav -%}
+          <h5 class="no-anchor">{{ page.nav }}</h5>
+          {%- elsif page.title -%}
+          <h5 class="no-anchor">{{ page.title }}</h5>
+          {%- endif -%}
+        </nav>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-9" aria-label="Content">
+        {{ content }}
+      </div>
+    </div>
+      
+
+    
+  </main>
+  {% include footer.html %}
+  
+  
+</body>
+
+</html>

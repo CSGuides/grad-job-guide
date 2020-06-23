@@ -1,8 +1,8 @@
-{% for person in site.data.people %}
-{% if person.timeline %}
-{% capture src %}/assets/materials/{{person.id}}/timeline.json{% endcapture %}
-{% assign url = src | relative_url %}
+{%- for person in site.data.people -%}
+{%- if person.timeline -%}
+{%- capture src -%}/assets/materials/{{ person.id | uri_escape }}/timeline.json{%- endcapture -%}
+{%- assign url = src | relative_url -%}
 <div class="guide-timeline" data-src="{{url}}" data-person="{{person.display}}"> 
 </div>
-{% endif %}
-{% endfor %}
+{%- endif -%}
+{%- endfor -%}

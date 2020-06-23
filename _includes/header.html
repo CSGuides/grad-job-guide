@@ -1,0 +1,27 @@
+{%- assign default_paths = site.pages | map: "path" -%}
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+<nav class="navbar navbar-expand-lg navbar-light bg-light csg-nav">
+  <div class="container">
+    <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        {%- for path in page_paths -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title -%}
+          {%- assign link_title = my_page.nav | default: my_page.title -%}
+          <li class="nav-item">
+            <a class="nav-link {% if page.title == my_page.title %}active{% endif %}" href="{{ my_page.url | relative_url }}">{{ link_title | escape }}</a>
+          </li>  
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+    <!-- <form class="form-inline d-none d-lg-inline-block my-2 my-md-0">
+      <input class="form-control mr-sm-2 csg-nav" id="search-input" type="text" placeholder="Search" aria-label="Search">
+    </form> -->
+  </div>
+</nav>

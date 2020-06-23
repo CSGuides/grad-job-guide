@@ -1,4 +1,4 @@
-$( () => {
+
   var tls = $(".guide-timeline");
   $.each(tls, (_, tl) => {
     $.getJSON($(tl).data("src"), (data) => {
@@ -19,4 +19,3 @@ $( () => {
       
     });
   });
-});

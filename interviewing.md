@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Interviewing
 description: What happens after you submit your application
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Deciding
 description: What to consider after receiving a job offer
 ---

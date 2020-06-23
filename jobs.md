@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Finding Jobs
 description: There are various kinds of jobs available to CS grad students
 ---

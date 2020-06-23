@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Preparing Your Application
+nav: Applying
 description: Describes the materials needed for applications as well as some tips for their preparation
 ---
 

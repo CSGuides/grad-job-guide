@@ -21,6 +21,8 @@ better, even though it is at least a little bit fascinating.
 {% endcapture %}
 {% include quote.html content=quote user="legoues" %}
 
+### Example Timelines
+
 Here's (a subset of) several application timelines: 
 
 {% include timeline.html %}
