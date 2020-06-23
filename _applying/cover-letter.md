@@ -1,4 +1,4 @@
-## Cover Letters
+# Cover Letters
 
 The cover letter is the least important element, but if you get it wrong
 your entire application may be mistakenly misfiled and not considered. The

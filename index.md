@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Computer Science Graduate Job and Interview Guide
 ---
 
 # Introduction
@@ -14,6 +15,51 @@ three particular job searches: Wes's search for a programming languages / softwa
 engineering position in the Spring of 2005, Claire's search for the same in
 Spring of 2013, and Zak's search for industrial research positions in 2014. 
 It is structured as a how-to guide for graduate students.
+
+# Navigating This Guide
+
+We have divided this guide into the major stages of a job search: finding jobs,
+preparing your application, interviewing, and finally deciding between offers.
+
+**This guide isn't just for students on the job market!** Even if you are not
+yet on the job market, the portions of this guide focusing on job opportunities
+and application preparation can be particularly helpful. Often, your career
+goals will inform choices you make during your doctoral studies, and thus being
+aware of the kinds of jobs available to you is important.  It an also be
+helpful to know what goes into an application package to help you plan ahead.
+For example, if you are targeting an academic career that emphasizes
+instruction, you might plan for being the primary instructor ("instructor of
+record" at some institutions) while still a doctoral candidate. Conversely if
+you are most interested in a reasearch-focused career, you might instead choose
+to bolster your resume with industrial internships.  It's much better to know 
+what to expect and plan ahead than to regret not doing more.
+
+## [Finding Jobs](jobs.md)
+
+As you begin your search, you will first want to think about the types of jobs
+that appeal to you.  We discuss various job opportunities in computer science
+for students earning doctoral degrees.  Then we give pointers for discovering
+open searches and how to read job postings.
+
+## [Preparing Your Application](applying.md)
+
+Applications are reasonably uniform across academic institutions, and my aspects
+of an academic application apply to industrial reasearch as well.  In addition
+to providing some high-level guidance to get you started with your application
+materials, we also provide concrete examples of materials from successful
+searches.
+
+## [Interviewing](interviewing.md)
+
+We discuss common activities for interviews and give some hints on questions to
+prepare (both to answer and to ask).
+
+## [Making a Decision](deciding.md)
+
+Once you have reached the stage of considering job offers, it's time to decide.
+We discuss handling overlapping deadlines and negotiating your salary and
+startup. We also offer words of encouragement as you consider which offer to
+accept.
 
 # Trivia
 
@@ -55,3 +101,5 @@ ask the lady if she wants something to drink first.
 - Silver Rule: never say anything mean about anyone, especially not your current
 institution or other institutions at which you are interviewing.  This rule
 applies even if your current institution is legitimately dysfunctional.
+
+{% include_relative _about/about.md %}

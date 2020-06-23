@@ -2,7 +2,10 @@
 layout: default
 title: Preparing Your Application
 nav: Applying
-description: Describes the materials needed for applications as well as some tips for their preparation
+description: >-
+  This portion of the guide describes the materials needed for applications as 
+  well as some tips for their preparation.
+permalink: /applying/
 ---
 
 Your application will almost invariably consist of a resume, a teaching

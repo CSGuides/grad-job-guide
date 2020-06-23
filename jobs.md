@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Finding Jobs
-description: There are various kinds of jobs available to CS grad students
+description: >-
+  Learn about job opportunities, where to find open searches, and
+  how to read postings.
+permalink: /jobs/
 ---
 
 {% include_relative _jobs/general.md %}

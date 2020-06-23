@@ -1,4 +1,4 @@
-## Deadlines and Hard-Sell Tactics
+# Deadlines and Hard-Sell Tactics
 
 Official offers will often come with deadlines, especially if you are the
 institution's current first choice but they have others "in line" in case you

@@ -1,4 +1,4 @@
-## Research Area and Where to Apply
+# Research Area and Where to Apply
 
 All of the job postings you find in academia will use basically the same
 boilerplate ad copy (e.g., "we encourage all qualified applicants from all

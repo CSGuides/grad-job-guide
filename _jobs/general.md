@@ -1,4 +1,4 @@
-## Where to Apply in General
+# Where to Apply in General
 
 If you plan to be doing your job search interviews in the Spring of Year X
 you must submit applications in the Fall of Year X-1 (or by January 15-ish

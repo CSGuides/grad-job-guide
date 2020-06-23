@@ -1,4 +1,4 @@
-## Interview Visits
+# Interview Visits
 
 A typical interview is 1.5 days long, depending largely on the size of the
 department (bigger department=more people to meet=longer

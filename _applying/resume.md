@@ -1,4 +1,4 @@
-## Resume
+# Resume
 
 Resume-writing is well-established, although many of the standard
 techniques aren't as applicable at this level (e.g., it is our personal

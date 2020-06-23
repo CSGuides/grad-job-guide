@@ -1,4 +1,4 @@
-## Letters of Recommendation
+# Letters of Recommendation
 
 You will need four letters of recommendation, one of which will come from
 your advisor. The typical dilemma here involves finding the other three. 
@@ -63,7 +63,7 @@ knowledge of my most recent work.
 {% endcapture %}
 {% include quote.html content=quote user="fry" %}
 
-### Organizing Things for your Letter Writers
+## Organizing Things for your Letter Writers
 
 The standard practice these days is to make a web page or chart listing all of
 the places to which letters must be sent as well as the due dates. 

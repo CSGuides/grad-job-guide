@@ -1,4 +1,4 @@
-## Deciding
+# Deciding
 
 If you're having a hard time deciding, it's quite legitimate to go on a second
 visit (or two).  Claire found these quite informative.  She and her partner went

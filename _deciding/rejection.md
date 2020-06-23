@@ -1,4 +1,4 @@
-## Dealing With Rejection
+# Dealing With Rejection
 
 After you have had an interview with a place there are basically only two
 reasons for them to reject you. 

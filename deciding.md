@@ -1,7 +1,11 @@
 ---
 layout: default
-title: Deciding
-description: What to consider after receiving a job offer
+title: Deciding Between Offers
+nav: Deciding
+description: >-
+  Congratulations on your offer!  Here are some things to consider after 
+  receiving a job offer.
+permalink: /deciding/
 ---
 
 {% include_relative _deciding/timelines.md %}

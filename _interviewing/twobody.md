@@ -1,4 +1,4 @@
-## Dual-Career Couples/Divulging Your Partnered Status
+# Dual-Career Couples/Divulging Your Partnered Status
 
 Context: Wes was single when he was on the market; Claire had a partner who was
 planning to move with her and find a job in the software industry.  Wes

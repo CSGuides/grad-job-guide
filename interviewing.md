@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Interviewing
-description: What happens after you submit your application
+description: >-
+  After you submit your applications, it's time to think about preparing for 
+  interviews.
+permalink: /deciding/
 ---
 
 {% include_relative _interviewing/talk.md %}

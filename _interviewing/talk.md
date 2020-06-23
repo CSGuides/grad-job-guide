@@ -1,4 +1,4 @@
-## Preparing Your Job Talk
+# Preparing Your Job Talk
 
 Make sure that you schedule a practice job talk of some sort, if only with your
 local research group. Everyone else will be able to give you advice on it. Make

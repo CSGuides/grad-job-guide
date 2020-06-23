@@ -1,4 +1,4 @@
-## Preparing Your Research and Teaching statements
+# Preparing Your Research and Teaching statements
 
 The traditional approach here is to craft your research statement by
 summarizing your thesis proposal and to craft your teaching statements by
@@ -46,8 +46,8 @@ time because your own draft efforts will invariably sound stupid to you.
 Aside from asking your friends to show you their statements, a good way to
 get these things is to download them one year early. Almost everyone puts
 their job application materials up on their web page when they are applying
-for a job. In May/June, Googling for <tt>programming languages "teaching
-statement"</tt> yields hundreds of results. Just download some and save
+for a job. In May/June, Googling for `programming languages "teaching
+statement"` yields hundreds of results. Just download some and save
 them. Of course, if you get random people from the Internet you probably
 won't have heard of them and thus won't know if they are good or bad
 examples. So try to soak up all of the documents from people in your

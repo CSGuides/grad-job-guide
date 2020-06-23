@@ -1,4 +1,4 @@
-## Interview Questions
+# Interview Questions
 
 The majority of the interview is made up of one-on-one sessions between you and
 an elder researcher you've never met before. Expect the worst-case scenario: you

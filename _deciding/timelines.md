@@ -1,4 +1,4 @@
-## The Waiting Game
+# The Waiting Game
 
 You probably submitted your materials in the middle of December. However, you
 won't really hear anything from anyone until at least the middle of January when
@@ -21,7 +21,7 @@ better, even though it is at least a little bit fascinating.
 {% endcapture %}
 {% include quote.html content=quote user="legoues" %}
 
-### Example Timelines
+## Example Timelines
 
 Here's (a subset of) several application timelines: 
 
@@ -40,8 +40,8 @@ There are a few things to notice about these otherwise-boring timelines:
 - Many <font color="green">official offers</font> will require answers before
   you have heard all of your offers, conducted all of your interviews (such as
   Purdue for Wes or NC State or UNM for Claire), or even received all of your
-  interview invitations.  CMU called to invite Claire to interview <i>after she
-  had concluded what she thought was her last interview (WUSTL).</i>  You may be
+  interview invitations.  CMU called to invite Claire to interview *after she
+  had concluded what she thought was her last interview (WUSTL).*  You may be
   forced into the uncomfortable position of rejecting a "known good" offer in
   favor of only the potential of a better offer later.  This can be scary, and if
   you get the one job you really want you should take it, but Claire notes the

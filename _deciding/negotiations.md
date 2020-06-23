@@ -1,4 +1,4 @@
-## Salary and Startup Negotiations
+# Salary and Startup Negotiations
 
 At some point someone will make you an official offer. This will include
 your nine-month salary and a startup package. The startup package should
