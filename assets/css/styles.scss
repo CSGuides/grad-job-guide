@@ -14,6 +14,7 @@
 @import "quotes";
 
 {%- for member in site.data.people -%}
+{%- if member.color -%}
 
 .chat .chat-history .{{ member.id }}-message {
   background: {{ member.color }};
@@ -29,7 +30,7 @@
 .{{ member.id }} {
   color: {{ member.color }};
 }
-
+{%- endif -%}
 {%- endfor -%}
 
 @import "timeline";
