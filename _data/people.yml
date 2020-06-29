@@ -1,16 +1,144 @@
+# This file contains configuration information for each dossier hosted on the
+# grad job guide.  
+# 
+# Materials should be placed under `assets/materials/<id>`
+# where <id> is a unique identifier for each contributor.  We recommend using
+# your last name as the id, but in the case of conflicts, additional information
+# (e.g., first initial) may be necessary.
+# 
+# Please only submit PDF documents
+
+######################################
+#           Dossier Fields           #
+######################################
+#
+# Per standard YAML syntax, each dossier begins with a hyphen (-) to denote an
+# item in the list.  Indented under this hyphen are the following fields
+# 
+# ** Required **
+# 
+# id: unique identifier (typically last name); must be the same as the assets
+#     directory
+# display: the name that should appear on the guide's pages
+# employer: current employer
+# 
+# ** Optional **
+# *note* that these are all realative to `assets/materials/<id>`
+# 
+# cycle: Academic year of the job search (e.g., Wes is 2004-2005)
+# target: a comma-separated list of job target tags.  Please choose from the
+#         following: 
+#         - research: research academia
+#         - teaching: teaching academia (e.g., lecturer, professor of practice)
+#         - slac: small liberal arts colleges
+#         - industry: industrial research or development
+#         - postdoc: postdoctoral researcher
+# timeline: name of json file containing interview timeline
+# resume: a list of resume files; each item contains upt to two pieces:
+#   file: the file name of the resume
+#   description: (optional) text displayed on the guide describing this item
+# research: a list of research statements (see resume)
+# teaching: a list of research statements (see resume)
+# diversity: a list of diversity statements (see resume)
+# cover: a list of cover letters (see resume)
+# 
+# *note* only include multiple statements if there is something noticably 
+#        different that you wish to draw attention to
+
+#####################################
+#           Author Fields           #
+#####################################
+#
+# Authors have a few extra fields for configuration:
+# avatar: image file for use in quotes
+# color: color of the speech bubble
+
+# Authors (with dossiers)
+
 - id: weimer
   display: Wes Weimer
+  employer: University of Michigan
   avatar: weimerw.jpg
   color: "#990033"
+  cycle: "2004-2005"
   timeline: timeline.json
-
+  resume:
+    - file: weimer-resume.pdf
+  research:
+    - file: weimer-research.pdf
+  teaching:
+    - file: weimer-teaching.pdf
+  cover:
+    - file: weimer-cover-letter.pdf
+      description: Generic
+    - file: weimer-cover-letter-umass.pdf
+      description: UMass-Amherst, including job search number
+      
 - id: legoues
   display: Claire Le Goues
+  employer: Carnegie Mellon University
   avatar: claire.jpg
   color: "#0099FF"
+  cycle: "2012-2013"
   timeline: timeline.json
+  resume:
+    - file: legoues-cv.pdf
+  research:
+    - file: legoues-research-statement.pdf
+  teaching:
+    - file: legoues-teaching-statement.pdf
+  
 
 - id: fry
-  avatar: zak.jpeg
   display: Zak Fry
+  employer: GrammaTech
+  avatar: zak.jpeg
   color: "#008000"
+  cycle: "2013-2014"
+  resume:
+    - file: fry-cv.pdf
+  research:
+    - file: ZakFry_ResearchStatement.pdf
+
+################################################################################
+# Dossiers begin here (add to end of list)
+
+- id: begel
+  display: Andy Begel
+  employer: Microsoft Research
+  resume:
+    - file: begel-cv.pdf
+  research:
+    - file: begel-research.pdf
+  teaching:
+    - file: begel-teaching.pdf
+
+- id: jhala
+  display: Ranjit Jhala
+  employer: UCSD
+  research:
+    - file: Jhala-Research.pdf
+  teaching:
+    - file: Jhala-Teaching.pdf
+  cover:
+    - file: rj-cover-generic3.pdf
+
+- id: lerner
+  display: Sorin Lerner
+  employer: UCSD
+  resume:
+    - file: lerner-cv.pdf
+  research:
+    - file: lerner-research.pdf
+  teaching:
+    - file: lerner-teaching.pdf
+
+- id: whaley
+  display: John Whaley
+  employer: UnifyID
+  resume:
+    - file: whaley-cv.pdf
+  research:
+    - file: whaley-research.pdf
+  teaching:
+    - file: whaley-teaching.pdf

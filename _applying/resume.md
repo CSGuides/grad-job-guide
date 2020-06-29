@@ -1,4 +1,4 @@
-# Resume
+# Preparing Your Resume
 
 Resume-writing is well-established, although many of the standard
 techniques aren't as applicable at this level (e.g., it is our personal
@@ -35,12 +35,16 @@ Anyway, here are our resumes from when we were applying, which again serve
 largely as a lower-bound on required content and style. Also included are a
 few other examples. 
 
-- [Andy Begel Resume](assets/materials/begel/begel-cv.pdf)
-- [Claire Le Goues Resume](assets/materials/legoues/legoues-cv.pdf)
-- [Sorin Lerner Resume](assets/materials/lerner/lerner-cv.pdf)
-- [Weimer Resume](assets/materials/weimer/weimer-resume.pdf)
-- [John Whaley Resume](assets/materials/whaley/whaley-cv.pdf)
-- [Zak Fry Resume](assets/materials/fry/fry-cv.pdf)
+{% if site.data.people %}
+{% assign sorted_id = site.data.people | sort: 'id' %}
+{%- for dossier in sorted_id -%}
+{% for item in dossier.resume %}
+{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
+{%- assign url = src | relative_url -%}
+- [{{dossier.display}} Resume {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
+{% endfor %}
+{%- endfor -%}
+{% endif %}
 
 Note that if you are applying for any sort of teaching job (e.g., top-tier
 teaching academia, small liberal arts college, instructor position) your

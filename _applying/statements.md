@@ -5,20 +5,27 @@ summarizing your thesis proposal and to craft your teaching statements by
 looking at what others have written and fumbling around. Here are some
 concrete examples:
 
-- [Andy Begel Research Statement](assets/materials/begel/begel-research.pdf)
-- [Ranjit Jhala Research Statement](assets/materials/jhala/Jhala-Research.pdf)
-- [Claire Le Goues Research Statement](assets/materials/legoues/legoues-research-statement.pdf)
-- [Sorin Lerner Research Statement](assets/materials/lerner/lerner-research.pdf)
-- [Weimer Research Statement](assets/materials/weimer/weimer-research.pdf)
-- [John Whaley Research Statement](assets/materials/whaley/whaley-research.pdf)
-- [Zak Fry Research Statement](assets/materials/fry/ZakFry_ResearchStatement.pdf)
+{% if site.data.people %}
+{% assign sorted_id = site.data.people | sort: 'id' %}
+{%- for dossier in sorted_id -%}
+{% for item in dossier.research %}
+{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
+{%- assign url = src | relative_url -%}
+- [{{dossier.display}} Research Statement {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
+{% endfor %}
+{%- endfor -%}
+{% endif %}
 
-- [Andy Begel Teaching Statement](assets/materials/begel/begel-teaching.pdf)
-- [Claire Le Goues Teaching Statement](assets/materials/legoues/legoues-teaching-statement.pdf)
-- [Sorin Lerner Teaching Statement](assets/materials/lerner/lerner-teaching.pdf)
-- [Ranjit Jhala Teaching Statement](assets/materials/jhala/Jhala-Teaching.pdf)
-- [Weimer Teaching Statement](assets/materials/weimer/weimer-teaching.pdf)
-- [John Whaley Teaching Statement](assets/materials/whaley/whaley-teaching.pdf)
+{% if site.data.people %}
+{% assign sorted_id = site.data.people | sort: 'id' %}
+{%- for dossier in sorted_id -%}
+{% for item in dossier.teaching %}
+{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
+{%- assign url = src | relative_url -%}
+- [{{dossier.display}} Teaching Statement {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
+{% endfor %}
+{%- endfor -%}
+{% endif %}
 
 References aren't required in a research statement, but they don't hurt if
 you feel better with them (or if you have a bunch of publications and want
