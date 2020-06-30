@@ -108,6 +108,24 @@
   cycle: "2019-2020"
   timeline: timeline.json
   target: research, teaching, slac
+  resume:
+    - file: angstadt-cv-f2019.pdf
+      description: Organized for a teaching-focused application
+  research:
+    - file: angstadt-research-statement.pdf
+      description: Targets an undergraduate-serving institution
+  teaching:
+    - file: angstadt-teaching-philosophy.pdf
+      description: Long-format more suitable for teaching-focused positions
+    - file: angstadt-teaching-diversity-philosophy.pdf
+      description: Includes brief diversity statement
+    - file: angstadt-teaching-philosophy-grad.pdf
+      description: Short-format used for research-focused positions
+  diversity:
+    - file: angstadt-diversity-statement.pdf
+  cover:
+    - file: angstadt-bowdoin-cover-letter.pdf
+      description: Bowdoin College, organized for teaching-focused job posting
 
 ################################################################################
 # Dossiers begin here (add to end of list)
