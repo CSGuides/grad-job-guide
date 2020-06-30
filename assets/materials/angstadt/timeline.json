@@ -1,0 +1,287 @@
+[
+  {
+    "cycle": "2019-2020",
+    "events": [
+      {
+        "date": "Oct 17",
+        "description": "Macalester College phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Oct 23",
+        "description": "Macalester College phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Oct 28",
+        "description": "Bowdoin College phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Oct 29",
+        "description": "Grinnell College phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Oct 30",
+        "description": "Bowdoin College phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Oct 31",
+        "description": "Macalester College invitation to interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Nov 1",
+        "description": "Muhlenberg College phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Nov 5",
+        "description": "St. Lawrence University phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Nov 6",
+        "description": "Grinnell College phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Nov 6",
+        "description": "Muhlenberg College phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Nov 6",
+        "description": "St. Lawrence University phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Nov 6",
+        "description": "Franklin & Marshall College phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Nov 7",
+        "description": "St. Lawrence University invitation to interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Nov 10",
+        "description": "Amherst College invitation to interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Nov 12-16",
+        "description": "Macalester College interview",
+        "type": "interview"
+      },
+      {
+        "date": "Nov 13",
+        "description": "Grinnell College invitation to interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Nov 14",
+        "description": "Franklin & Marshall College phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Nov 14",
+        "description": "Wellesley College phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Nov 15",
+        "description": "Bowdoin College invitation to interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Nov 17",
+        "description": "Wellesley College phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Nov 19-20",
+        "description": "St. Lawrence University interview",
+        "type": "interview"
+      },
+      {
+        "date": "Nov 20",
+        "description": "Franklin & Marshall College invitation to interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Nov 22",
+        "description": "Wellesley College invitation to interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Nov 23",
+        "description": "I decline my F&M interview",
+        "type": "decline-interview"
+      },
+      {
+        "date": "Nov 25-26",
+        "description": "Grinnell College interview",
+        "type": "interview"
+      },
+      {
+        "date": "Nov 27",
+        "description": "St. Lawrence informs me that they well be making an official offer",
+        "type": "other"
+      },
+      {
+        "date": "Dec 1",
+        "description": "Bucknell University phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Dec 2",
+        "description": "Carleton College phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Dec 3",
+        "description": "Bridgewater State University phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Dec 4",
+        "description": "Muhlenberg College interview",
+        "type": "interview"
+      },
+      {
+        "date": "Dec 4",
+        "description": "Middlebury College phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Dec 4",
+        "description": "St. Lawrence makes official offer, eventually requiring a decision by 1/13",
+        "type": "offer"
+      },
+      {
+        "date": "Dec 6",
+        "description": "Muhlenberg makes official offer, requires decision by 12/9 and will not extend",
+        "type": "offer"
+      },
+      {
+        "date": "Dec 6-7",
+        "description": "Bowdoin College interview",
+        "type": "interview"
+      },
+      {
+        "date": "Dec 7",
+        "description": "Colgate University phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Dec 8",
+        "description": "I decline the offer from Muhlenberg",
+        "type": "decline-offer"
+      },
+      {
+        "date": "Dec 9",
+        "description": "Middlebury College phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Dec 10",
+        "description": "Amherst College interview",
+        "type": "interview"
+      },
+      {
+        "date": "Dec 10",
+        "description": "ASU phone interview invite",
+        "type": "phone-invitation"
+      },
+      {
+        "date": "Dec 11",
+        "description": "Middlebury College invitation to interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Dec 11",
+        "description": "I decline my Middlebury interview",
+        "type": "decline-interview"
+      },
+      {
+        "date": "Dec 12",
+        "description": "Wellesley College interview",
+        "type": "interview"
+      },
+      {
+        "date": "Dec 12",
+        "description": "Carleton College phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Dec 13",
+        "description": "Bucknell University phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Dec 13",
+        "description": "Carleton College invitation to interview",
+        "type": "invitation"
+      },
+      {
+        "date": "Dec 13",
+        "description": "I decline my Carelton interview",
+        "type": "decline-interview"
+      },
+      {
+        "date": "Dec 13",
+        "description": "I decline my BSU phone interview",
+        "type": "decline-interview"
+      },
+      {
+        "date": "Dec 13",
+        "description": "Swarthmore asks if I'm still interested in interviewing",
+        "type": "other"
+      },
+      {
+        "date": "Dec 13",
+        "description": "ASU phone interview",
+        "type": "phone-interview"
+      },
+      {
+        "date": "Dec 13",
+        "description": "Bowdoin makes official offer, eventually requires decision by 12/23",
+        "type": "offer"
+      },
+      {
+        "date": "Dec 13",
+        "description": "Macalester makes official offer, eventually requiring a decision by 12/23",
+        "type": "offer"
+      },
+      {
+        "date": "Dec 13",
+        "description": "Wellesley makes official offer, eventually requiring a decision by 12/23",
+        "type": "offer"
+      },
+      {
+        "date": "Dec 15",
+        "description": "I withdraw from the search at Swarthmore",
+        "type": "decline-interview"
+      },
+      {
+        "date": "Dec 16",
+        "description": "I withdraw from the search at Bucknell",
+        "type": "decline-interview"
+      },
+      {
+        "date": "Dec 20",
+        "description": "Grinnell makes official offer, eventually requiring a decision by 12/27",
+        "type": "offer"
+      },
+      {
+        "date": "Dec 23",
+        "description": "I accept St. Lawrence and turn down all remaining offers",
+        "type": "accept"
+      }
+    ]
+  }
+]
