@@ -8,7 +8,7 @@ task :test do
     :check_favicon => true,
     :external_only => true,
     :only_4xx => true,
-    :file_ignore => [ 'assets/materials/**/*.html' ],
+    :file_ignore => [ '/assets/materials/' ],
     :url_ignore => [  ],
     :url_swap => { %r{https://csguides.github.io} => '' },
     :typhoeus => {
