@@ -30,7 +30,7 @@ helpful to know what goes into an application package to help you plan ahead.
 For example, if you are targeting an academic career that emphasizes
 instruction, you might plan for being the primary instructor ("instructor of
 record" at some institutions) while still a doctoral candidate. Conversely if
-you are most interested in a reasearch-focused career, you might instead choose
+you are most interested in a research-focused career, you might instead choose
 to bolster your resume with industrial internships.  It's much better to know 
 what to expect and plan ahead than to regret not doing more.
 
@@ -44,7 +44,7 @@ open searches and how to read job postings.
 ## [Preparing Your Application](applying.md)
 
 Applications are reasonably uniform across academic institutions, and my aspects
-of an academic application apply to industrial reasearch as well.  In addition
+of an academic application apply to industrial research as well.  In addition
 to providing some high-level guidance to get you started with your application
 materials, we also provide concrete examples of materials from successful
 searches.
