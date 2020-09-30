@@ -16,7 +16,7 @@ accurate. Selecting them all does not help you.)
 
 If someone on the inside told you to apply, mention that in your cover letter.
 
-Here are concrete examples (though note that note all of these include content
+Here are concrete examples (though note that not all of these include content
 on research area, as suggested above):
 
 {% if site.data.people %}
