@@ -39,7 +39,7 @@ his isn't, that gives you a good idea for how low the bar is set if you
 want to do something personal with your teaching statement. Being
 yourself is still key, however. Not everyone should go for a teaching
 statement in which they claim not to be nice. Andy Begel's emphasis on
-education results in something of an upper bound on teaching statement
+education results is something of an upper bound on teaching statement
 impressiveness (unless you're actually in CS education), and a statement
 like his would fit in well if you're aiming for a teaching job. 
 
