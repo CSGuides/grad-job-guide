@@ -25,7 +25,7 @@ preparing your application, interviewing, and finally deciding between offers.
 yet on the job market, the portions of this guide focusing on job opportunities
 and application preparation can be particularly helpful. Often, your career
 goals will inform choices you make during your doctoral studies, and thus being
-aware of the kinds of jobs available to you is important.  It an also be
+aware of the kinds of jobs available to you is important.  It can also be
 helpful to know what goes into an application package to help you plan ahead.
 For example, if you are targeting an academic career that emphasizes
 instruction, you might plan for being the primary instructor ("instructor of

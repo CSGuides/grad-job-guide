@@ -1,6 +1,6 @@
 # Where To Apply In Particular
 
-Now that you know the sorts of jobs you're looking for you still have to find
+Now that you know the sorts of jobs you're looking for, you still have to find
 actual jobs to apply for. Here are some approaches:
 
 - **Word of Mouth**: If you mention that you'll be on the job market,
