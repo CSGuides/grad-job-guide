@@ -85,7 +85,7 @@ in which case they will contact your letter-writers directly.
 Loosely, your letter-writers will write the letters a day or two before the
 first one is due and then send them all out.
 
-[You can see Wes's letter-writer chart here.](assets/materials/weimer/list.html)
+[You can see Wes's letter-writer chart here.]({{ "/assets/materials/weimer/list.html" | relative_url }})
 It's not perfect and I'm sure you could improve on the format but no
 one complained. It should also give you an idea of how the due dates vary
 between top-tier teaching-ish schools (e.g., Oberlin at November 19) and
