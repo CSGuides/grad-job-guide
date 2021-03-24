@@ -30,7 +30,7 @@ actually a number of choices:
   take a good idea from concept to product with all of the steps along the
   way (e.g., documentation, testing, shipping, marketing). Advice we've
   received suggests that this is actually very rewarding and that "right out
-  of school" is a not a bad time to try it. 
+  of school" is not a bad time to try it. 
 
 - **Non-US US-Like Research Academia**: This includes McGill, Toronto,
   Waterloo, and UBC in Canada; EPFL in Switzerland; University College London
@@ -127,12 +127,12 @@ actually a number of choices:
   qualified candidates to take post-docs and try again later.  It then became more
   difficult for fresh PhDs to compete with such buffed CVs. That said, it is
   still possible (as of 2013) to acquire a tenure-track faculty position in SE or
-  Systems without a completing a post-doc first.  Post-doc positions typically use
+  Systems without completing a post-doc first.  Post-doc positions typically use
   the same calendar as Research Academia, possibly offset slightly and with less
   strict deadlines (many people conduct a faculty search first before looking for
   a post-doc position).  Taking a post-doc gives you time to flesh out your resume
   with additional publications. On the other hand, if you have taken a post-doc
-  people will expect you resume to be flush with publications. The typical advice
+  people will expect your resume to be flush with publications. The typical advice
   is that if you can possibly get a job without getting a post-doc, just get the
   job.
 
