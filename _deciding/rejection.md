@@ -55,3 +55,14 @@ schools and chairs were very straightforward with my position on their
 "list" and the likelihood of an offer.
 {% endcapture %}
 {% include quote.html content=quote user="legoues" %}
+
+{% capture quote %}
+I found chairs to be fairly straightforward, especially in light of a
+dual-career search.  
+
+While most institutions would notify us together of decisions affecting
+the other, I did find that some institutions would
+transitively notify one body of another's decision.  That is, I had to hear
+from my wife that both our applications were rejected, and vice versa.
+{% endcapture %}
+{% include quote.html content=quote user="kleach" %}

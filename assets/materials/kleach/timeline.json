@@ -1,0 +1,172 @@
+[
+    {
+        "cycle": "2020-2021",
+        "events": [
+            { 
+              "date": "Dec 3",
+              "description": "University A phone interview invitation",
+              "type": "phone-invitation"
+            },
+            {
+              "date": "Dec 4",
+              "description": "University A phone interview",
+              "type": "phone-interview"
+            },
+            {
+              "date": "Dec 8",
+              "description": "University B Phone Interview invitation",
+              "type": "phone-invitation"
+            },
+            {
+              "date": "Dec 16",
+              "description": "University A Full interview invitation",
+              "type": "interview-invitation"
+            },
+            {
+              "date": "Jan 7",
+              "description": "University C full interview invitation (teaching)",
+              "type": "interview-invitation"
+            },
+            {
+              "date": "Dec 23",
+              "description": "Vanderbilt University phone interview invitation",
+              "type": "phone-invitation"
+            },
+            {
+              "date": "Dec 29",
+              "description": "Vanderbilt University phone interview",
+              "type": "phone-interview"
+            },
+            {
+              "date": "Feb 4",
+              "description": "University D phone interview",
+              "type": "phone-interview"
+            },
+            {
+              "date": "Jan 16",
+              "description": "Vanderbilt University full interview invitation",
+              "type": "invitation"
+            },
+            {
+              "date": "Mar 4",
+              "description": "University E full interview invitation",
+              "type": "invitation"
+            },
+            {
+              "date": "Feb 10",
+              "description": "University D full interview invitation",
+              "type": "invitation"
+            },
+            {
+              "date": "Feb 18",
+              "description": "University F full interview invitation",
+              "type": "invitation"
+            },
+            {
+              "date": "Jan 8",
+              "description": "University A full interview",
+              "type": "interview"
+            },
+            {
+              "date": "Jan 28",
+              "description": "University C full interview (teaching)",
+              "type": "interview"
+            },
+            {
+              "date": "Jan 29",
+              "description": "University B full interview",
+              "type": "interview"
+            },
+            {
+              "date": "Feb 11",
+              "description": "Vanderbilt University full interview",
+              "type": "interview"
+            },
+            {
+              "date": "Feb 15",
+              "description": "University G full interview (teaching)",
+              "type": "interview"
+            },
+            {
+              "date": "Feb 18",
+              "description": "University H full interview",
+              "type": "interview"
+            },
+            {
+              "date": "Feb 22",
+              "description": "University I phone interview",
+              "type": "phone-interview"
+            },
+            {
+              "date": "Feb 24",
+              "description": "University J phone interview",
+              "type": "phone-interview"
+            },
+            {
+              "date": "Feb 24",
+              "description": "University K phone interview",
+              "type": "phone-interview"
+            },
+            {
+              "date": "Feb 25",
+              "description": "University L full interview (teaching)",
+              "type": "interview"
+            },
+            {
+              "date": "Feb 26",
+              "description": "University F full interview",
+              "type": "interview"
+            },
+            {
+              "date": "Mar 11",
+              "description": "University M full interview",
+              "type": "interview"
+            },
+            {
+              "date": "Mar 19",
+              "description": "University E full interview (teaching)",
+              "type": "interview"
+            },
+            {
+              "date": "Jan 27",
+              "description": "Teaching-track offer from University A (no formal deadline)",
+              "type": "offer"
+            },
+            {
+              "date": "Feb 9",
+              "description": "Tenure-track offer from University B (no formal deadline)",
+              "type": "offer"
+            },
+            {
+              "date": "Mar 3",
+              "description": "Tenure-track offer from Vanderbilt University (original deadline March 15, extended to April 6)",
+              "type": "offer"
+            },
+            {
+              "date": "Mar 8",
+              "description": "Tenure-track offer from University H (deadline March 15)",
+              "type": "offer"
+            },
+            {
+              "date": "Mar 24",
+              "description": "Tenure-track offer from University M (no formal deadline)",
+              "type": "offer"
+            },
+            {
+              "date": "Apr 1",
+              "description": "Teaching-track offer from University G (no formal deadline)",
+              "type": "offer"
+            },
+            {
+              "date": "Apr 1",
+              "description": "Teaching-track offer from University C (no formal deadline)",
+              "type": "offer"
+            },
+            {
+              "date": "Apr 6",
+              "description": "Teaching-track offer from University E",
+              "type": "offer"
+            }
+        ]
+    }
+]

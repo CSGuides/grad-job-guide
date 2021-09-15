@@ -52,3 +52,17 @@ made hasty, or even incorrect, assumptions in this difficult, emotional
 time.
 {% endcapture %}
 {% include quote.html content=quote user="fry" %}
+
+{% capture quote %}
+Having a dual-career situation made this really difficult.  In addition,
+all of our interviews were remote during COVID-19, and we only visited one
+place in-person.  My advice is to visit places multiple times if
+possible (you can also negotiate for extensions on offers if you ask to
+visit again in person, though this may be a bigger ask post-COVID). 
+
+We tried to characterize what we wanted both together and
+separately. Clear communication is key -- we had to eliminate offers
+that were not good for both of us even though they were optimal for one
+of us. 
+{% endcapture %}
+{% include quote.html content=quote user="kleach" %}

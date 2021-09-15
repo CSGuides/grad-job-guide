@@ -31,6 +31,13 @@ mention his research statement.  Claire had similar experiences, but notes that
 at at least two schools, at least one interviewer had read at least one of her
 publications before sitting down with her.
 
+Kevin Leach had applied to jobs as a "cross-disciplinary" researcher
+with a few years of postdoctoral experience.
+This led to a complicated list of publications and grants. 
+KL found it helpful to have summaries at the top of each section to
+highlight which venues were relevant to which areas, which classes KL had
+taught, and which grants were received at each institution.
+
 Anyway, here are our resumes from when we were applying, which again serve
 largely as a lower-bound on required content and style. Also included are a
 few other examples. 
