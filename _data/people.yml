@@ -127,6 +127,29 @@
     - file: angstadt-bowdoin-cover-letter.pdf
       description: Bowdoin College, organized for teaching-focused job posting
 
+- id: kleach
+  display: Kevin Leach
+  emloyer: Vanderbilt University
+  avatar: kleach.jpg
+  color: "#ff9933"  
+  cycle: "2020-2021"
+  timeline: timeline.json
+  target: research, teaching
+  resume:
+    - file: kleach-cv-2020.pdf
+      description: Organized for a tenure-track position.  I used this both for teaching- and tenure-track positions.
+  research:
+    - file: kleach-research-statement.pdf
+      description: Tenure-track research statement.
+  teaching:
+    - file: kleach-teaching-statement.pdf
+      description: Two pages, plus a table of teaching at the end.  I spent a good deal of postdoc time teaching.
+  diversity:
+    - file: kleach-diversity-statement.pdf
+  cover: 
+    - file: kleach-cover-letter.pdf
+      description: I generalized the letter here.  Each submission included additional sentences specific to the department (e.g., faculty I knew of).
+
 ################################################################################
 # Dossiers begin here (add to end of list)
 

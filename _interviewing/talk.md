@@ -98,3 +98,17 @@ probably won't count against you (because they explicitly mention that they
 realize that no one prepares two job talks and that the intro is appropriate in
 academia) but you can possibly earn bonus points by tailoring your talk to those
 audiences.
+
+{% capture quote %}
+I found the research talks to be fairly standard, but the teaching-track
+talks were all unique and required significantly more prep.  Some
+institutions required a talk about a pre-selected topic.  Others let you
+pick your own.  One required submitting a recording.   All of them had
+different timing requirements (from 25 minutes to 90 minutes).  Some had students present.  
+Some schools wanted active learning, others wanted standard slides. 
+As a result, it was more difficult to incorporate everyone's feedback.
+Part of this may have been reaction to the pandemic, but
+I tend to believe teaching-track faculty talks are more
+difficult to prepare for than tenure-track research talks.  
+{% endcapture %}
+{% include quote.html content=quote user="kleach" %}

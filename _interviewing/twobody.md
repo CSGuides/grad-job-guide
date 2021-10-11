@@ -1,10 +1,12 @@
 # Dual-Career Couples/Divulging Your Partnered Status
 
 Context: Wes was single when he was on the market; Claire had a partner who was
-planning to move with her and find a job in the software industry.  Wes
+planning to move with her and find a job in the software industry; Kevin
+Leach and Yu Huang had partners seeking academic positions together in
+the same department.  Wes
 mentioned his relationship status in his cover letters; Claire did not.  The
 advice in this section applies to both regular dual-career couples and those
-facing the actual academic two-body problem. However, as we are less experienced
+facing the actual academic two-body problem. However, Wes and Claire are less experienced
 with the latter situation, we cannot provide as much insight on the subject.  If
 you are in that position, we encourage you to talk to others who have done a
 two-body academic search for more concrete and informed advice.
@@ -14,6 +16,22 @@ interviews.  Claire actually never had anyone ask her this outright. Perhaps
 times changed since 2005, or perhaps interviewers are more sensitive about the
 issue with a female candidate than they are with a male candidate.  Regardless,
 this question is illegal. 
+
+{% capture quote %}
+Everyone will want to know.  I put it at the top of my CV and I am
+fairly sure my marital status was mentioned in at least one of my
+letters.  We did not want any confusion over what we wanted together.  
+The risk I see with revealing this status is that you will have
+institutions reject you outright because they simply cannot hire two
+people at once.   In that regard, it may give one body less negotiating
+power later with institutions that do make offers together.  *However*,
+I believe the flip side is that institutions interested in helping you
+resolve your dual-career issue will be receptive if you mention it
+outright (e.g., they will move more quickly if one body has a deadline).  
+It also made other discussions easier later (scheduling
+interviews, and negotiating salary and startup).  
+{% endcapture %}
+{% include quote.html content=quote user="kleach" %}
 
 {% capture quote %}
 *Everyone may ask anyway* (even if you have put the answer

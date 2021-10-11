@@ -86,3 +86,32 @@ and there were several I was disappointed to find out simply weren't
 hiring when I was looking for jobs.  I'd recommend starting the search
 very early and contacting people at each potential employer to get an idea
 for how often and when they tend to hire.  
+
+{% capture quote %} 
+As my wife and I were both trying to find academic positions together in
+the same department, we applied broadly to over 50 institutions.  
+We made a large spreadsheet of all the academic job postings we could
+find (including word-of-mouth, CRA, twitter posts, etc.) and categorized
+them based on area and whether we could fit together (e.g., neither of
+us do theory, so we dropped schools considering only theory
+researchers).  We found a few schools doing cluster hires which were
+very helpful in our dual career search.  
+
+We
+each had more than 15 full interviews, most of which were at overlapping
+institutions. I applied as a "cross-disciplinary" researcher with papers
+in security, dependability, software engineering, and NLP.  I was almost
+universally treated as a cybersecurity researcher by every department
+that interviewed me.   In retrospect, I believe departments make
+decisions to interview based (in part) on specific needs in fields
+(e.g., security, software engineering, AI).  I don't think it was
+harmful to portray myself as someone that worked across disciplines, but
+some of those interviewing me seemed to want to focus on a specific area
+in any case. 
+
+I applied both to teaching-track and tenure-track positions.   Together,
+we received 5 official joint academic offers, 3 of which were joint
+tenure-track positions.  We also received another 3 verbal offers for
+joint tenure-track positions. 
+{% endcapture %}
+{% include quote.html content=quote user="kleach" %}

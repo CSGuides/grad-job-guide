@@ -1,6 +1,6 @@
 # Letters of Recommendation
 
-You will need four letters of recommendation, one of which will come from
+You will need three to four letters of recommendation, one of which will come from
 your advisor. The typical dilemma here involves finding the other three. 
 You may well have only published papers with your advisor and the
 supervisor from you summer internship. Where do you find two others? 
@@ -62,6 +62,21 @@ advisor, I am glad that I eventually chose someone with a more comprehensive
 knowledge of my most recent work.
 {% endcapture %}
 {% include quote.html content=quote user="fry" %}
+
+{% capture quote %}
+I applied to jobs that required between 3 and 4 letters of
+recommendation.  Since I had spent 4 years as a postdoc, I had focused
+on letter writers who were relevant during the later part of my PhD and
+my postdoctoral appointment.   I had also applied both to teaching-track
+and tenure-track positions -- this is important to relay to letter
+writers as they may tailor letters to institutions accordingly.  Lastly,
+as noted below, I really found a meticulously-organized chart of
+deadlines, institutions, and URLs to be essential, especially as part of
+a dual-career search.   Your letter writers may want their own chart to
+track their own progress, but you will likely need to maintain it
+yourself for each writer. 
+{% endcapture %}
+{% include quote.html content=quote user="kleach" %}
 
 ## Organizing Things for your Letter Writers
 

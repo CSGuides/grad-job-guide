@@ -119,3 +119,20 @@ questions asked of me during interviews.  Studying up on common interview topics
 (theory and algorithms, mostly) will only benefit you in the regard.
 {% endcapture %}
 {% include quote.html content=quote user="fry" %}
+
+
+{% capture quote %}
+I have two thoughts here:
+
+First, as I applied during COVID-19, it was
+easy enough to keep a spreadsheet of topics to talk about with each
+interviewer off to the side in another window during my Zoom calls.
+I found this totally necessary because I noticed that most of my
+interview questions were some variant of "do you have questions for me?"
+
+Secondly, and this may not translate post-COVID, but I encourage saving time in each
+interview to ask about life in the city in which the institution is
+located.  You can pick up on tips (or red flags) about the city and what
+to avoid (e.g., if you are trying to minimize commute time). 
+{% endcapture %}
+{% include quote.html content=quote user="kleach" %}

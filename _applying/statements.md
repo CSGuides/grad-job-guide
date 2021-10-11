@@ -27,9 +27,12 @@ concrete examples:
 {%- endfor -%}
 {% endif %}
 
-References aren't required in a research statement, but they don't hurt if
-you feel better with them (or if you have a bunch of publications and want
-to highlight that).
+References aren't required in a research statement, but they don't hurt
+if you feel better with them (or if you have a bunch of publications and
+want to highlight that).  Kevin Leach notes that by the time he was
+applying for jobs, he had published across several disciplines.  KL used
+citations in his research statement to help the reader follow which
+publications were most relevant in constructing a coherent narrative.
 
 Almost all teaching statements seem to end up looking somewhat identical
 (see Lerner, Jhala and Whaley above). At Wesleyan, the only place Wes went

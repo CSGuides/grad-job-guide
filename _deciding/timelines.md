@@ -66,3 +66,18 @@ a fun place to work, unless they are in a very advantageous bargaining
 position.
 {% endcapture %}
 {% include quote.html content=quote user="fry" %}
+
+{% capture quote %}
+I applied during the COVID-19 pandemic.  My timeline differs
+substantially in that I generally found it to be more accelerated.  My
+phone screens were all Zoom calls and occurred fairly early.  My first
+real interview was the first week of January. 
+
+I also applied to both teaching and tenure-track positions to be
+flexibile with my wife's concurrent tenure-track search.  All told, we
+each interviewed at more than 15 institutions, most of which overlapped.
+We received 5 official joint offers, 3 of which were for tenure-track
+positions.  We also received 3 more verbal joint tenure-track offers
+before ultimately deciding on Vanderbilt. 
+{% endcapture %}
+{% include quote.html content=quote user="kleach" %}

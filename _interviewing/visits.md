@@ -131,3 +131,30 @@ as well as a bathing suit and workout clothing to take advantage of hotel gyms
 when available.  Take care of yourself physically.  You do yourself no
 favors if you are so tired and strung out that your are no longer at your mental
 best.
+
+{% capture quote %}
+Having applied during COVID-19, all my interviews were fully remote.
+Some institutions did one long day of interviews, others spread it over
+multiple days.  Given the flexibility, some institutions even did three
+or four half-days.  It was also easy enough to not think about wardrobe
+(I may have worn sweat pants to more than one tenure-track faculty
+interview). 
+
+I suspect things will return to normal post-COVID.
+However, my advice is, if you have a remote interview, make sure to have
+at least one physical visit at some point.  Since you are making a decision
+about a significant portion of your life (tenure-track may potentially
+be a lifetime decision), you owe it to yourself to see if you even like
+the location.  In addition, set aside time in your interviews to ask
+each person about the city, what to do, and what to avoid.  I picked up
+tips about traffic (commute time is important to me) and other aspects
+of living in the city of each institution.
+
+Whether your interview is in-person or you visit phsyically at some
+other time, also take time to learn about things aside from your
+institution.  The tired canard "they're not just interviewing you,
+you're interviewing them" applies.  It will be an additional burden, but
+spend time thinking about whether you would be happy living in that
+city. 
+{% endcapture %}
+{% include quote.html content=quote user="kleach" %}
