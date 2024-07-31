@@ -1,0 +1,38 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    box-sizing: border-box; /* Ensures padding is included in the width */
+  }
+  
+  .card-section {
+    flex-grow: 1;
+  }
+  
+  .more-button-container {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    font-size: 0.7em;
+
+  }
+
+  .cell {
+    padding-bottom: 15px;
+  }
+
+  .thumbnail {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 0;
+
+    align-items: center;
+    border: none;
+  }
+  
