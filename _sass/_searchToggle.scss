@@ -1,0 +1,86 @@
+.toggle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 10px;
+  }
+  
+  .toggle-label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .switch {
+    position: relative;
+    display: block;
+    width: 80px;
+    height: 24px; /* Adjust height for the slider bar */
+    margin-bottom: 20px; /* Add some space between the slider and labels */
+    margin-top: -20px; /* Add some space between the slider and labels */
+
+  }
+  
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    background-color: blueviolet; /* Color of the slider bar */
+    transition: .4s;
+    border-radius: 17px; /* Rounded corners to match the slider height */
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 20px; /* Height of the slider knob */
+    width: 20px; /* Width of the slider knob */
+    left: 2px;
+    bottom: 2px; /* Centering the slider knob vertically */
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%; /* Make the slider knob rounded */
+  }
+  
+  input:checked + .slider {
+    background-color: rgb(173, 66, 107); /* Updated color */
+  }
+  
+  input:checked + .slider:before {
+    transform: translateX(55px);
+  }
+  
+  .label-container {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+  }
+  
+  .and-label, .or-label {
+    font-size: 16px;
+    color: #333;
+    font-weight: bolder;
+  }
+  
+  .and-label {
+    color: blueviolet;
+  }
+  
+  .or-label {
+    color: rgb(173, 66, 107);
+  }
+  
+  .tag-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  

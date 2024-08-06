@@ -97,24 +97,26 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
     $("#peopleContent").append(cardHtml);
 
     // Populate additional sections if the links exist
+    var thisName = item.name ? item.name.toLowerCase() : '';
+    var thisTags = item.tags ? item.tags.join(',').toLowerCase() : '';
     if (item.cv) {
-      var cvHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}"><a href="/grad-job-guide/assets/materials/${item.cv}" target="_blank">${item.name}'s CV</a></div>`;
+      var cvHtml = `<div class="cell link-cell" data-tags="${thisTags}" data-name="${thisName}"><a href="/grad-job-guide/assets/materials/${item.cv}" target="_blank">${item.name}'s CV</a></div>`;
       $("#resumesCvs").append(cvHtml);
     }
     if (item.coverLetter) {
-      var cvHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}"><a href="/grad-job-guide/assets/materials/${item.coverLetter}" target="_blank">${item.name}'s Cover Letter</a></div>`;
+      var cvHtml = `<div class="cell link-cell" data-tags="${thisTags}" data-name="${thisName}"><a href="/grad-job-guide/assets/materials/${item.coverLetter}" target="_blank">${item.name}'s Cover Letter</a></div>`;
       $("#coverLetters").append(cvHtml);
     }
     if (item.researchStatement) {
-      var researchHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}"><a href="/grad-job-guide/assets/materials/${item.researchStatement}" target="_blank">${item.name}'s Research Statement</a></div>`;
+      var researchHtml = `<div class="cell link-cell" data-tags="${thisTags}" data-name="${thisName}"><a href="/grad-job-guide/assets/materials/${item.researchStatement}" target="_blank">${item.name}'s Research Statement</a></div>`;
       $("#researchStatements").append(researchHtml);
     }
     if (item.teachingStatement) {
-      var teachingHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}"><a href="/grad-job-guide/assets/materials/${item.teachingStatement}" target="_blank">${item.name}'s Teaching Statement</a></div>`;
+      var teachingHtml = `<div class="cell link-cell" data-tags="${thisTags}" data-name="${thisName}"><a href="/grad-job-guide/assets/materials/${item.teachingStatement}" target="_blank">${item.name}'s Teaching Statement</a></div>`;
       $("#teachingStatements").append(teachingHtml);
     }
     if (item.diversityStatement) {
-      var diversityHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}"><a href="/grad-job-guide/assets/materials/${item.diversityStatement}" target="_blank">${item.name}'s Diversity Statement</a></div>`;
+      var diversityHtml = `<div class="cell link-cell" data-tags="${thisTags}" data-name="${thisName}"><a href="/grad-job-guide/assets/materials/${item.diversityStatement}" target="_blank">${item.name}'s Diversity Statement</a></div>`;
       $("#diversityStatements").append(diversityHtml);
     }
   });
@@ -123,6 +125,35 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
     const tagColor = getColorForTag(tag);
     $("#tagContainer").append(`<button class="tag-filter button small" data-tag="${tag}" style="background-color: #a2a2a2; border: 2px solid; border-radius: 12px; border-color: #a2a2a2;" data-original-color="${tagColor}">${tag}</button>`);
   });
+
+  // Handle tag filter logic
+  function updateFiltering() {
+    const selectedTags = $(".tag-filter.selected").map(function() {
+      return $(this).data("tag");
+    }).get();
+    
+    const filterMode = $("#filterModeToggle").is(":checked") ? "OR" : "AND";
+    $("#toggleLabel").text(filterMode);
+
+    $(".person-card, .link-cell").each(function() {
+      const tags = $(this).data("tags") ? $(this).data("tags").split(',') : [];
+      const matches = selectedTags.filter(tag => tags.includes(tag));
+
+      if (filterMode === "AND") {
+        if (matches.length === selectedTags.length) {
+          $(this).show();
+        } else {
+          $(this).hide();
+        }
+      } else {
+        if (matches.length > 0) {
+          $(this).show();
+        } else {
+          $(this).hide();
+        }
+      }
+    });
+  }
 
   $(document).on("click", ".button[data-open='exampleModal1']", function(event) {
     //setScrollTop(); // Set SCROLLTopy when button is clicked
@@ -195,6 +226,7 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
       var name = $(this).data("name");
       var tags = $(this).data("tags");
 
+
       if (name.includes(query) || (tags && tags.includes(query))) {
         $(this).show();
       } else {
@@ -219,22 +251,11 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
       });
     }
 
-    var selectedTags = $(".tag-filter.selected").map(function() {
-      return $(this).data("tag");
-    }).get();
-
-    $(".person-card, .link-cell").each(function() {
-      var tags = $(this).data("tags") ? $(this).data("tags").split(',') : [];
-
-      if (selectedTags.every(tag => tags.includes(tag))) {
-        $(this).show();
-      } else {
-        $(this).hide();
-      }
-    });
-
+    updateFiltering();
     $(document).foundation();
   });
+
+  $("#filterModeToggle").on('change', updateFiltering);
 });
 
 $(document).foundation();
