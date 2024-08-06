@@ -1,6 +1,11 @@
 $(document).foundation();
 
-const colors = ["#13154e", "#4f1f5d", "#a9288c", "#a769cc", "#7587db", "#7c133d", "#3333cc", "#69b64f", "	#69b64f", "#f25c5c", "#f6ab53"];
+
+$(document).on('open.zf.reveal', '[data-reveal]', function(event) {
+  event.preventDefault();
+});
+
+const colors = ["#13154e", "#4f1f5d", "#a9288c", "#a769cc", "#7587db", "#7c133d", "#3333cc", "#69b64f", "#69b64f", "#f25c5c", "#f6ab53"];
 let colorAssignment = {};
 
 function getColorForTag(tag) {
@@ -33,11 +38,32 @@ function extractStartYear(cycle) {
   return match ? parseInt(match[1], 10) : 0;
 }
 
+function createTimeline(events) {
+  var items = events.map(function(event, index) {
+    return {
+      id: index + 1,
+      content: event.description,
+      start: `2020-${event.date}`,
+      className: event.type
+    };
+  });
+
+  var options = {
+    width: '100%',
+    height: '300px',
+    margin: {
+      item: 10
+    }
+  };
+
+  var timeline = new vis.Timeline(document.getElementById('timeline'), new vis.DataSet(items), options);
+}
+
 $.getJSON("../assets/materials/contributors.json", function(data) {
   data.sort(function(a, b) {
     const aYear = extractStartYear(a.cycle || '');
     const bYear = extractStartYear(b.cycle || '');
-    return bYear - aYear; // Sort in descending order
+    return bYear - aYear;
   });
 
   var allTags = new Set();
@@ -50,23 +76,44 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
     var tagHtml = item.tags ? item.tags.map(tag => `<span class="tag" style="background-color: ${getColorForTag(tag)};">${tag}</span>`).join(' ') : '';
 
     var cardHtml = `
-    <div class="cell person-card" data-age="${item.age}" data-name="${item.name.toLowerCase()}" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}">
-      <div class="card">
-        ${item.profileImageLoc ? `<img src="/grad-job-guide/assets/materials/${item.profileImageLoc}" alt="Profile Image" class="thumbnail">` : ''}
-        <div class="card-section">
-          <h4>${item.name}</h4>
-          <p>${item.cycle} cycle</p>
-          ${tagHtml}
-        </div>
-        <div class="more-button-container">
-        <button class="button" data-open="exampleModal1" data-id="${item.id}">More Information</button>
-
+      <div class="cell person-card" data-age="${item.age}" data-name="${item.name.toLowerCase()}" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}">
+        <div class="card">
+          ${item.profileImageLoc ? `<img src="/grad-job-guide/assets/materials/${item.profileImageLoc}" alt="Profile Image" class="thumbnail">` : ''}
+          <div class="card-section">
+            <h4>${item.name}</h4>
+            <p>${item.cycle} cycle</p>
+            ${tagHtml}
+          </div>
+          <div class="more-button-container">
+            <button class="button" data-open="exampleModal1" data-id="${item.id}" data-timeline="${item.timeline}">See Application Materials</button>
+          </div>
         </div>
       </div>
-    </div>
-  `; 
+    `;
 
     $("#peopleContent").append(cardHtml);
+
+    // Populate additional sections if the links exist
+    if (item.cv) {
+      var cvHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}"><a href="/grad-job-guide/assets/materials/${item.cv}" target="_blank">${item.name}'s CV</a></div>`;
+      $("#resumesCvs").append(cvHtml);
+    }
+    if (item.coverLetter) {
+      var cvHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}"><a href="/grad-job-guide/assets/materials/${item.coverLetter}" target="_blank">${item.name}'s Cover Letter</a></div>`;
+      $("#coverLetters").append(cvHtml);
+    }
+    if (item.researchStatement) {
+      var researchHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}"><a href="/grad-job-guide/assets/materials/${item.researchStatement}" target="_blank">${item.name}'s Research Statement</a></div>`;
+      $("#researchStatements").append(researchHtml);
+    }
+    if (item.teachingStatement) {
+      var teachingHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}"><a href="/grad-job-guide/assets/materials/${item.teachingStatement}" target="_blank">${item.name}'s Teaching Statement</a></div>`;
+      $("#teachingStatements").append(teachingHtml);
+    }
+    if (item.diversityStatement) {
+      var diversityHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}"><a href="/grad-job-guide/assets/materials/${item.diversityStatement}" target="_blank">${item.name}'s Diversity Statement</a></div>`;
+      $("#diversityStatements").append(diversityHtml);
+    }
   });
 
   allTags.forEach(tag => {
@@ -74,23 +121,48 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
     $("#tagContainer").append(`<button class="tag-filter button small" data-tag="${tag}" style="background-color: #a2a2a2; border: 2px solid; border-radius: 12px; border-color: #a2a2a2;" data-original-color="${tagColor}">${tag}</button>`);
   });
 
-  $(document).on("click", ".button[data-open='exampleModal1']", function() {
+  $(document).on("click", ".button[data-open='exampleModal1']", function(event) {
+    event.preventDefault(); // Prevent default action
     var id = $(this).data("id");
+    var timelinePath = "/grad-job-guide/assets/materials/" + $(this).data("timeline");
     var item = data.find(i => i.id == id);
 
     $("#modalTitle").text(item.name);
-    $("#modalAge").text(`${item.age} years old`);
+    $("#modalCycle").text(`${item.cycle} cycle`);
 
     if (item.profileImageLoc) {
-      $("#modalImage").attr("src", item.profileImageLoc).show();
+      $("#modalImage").attr("src", "/grad-job-guide/assets/materials/" + item.profileImageLoc).show();
     } else {
       $("#modalImage").hide();
     }
 
-    if (item.portfolio) {
-      $("#portfolio").text(item.portfolio).show();
+    var modalContent = '';
+
+    if (item.cv) {
+      modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item.cv}" target="_blank">CV</a></div>`;
+    }
+    if (item.coverLetter) {
+      modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item.coverLetter}" target="_blank">Cover Letter</a></div>`;
+    }
+    if (item.researchStatement) {
+      modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item.researchStatement}" target="_blank">Research Statement</a></div>`;
+    }
+    if (item.teachingStatement) {
+      modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item.teachingStatement}" target="_blank">Teaching Statement</a></div>`;
+    }
+    if (item.diversityStatement) {
+      modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item.diversityStatement}" target="_blank">Diversity Statement</a></div>`;
+    }
+
+    $("#modalContent").html(modalContent);
+
+    // Create the timeline if the path is provided
+    if (timelinePath) {
+      $.getJSON(timelinePath, function(timelineData) {
+        createTimeline(timelineData);
+      });
     } else {
-      $("#portfolio").hide();
+      $('#timeline').html(''); // Clear the timeline if no data is available
     }
 
     $("#modalContactLink").attr("href", `mailto:${item.contactEmail}?subject=Inquiry about ${item.name}`);
@@ -102,12 +174,11 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
 
   $("#search").on("input", function() {
     var query = $(this).val().toLowerCase();
-    $(".person-card").each(function() {
+    $(".person-card, .link-cell").each(function() {
       var name = $(this).data("name");
-      var age = $(this).data("age");
       var tags = $(this).data("tags");
 
-      if (name.includes(query) || age.toString().includes(query) || (tags && tags.includes(query))) {
+      if (name.includes(query) || (tags && tags.includes(query))) {
         $(this).show();
       } else {
         $(this).hide();
@@ -115,21 +186,21 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
     });
   });
 
-  $(document).on("click", ".tag-filter", function() {
-    console.log("Tag filter clicked");
+  $(document).on("click", ".tag-filter", function(event) {
+    //event.preventDefault(); // Prevent default action
+    //$('#element').foundation('_disableScroll', scrollTop);
+
     const originalColor = $(this).data("original-color");
     if ($(this).hasClass("selected")) {
-      console.log("Removing selected class");
       $(this).removeClass("selected").css({
         "background-color": "#a2a2a2",
-        "border": "2px solid",  
+        "border": "2px solid",
         "border-color": "#a2a2a2"
       });
     } else {
-      console.log("Adding selected class");
       $(this).addClass("selected").css({
         "background-color": originalColor,
-        "border": "2px solid",  
+        "border": "2px solid",
         "border-color": "black"
       });
     }
@@ -138,8 +209,8 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
       return $(this).data("tag");
     }).get();
 
-    $(".person-card").each(function() {
-      var tags = $(this).data("tags").split(',');
+    $(".person-card, .link-cell").each(function() {
+      var tags = $(this).data("tags") ? $(this).data("tags").split(',') : [];
 
       if (selectedTags.every(tag => tags.includes(tag))) {
         $(this).show();

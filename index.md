@@ -61,6 +61,10 @@ We discuss handling overlapping deadlines and negotiating your salary and
 startup. We also offer words of encouragement as you consider which offer to
 accept.
 
+## [Example Materials](exampleMaterials.md)
+
+To help you prepare your materials, we have collected the portfolios of successful applicants from past cycles. These include CVs, Cover Letters, Research Statements, Teaching Statements, Diversity Statement, and Application Timelines. Portfolios are searchable by tags (e.g., job type, research area, dual career search, etc.).
+
 # Trivia
 
 - In 2005 Purdue got 380 applicants for 3 job spots in CS and held 14

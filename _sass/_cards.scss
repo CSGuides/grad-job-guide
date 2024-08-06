@@ -35,4 +35,18 @@
     align-items: center;
     border: none;
   }
+
+  .smallheadshot {
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    border: none;
+
+  }
   
+  html {
+    scroll-behavior: smooth;
+  }

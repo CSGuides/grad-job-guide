@@ -5,7 +5,7 @@
       "cycle": "2020-2021",
       "coverLetter": "kleach/kleach-cover-letter.pdf",
       "cv": "kleach/kleach-cv-2020.pdf",
-      "diversityStatemnt": "kleach/kleach-diversity-statement.pdf",
+      "diversityStatement": "kleach/kleach-diversity-statement.pdf",
       "researchStatement": "kleach/kleach-research-statement.pdf",
       "teachingStatement": "kleach/kleach-teachingStatement.pdf",
       "timeline": "kleach/timeline.json",
@@ -54,7 +54,7 @@
       "cv": "angstadt/angstadt-cv-f2019.pdf",
       "researchStatement": "angstadt/angstadt-research-statement.pdf",
       "teachingStatement": "angstadt/angstadt-teaching-philosophy.pdf",
-      "diversityStatemnt": "angstadt/angstadt-diversity-statement.pdf",
+      "diversityStatement": "angstadt/angstadt-diversity-statement.pdf",
       "timeline": "angstadt/timeline.json",
       "profileImageLoc": "angstadt/angstadt.jpg",
       "tags": ["Programming Languages", "Software Engineering", "No Post-doc", "Liberal Arts Tenure Track"]
@@ -94,6 +94,19 @@
       "researchStatement": "whaley/whaley-research.pdf",
       "teachingStatement": "whaley/whaley-teaching.pdf",
       "tags": ["Programming Languages", "Software Engineering"]
+    },
+    {
+      "id": 10,
+      "name": "Madeline Endres",
+      "cycle": "2023-2024",
+      "coverLetter": "endremad/Endres_coverLetter.pdf",
+      "cv": "endremad/Endres_cv_feb.pdf",
+      "researchStatement": "endremad/Endres_researchStatement.pdf",
+      "teachingStatement": "endremad/Endres_teachingStatement.pdf",
+      "diversityStatement": "endremad/Endres_diversityStatement.pdf",
+      "timeline": "endremad/timeline.json",
+      "profileImageLoc": "endremad/Endres_headshot.jpeg",
+      "tags": ["Software Engineering", "Programming Languages", "No Post-doc", "R1 Tenure Track"]
     }
   ]
   
