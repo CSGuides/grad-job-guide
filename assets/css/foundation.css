@@ -6091,16 +6091,13 @@ select:not([multiple]) {
 }
 
 html.is-reveal-open {
-  position: fixed;
   width: 100%;
-  overflow-y: hidden;
 }
 html.is-reveal-open.zf-has-scroll {
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 }
 html.is-reveal-open body {
-  overflow-y: hidden;
 }
 
 .reveal-overlay {

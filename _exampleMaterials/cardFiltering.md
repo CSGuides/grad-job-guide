@@ -53,8 +53,7 @@
   <p id="modalCycle">Cycle</p>
   <img src="" alt="Profile Image" id="modalImage" style="display: none;" class=smallheadshot>
   <div id="modalContent"></div>
-  <div id="timeline"></div> <!-- Add this div for the timeline -->
-  <a href="" id="modalContactLink" class="button">Contact</a>
+  <!--<div id="timeline"></div>  Add this div for the timeline -->
   <button class="close-button" data-close aria-label="Close modal" type="button">
     <span aria-hidden="true">&times;</span>
   </button>

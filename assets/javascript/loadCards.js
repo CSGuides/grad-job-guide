@@ -1,9 +1,12 @@
 $(document).foundation();
 
+var SCROLLTopy = 0; // Initialize globally
 
-$(document).on('open.zf.reveal', '[data-reveal]', function(event) {
-  event.preventDefault();
-});
+// Function to set SCROLLTopy when the button is clicked
+function setScrollTop() {
+  SCROLLTopy = $(window).scrollTop(); // Capture the current scroll position
+  console.log('Scrolltopy set to:', SCROLLTopy);
+}
 
 const colors = ["#13154e", "#4f1f5d", "#a9288c", "#a769cc", "#7587db", "#7c133d", "#3333cc", "#69b64f", "#69b64f", "#f25c5c", "#f6ab53"];
 let colorAssignment = {};
@@ -56,7 +59,7 @@ function createTimeline(events) {
     }
   };
 
-  var timeline = new vis.Timeline(document.getElementById('timeline'), new vis.DataSet(items), options);
+  //var timeline = new vis.Timeline(document.getElementById('timeline'), new vis.DataSet(items), options);
 }
 
 $.getJSON("../assets/materials/contributors.json", function(data) {
@@ -122,7 +125,8 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
   });
 
   $(document).on("click", ".button[data-open='exampleModal1']", function(event) {
-    event.preventDefault(); // Prevent default action
+    //setScrollTop(); // Set SCROLLTopy when button is clicked
+
     var id = $(this).data("id");
     var timelinePath = "/grad-job-guide/assets/materials/" + $(this).data("timeline");
     var item = data.find(i => i.id == id);
@@ -157,20 +161,33 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
     $("#modalContent").html(modalContent);
 
     // Create the timeline if the path is provided
-    if (timelinePath) {
-      $.getJSON(timelinePath, function(timelineData) {
-        createTimeline(timelineData);
-      });
-    } else {
-      $('#timeline').html(''); // Clear the timeline if no data is available
-    }
+    //if (timelinePath) {
+    //  $.getJSON(timelinePath, function(timelineData) {
+    //    createTimeline(timelineData);
+    //  });
+    //} else {
+    //  $('#timeline').html(''); // Clear the timeline if no data is available
+    //}
 
-    $("#modalContactLink").attr("href", `mailto:${item.contactEmail}?subject=Inquiry about ${item.name}`);
-
+    // Open the modal
     $('#exampleModal1').foundation('open');
+
+    console.log("IN CLICK HANDLER");
+    var modal = $(this);
+    console.log('Modal top position, end clicky:', modal.css('top'));
+    console.log('Scrolltopy in clicker', SCROLLTopy);
   });
 
-  $(document).foundation();
+  $(document).on('open.zf.reveal', '[data-reveal]', function(event) {
+    console.log('Reveal modal opened');
+    var modal = $(this);
+    console.log('Modal top position:', modal.css('top'));
+    console.log('scroltoppy position:', SCROLLTopy);
+    //$('#exampleModal1').foundation('_disableScroll', SCROLLTopy);
+
+
+
+  });
 
   $("#search").on("input", function() {
     var query = $(this).val().toLowerCase();
@@ -187,9 +204,6 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
   });
 
   $(document).on("click", ".tag-filter", function(event) {
-    //event.preventDefault(); // Prevent default action
-    //$('#element').foundation('_disableScroll', scrollTop);
-
     const originalColor = $(this).data("original-color");
     if ($(this).hasClass("selected")) {
       $(this).removeClass("selected").css({
@@ -218,5 +232,9 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
         $(this).hide();
       }
     });
+
+    $(document).foundation();
   });
 });
+
+$(document).foundation();
