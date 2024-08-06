@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "name": "Kevin Leach",
+      "cycle": "2020-2021",
+      "coverLetter": "kleach/kleach-cover-letter.pdf",
+      "cv": "kleach/kleach-cv-2020.pdf",
+      "diversityStatement": "kleach/kleach-diversity-statement.pdf",
+      "researchStatement": "kleach/kleach-research-statement.pdf",
+      "teachingStatement": "kleach/kleach-teachingStatement.pdf",
+      "timeline": "kleach/timeline.json",
+      "profileImageLoc": "kleach/kleach.jpg",
+      "tags": ["Dual Career Search", "Security", "Software Engineering", "Post-doc", "R1 Tenure Track"]
+    },
+    {
+      "id": 2,
+      "name": "Westley Weimer",
+      "cycle": "2004-2005",
+      "coverLetter": "weimer/weimer-cover-letter.pdf",
+      "coverLetterSpecific": "weimer/weimer-cover-letter-umass.pdf",
+      "cv": "weimer/weimer-resume.pdf",
+      "researchStatement": "weimer/weimer-research.pdf",
+      "teachingStatement": "weimer/weimer-teaching.pdf",
+      "timeline": "weimer/timeline.json",
+      "profileImageLoc": "weimer/weimerw.jpg",
+      "tags": ["Programming Languages", "Software Engineering", "No Post-doc", "R1 Tenure Track"]
+    },
+    {
+      "id": 3,
+      "name": "Ranjit Jhala",
+      "cycle": "2003-2004",
+      "coverLetter": "jhala/rj-cover-generic3.pdf",
+      "researchStatement": "jhala/Jhala-Research.pdf",
+      "teachingStatement": "weimer/Jhala-Teaching.pdf",
+      "tags": ["Programming Languages", "No Post-doc", "R1 Tenure Track"]
+    },
+    {
+      "id": 4,
+      "name": "Claire Le Goues",
+      "cycle": "2012-2013",
+      "cv": "legoues/legoues-cv.pdf",
+      "researchStatement": "legoues/legoues-research-statement.pdf",
+      "teachingStatement": "legoues/legoues-teaching-statement.pdf",
+      "timeline": "legoues/timeline.json",
+      "profileImageLoc": "legoues/claire.jpg",
+      "tags": ["Software Engineering", "No Post-doc", "R1 Tenure Track", "Dual Career Search"]
+    },
+    {
+      "id": 5,
+      "name": "Kevin Angstadt",
+      "cycle": "2019-2020",
+      "coverLetter": "angstadt/angstadt-bowdoin-cover-letter.pdf",
+      "coverLetterSpecific": "angstadt/angstadt-bowdoin-cover-letter.pdf",
+      "cv": "angstadt/angstadt-cv-f2019.pdf",
+      "researchStatement": "angstadt/angstadt-research-statement.pdf",
+      "teachingStatement": "angstadt/angstadt-teaching-philosophy.pdf",
+      "diversityStatement": "angstadt/angstadt-diversity-statement.pdf",
+      "timeline": "angstadt/timeline.json",
+      "profileImageLoc": "angstadt/angstadt.jpg",
+      "tags": ["Programming Languages", "Software Engineering", "No Post-doc", "Liberal Arts Tenure Track"]
+    },
+    {
+      "id": 6,
+      "name": "Zak Fry",
+      "cycle": "2013-2014",
+      "cv": "fry/fry-cv.pdf",
+      "researchStatement": "fry/ZakFry_ResearchStatement.pdf",
+      "profileImageLoc": "fry/zak.jpeg",
+      "tags": ["Software Engineering", "Industrial Research", "No Post-doc"]
+    },
+    {
+      "id": 7,
+      "name": "Sorin Lerner",
+      "cycle": "2004-2005",
+      "cv": "lerner/lerner-cv.pdf",
+      "researchStatement": "lerner/lerner-research.pdf",
+      "teachingStatement": "lerner/lerner-teaching.pdf",
+      "tags": ["Programming Languages", "No Post-doc", "R1 Tenure Track"]
+    },
+    {
+      "id": 8,
+      "name": "Andy Begel",
+      "cycle": "2004-2005",
+      "cv": "begel/begel-cv.pdf",
+      "researchStatement": "begel/begel-research.pdf",
+      "teachingStatement": "begel/begel-teaching.pdf",
+      "tags": ["Programming Languages", "Software Engineering", "Human Computer Interaction", "No Post-doc", "Industrial Research", "R1 Tenure Track"]
+    },
+    {
+      "id": 9,
+      "name": "John Whaley",
+      "cycle": "2004-2005",
+      "cv": "whaley/whaley-cv.pdf",
+      "researchStatement": "whaley/whaley-research.pdf",
+      "teachingStatement": "whaley/whaley-teaching.pdf",
+      "tags": ["Programming Languages", "Software Engineering"]
+    },
+    {
+      "id": 10,
+      "name": "Madeline Endres",
+      "cycle": "2023-2024",
+      "coverLetter": "endremad/Endres_coverLetter.pdf",
+      "cv": "endremad/Endres_cv_feb.pdf",
+      "researchStatement": "endremad/Endres_researchStatement.pdf",
+      "teachingStatement": "endremad/Endres_teachingStatement.pdf",
+      "diversityStatement": "endremad/Endres_diversityStatement.pdf",
+      "timeline": "endremad/timeline.json",
+      "profileImageLoc": "endremad/Endres_headshot.jpeg",
+      "tags": ["Software Engineering", "Programming Languages", "No Post-doc", "R1 Tenure Track"]
+    }
+  ]
+  

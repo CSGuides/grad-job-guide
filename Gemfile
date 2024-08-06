@@ -25,5 +25,7 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 group :test do
   gem 'rake'
-  gem 'html-proofer'
+  gem 'html-proofer', '~> 3.19.0'
 end
+
+gem "webrick", "~> 1.8"

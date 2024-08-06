@@ -1,0 +1,44 @@
+.tag {
+    display: inline-block;
+    background-color: #e0e0e0; /* This will be overridden by inline styles */
+    border-radius: 12px; /* Rounded corners for tags */
+    padding: 5px 10px;
+    margin-right: 5px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+
+    font-size: 0.7em;
+    color: #fff; /* Ensure the text color is white for better contrast */
+  }
+  
+  .tag-filter {
+    margin: 5px;
+    cursor: pointer;
+    color: #fff; /* Ensure the text color is white for better contrast */
+    background-color: #a2a2a2; /* Grey background when not selected */
+    border: 2px solid;  /* Explicitly set no border */
+    border-radius: 12px; /* Rounded corners for tag filters */
+    border-color: black;  
+}
+  
+  .tag-filter:hover {
+    border: 2px solid;  /* Ensure no border on hover */
+    border-color: black;
+  }
+  
+  .tag-filter:focus {
+    border: 2px solid;  /* Ensure no border on focus */
+    outline: none; /* Remove focus outline */
+  }
+  
+  .tag-filter:active {
+    border: 2px solid;  /* Ensure no border on active state */
+    border-color: black;  
+}
+  
+  .tag-filter.selected {
+    border: 2px solid; /* Remove border when selected */
+    border-color: black; 
+}
+  
+

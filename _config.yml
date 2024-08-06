@@ -26,6 +26,9 @@ header_pages:
   - applying.md
   - interviewing.md
   - deciding.md
+  # exampleMaterials.md
+
+
 
 footer_pages:
   - about.md

@@ -1,0 +1,72 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    box-sizing: border-box; /* Ensures padding is included in the width */
+  }
+  
+  .card-section {
+    flex-grow: 1;
+  }
+  
+  .more-button-container {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    font-size: 0.7em;
+
+  }
+
+  .cell {
+    padding-bottom: 15px;
+  }
+
+  .thumbnail {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 0;
+
+    align-items: center;
+    border: none;
+  }
+
+  .smallheadshot {
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+    border: none;
+
+  }
+
+  
+  /* Ensure the modal and overlay do not affect the background */
+.reveal-overlay {
+  z-index: 9999; /* Ensure the overlay is above other content */
+  overflow: hidden;
+}
+
+.reveal {
+  z-index: 10000; /* Ensure the modal is above the overlay */
+  /*top: 0 !important;  Prevent manual top adjustments */
+}
+
+/* Ensure the body and html do not shift when the modal is open */
+html.is-reveal-open {
+  //overflow: hidden;
+  //position: fixed;
+}
+
+html.is-reveal-open, body.is-reveal-open {
+  overflow: hidden;
+  /*position: fixed; Def not workable*/
+  width: 100%;
+}

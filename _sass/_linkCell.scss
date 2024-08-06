@@ -1,0 +1,15 @@
+.link-cell {
+    font-size: 0.875rem; /* Smaller font size */
+    margin: 0; /* Remove margin */
+    padding: 5px 0; /* Reduce padding to decrease white space */
+    line-height: 1.2; /* Adjust line height for less vertical space */
+  }
+  
+  .link-cell a {
+    color: #007BFF; /* change link color */
+    text-decoration: none; /* remove underline from links */
+  }
+  
+  .link-cell a:hover {
+    text-decoration: underline; /*  add underline on hover */
+  }
