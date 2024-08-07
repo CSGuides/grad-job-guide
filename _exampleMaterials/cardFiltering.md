@@ -27,15 +27,14 @@
     </div>
   </div>
 
-
-  <h3>Example CVs and Resumes</h3>
-  <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="resumesCvs">
+  <h3>Example Cover Letters</h3>
+	<p>(Click <a href="{{site.url}}{{site.baseurl}}/applying/#cover-letters">here</a> for more information about preparing your cover leter)</p>
+  <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="coverLetters">
     <!-- Dynamic Content -->
   </div>
 
-  <h3>Example Cover Letters</h3>
-	<p>(Click <a href="{{site.repo}}/applying/#cover-letters">here</a> for more information about preparing your cover leter)</p>
-  <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="coverLetters">
+  <h3>Example CVs and Resumes</h3>
+  <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="resumesCvs">
     <!-- Dynamic Content -->
   </div>
 
