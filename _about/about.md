@@ -2,9 +2,10 @@
 
 This guide has been written predominantly by Wes Weimer (University of
 Michigan), Claire Le Goues (Carnegie Mellon), Zak Fry (GrammaTech),
-Kevin Leach (Vanderbilt University), Yu Huang (Vanderbilt University),
-and Kevin Angstadt (St. Lawrence University).  Kevin is the primary
-maintainer of this version of the guide (there are older versions out
+Kevin Leach (Vanderbilt University), Yu Huang (Vanderbilt University), 
+Kevin Angstadt (St. Lawrence University), and Madeline Endres (University 
+of Massachusetts, Amherst). Kevin and Madeline are the primary
+maintainers of this version of the guide (there are older versions out
 there, but we anticipate this site to be most up-to-date.)
 
 # Contributing
