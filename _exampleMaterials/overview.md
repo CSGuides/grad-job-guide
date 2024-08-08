@@ -4,9 +4,9 @@ Writing application materials for post-doctoral positions can be challenging.
 To help you get started, this page offers a variety of examples and 
 resources tailored for different types of jobs, including:
 
-	* R1 Tenure-Track Positions
-	* Liberal Arts Tenure-Track Positions
-	* Industrial Research Positions
+* R1 Tenure-Track Positions
+* Liberal Arts Tenure-Track Positions
+* Industrial Research Positions
 
 We provide examples of the main application components, as well as 
 complete application portfolios. The portfolios are organized by date, 
