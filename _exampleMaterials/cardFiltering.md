@@ -34,11 +34,13 @@
   </div>
 
   <h3>Example CVs and Resumes</h3>
+	<p>(Click <a href="{{site.url}}{{site.baseurl}}/applying/#preparing-your-resume">here</a> for more information about preparing your resume)</p>
   <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="resumesCvs">
     <!-- Dynamic Content -->
   </div>
 
   <h3>Example Research Statements</h3>
+	<p>(Click <a href="{{site.url}}{{site.baseurl}}/applying/#preparing-your-research-and-teaching-statements">here</a> for more information about preparing your statements)</p>
   <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="researchStatements">
     <!-- Dynamic Content -->
   </div>
