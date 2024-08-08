@@ -1,5 +1,14 @@
 # Overview of Materials
 
-It can be hard to know where to start when writing your application materials! To that end, this page contains various post-doctoral job application materials, including examples for R1 Tenure-Track Jobs, Liberal Arts Tenure-Track Jobs, and Industrial Research. We include examples of the main application components. In addition, we include full application portfolios. Application portfolios span from 2004-2024, and are organized by date (newest first). All materials can be filtered by application-related attributes including primary research area(s), dual career situations, and job type. 
+It can be hard to know where to start when writing your application materials!
+To that end, this page contains various post-doctoral job application 
+materials, including examples for R1 Tenure-Track Jobs, Liberal Arts 
+Tenure-Track Jobs, and Industrial Research. We include examples of the main 
+application components. In addition, we include full application portfolios. 
+Application portfolios are organized by date (newest first). All materials 
+can be filtered by application-related attributes including primary research 
+area(s), dual career situations, and job type. 
 
-We thank everyone who contributed their materials to this project. If you are interested in contributing your materials, please see our [contribution guide](#how-to-contribute-materials).
+We thank everyone who contributed their materials to this project. If you 
+are interested in contributing your materials, please see our 
+[contribution guide](#how-to-contribute-materials).
