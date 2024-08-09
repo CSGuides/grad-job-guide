@@ -1,7 +1,7 @@
 
 # Searchable Materials
 
-<div class="grid-container">
+<div class="grid-container" data-site-url="{{ site.url }}" data-base-url="{{ site.baseurl }}">
   <div class="grid-x grid-padding-x">
     <div class="cell">
       <input type="text" id="search" placeholder="Tag search...">
@@ -27,37 +27,15 @@
     </div>
   </div>
 
-  <h3>Example Cover Letters</h3>
-	<p>(Click <a href="{{site.url}}{{site.baseurl}}/applying/#cover-letters">here</a> for more information about preparing your cover leter)</p>
-  <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="coverLetters">
-    <!-- Dynamic Content -->
-  </div>
+  <!-- Dynamic content for link cells-->
 
-  <h3>Example CVs and Resumes</h3>
-	<p>(Click <a href="{{site.url}}{{site.baseurl}}/applying/#preparing-your-resume">here</a> for more information about preparing your resume)</p>
-  <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="resumesCvs">
-    <!-- Dynamic Content -->
-  </div>
+  <div id="linkCellContent">
 
-  <h3>Example Research Statements</h3>
-	<p>(Click <a href="{{site.url}}{{site.baseurl}}/applying/#preparing-your-research-and-teaching-statements">here</a> for more information about preparing your statements)</p>
-  <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="researchStatements">
-    <!-- Dynamic Content -->
-  </div>
-
-  <h3>Example Teaching Statements</h3>
-  <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="teachingStatements">
-    <!-- Dynamic Content -->
-  </div>
-
-  <h3 id="Diversity Statements"> Example Diversity Statements</h3>
-  <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="diversityStatements">
-    <!-- Dynamic Content -->
   </div>
 
   <h3>Full Application Profiles</h3>
   <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="peopleContent">
-    <!-- Dynamic Content -->
+    <!-- Dynamic Content for cards-->
   </div>
 </div>
 
