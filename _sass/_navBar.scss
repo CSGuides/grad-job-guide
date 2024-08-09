@@ -1,10 +1,10 @@
 .navbar-brand {
-    font-size: 1.5vw;
+    font-size: 1.8vw;
     max-width: 100%; /* Ensure it doesn't overflow */
     white-space: normal;
     display: flex;
     align-items: center;
-margin-right: 0px;
+    margin-right: 0px;
 }
 
 .navbar-brand span {
@@ -13,17 +13,13 @@ margin-right: 0px;
     display: inline-block;
 }
 
-  
 .navbar-brand img {
     max-height: 60px;
     height: auto; /* Ensure the logo scales with the font */
     margin-right: 5px; /* Adjust the spacing between logo and text */
     max-width: 100%; /* Ensure it doesn't overflow */
     display: flex;
-
-
-  }
-  
+}
 
 @media (max-width: 680px) {
     .navbar-brand {
