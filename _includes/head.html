@@ -16,19 +16,19 @@
     {%- include google-analytics.html -%}
   {%- endif -%}-->
 
-  {%-if jekyll.environment == 'production' -%}
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-V6DRFB5162"></script>
+  <script async type="text/javascript" src={{"/assets/javascript/gtag.js" | relative_url }}></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'G-V6DRFB5162');
+    // Updated configuration with cookie_flags
+    gtag('config', 'G-V6DRFB5162', {
+      'cookie_flags': 'SameSite=None;Secure'
+    });
   </script>
 
-  {%- endif -%}
-  
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
   <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet" type="text/css" />
 </head>
