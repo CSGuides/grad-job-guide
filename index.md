@@ -9,64 +9,119 @@ nav: Overview
 
 # Introduction
 
-This document summarizes experience, opinions, and advice (and advice received
-from others) on looking for jobs in academia and industrial research labs in the
-field of computer science. It contains both general advice and information on
-three particular job searches: Wes's search for a programming languages / software
-engineering position in the Spring of 2005, Claire's search for the same in
-Spring of 2013, and Zak's search for industrial research positions in 2014. 
-It is structured as a how-to guide for graduate students.
+<span class="highlight">*Are you currently in graduate school, and are you considering applying (or currently looking) for a post-graduate position in computer science?*</span> 
+
+**If so, this site is for you!**
+
+This website offers a *summary of experiences, insights, and advice*---both our personal opinions and those from others---*on navigating the job search process for computer science academia and industrial research labs*. It contains both general advice as well as detailed accounts of several specific job searches, including:
+
+* [Wes Weimer's](https://web.eecs.umich.edu/~weimerw/) 2005 search for a position in programming languages or software
+engineering, which led to a role at the University of Virginia.
+* [Claire Le Goues's](https://clairelegoues.com/) 2013 search for a position in programming languages or software
+engineering, which led to a role Carnegie Mellon University.
+* Zak Fry's 2014 search for industrial research positions, which led to a role at GrammaTech.
+* [Kevin Angstadt's](https://myslu.stlawu.edu/~kangstadt/) 2019 search for a programming languages position, which led to a role at St. Lawrence University.
+* [Kevin Leach's](https://kjl.name/) 2020 search for a position in software engineering or security, which led to a role at Vanderbilt University.  
+* [Madeline Endres's](https://madelineendres.com) 2024 search for a software engineering position, which led to a role at the University of Massachusetts, Amherst.
+
+This website is structured as a how-to guide for graduate students.
+
+# Is This Guide For Me?
+
+<span class="highlight">If you are in graduate school and either on the job market or planning to apply for CS-related jobs, this guide is for you.</span>
+
+However, **this guide isn't just for students currently on the job market!** Even if 
+you are are just starting graduate school, the sections on [finding job opportunities](jobs.md)
+and [application preparation](applying.md) can still be helpful. Your career
+goals will often inform the choices you make during your doctoral studies, making it important to
+be aware of the kinds of jobs available to you.  
+
+It's also helpful to know what goes into an application package so you can plan ahead.
+For example, if you're aiming for an academic career that emphasizes
+teaching, you might plan for being a primary instructor ("instructor of
+record" at some institutions) while still a doctoral student. Conversely if
+you are most interested in a research-focused career, you might instead choose
+to bolster your resume with industrial internships.  <span class="highlight">*It's much better to know 
+what to expect and plan ahead than to regret not doing more.*</span>
 
 # Navigating This Guide
 
-We have divided this guide into the major stages of a job search: finding jobs,
-preparing your application, interviewing, and finally deciding between offers.
+This guide is organized into the four major stages of a job search:
 
-**This guide isn't just for students on the job market!** Even if you are not
-yet on the job market, the portions of this guide focusing on job opportunities
-and application preparation can be particularly helpful. Often, your career
-goals will inform choices you make during your doctoral studies, and thus being
-aware of the kinds of jobs available to you is important.  It can also be
-helpful to know what goes into an application package to help you plan ahead.
-For example, if you are targeting an academic career that emphasizes
-instruction, you might plan for being the primary instructor ("instructor of
-record" at some institutions) while still a doctoral candidate. Conversely if
-you are most interested in a research-focused career, you might instead choose
-to bolster your resume with industrial internships.  It's much better to know 
-what to expect and plan ahead than to regret not doing more.
+  1. [Finding jobs](jobs.md)
+  2. [Preparing your application](applying.md)
+  3. [Interviewing](interviewing.md)
+  4. [Deciding between offers](deciding.md) 
 
-## [Finding Jobs](jobs.md)
+This guide also contains 
+[<span class="highlight-link">example application materials and interview resources</span>](exampleMaterials.md) 
+tailored for different job types including R1 Tenure-Track positions, 
+Liberal Arts Tenure-Track Positions, and Industrial Research Positions.
 
-As you begin your search, you will first want to think about the types of jobs
+On the rest of this page, we briefly summarize each phase.
+
+## Phase 1: [Finding Jobs](jobs.md)
+
+* <span class="student-q">"What types of jobs exist after CS graduate school?"</span>
+
+* <span class="student-q">"What can I do in graduate school to prepare for the job I want?"</span>
+
+* <span class="student-q">"How can I find jobs to apply to?"</span>
+
+As you begin your search, the first step is to think about the types of jobs
 that appeal to you.  We discuss various job opportunities in computer science
 for students earning doctoral degrees.  Then we give pointers for discovering
 open searches and how to read job postings.
 
-## [Preparing Your Application](applying.md)
+## Phase 2: [Preparing Your Application](applying.md)
 
-Applications are reasonably uniform across academic institutions, and my aspects
-of an academic application apply to industrial research as well.  In addition
-to providing some high-level guidance to get you started with your application
-materials, we also provide concrete examples of materials from successful
-searches.
+* <span class="student-q">"What do I need to apply to CS graduate jobs?"</span>
 
-## [Interviewing](interviewing.md)
+* <span class="student-q">"How should I write my application materials?"</span>
 
-We discuss common activities for interviews and give some hints on questions to
-prepare (both to answer and to ask).
+Applications are reasonably uniform across academic institutions, and many aspects
+of an academic application apply to industrial research as well.  We provide 
+high-level guidance to help you start crafting your application materials, along with 
+concrete examples from successful job searches.
 
-## [Making a Decision](deciding.md)
+## Phase 3: [Interviewing](interviewing.md)
 
-Once you have reached the stage of considering job offers, it's time to decide.
-We discuss handling overlapping deadlines and negotiating your salary and
+* <span class="student-q">"When will I hear back from my applications?"</span>
+
+* <span class="student-q">"What does an academic interview look like?"</span>
+
+* <span class="student-q">"How should I structure my job talk?"</span>
+
+We discuss common activities for interviews and give some tips on preparing for 
+questions---both those you’ll need to answer and those you might want to ask.
+
+## Phase 4: [Making a Decision](deciding.md)
+
+* <span class="student-q">"Which job should I choose?!"</span>
+
+* <span class="student-q">"How can I negotiate my offer?"</span>
+
+When you reach the stage of considering job offers, it's time to make a decision.
+This process can be daunting, and it can be difficult to weigh different factors.
+We provide guidance on managing overlapping deadlines and negotiating your salary and
 startup. We also offer words of encouragement as you consider which offer to
 accept.
 
-## [Example Materials](exampleMaterials.md)
+# [Examples of Successful Materials](exampleMaterials.md)
 
-To help you prepare your materials, we have collected the portfolios of successful applicants from past cycles. These include CVs, Cover Letters, Research Statements, Teaching Statements, Diversity Statement, and Application Timelines. Portfolios are searchable by tags (e.g., job type, research area, dual career search, etc.).
+We have collected portfolios from successful applicants in past cycles. These include 
+CVs, Cover Letters, Research Statements, Teaching Statements, Diversity Statement, Job 
+Talk Slides, and Application Timelines. The portfolios are searchable by tags (e.g., 
+job type, research area, dual career search, etc.). *These examples offer practical guidance
+as you develop your own application.*
 
-# Trivia
+<span class="highlight">The job search can definitely be challenging! It can be helpful to 
+remember that every successful applicant was once in your position. We hope this Guide 
+helps you better navigate each stage of the cycle.</span>
+
+
+
+<!-- # Trivia
 
 - In 2005 Purdue got 380 applicants for 3 job spots in CS and held 14
 interviews. In programming languages alone they got 20 applicants and held
@@ -105,8 +160,8 @@ more difficult if you're female because waiters at nice restaurants typically
 ask the lady if she wants something to drink first.
 - Silver Rule: never say anything mean about anyone, especially not your current
 institution or other institutions at which you are interviewing.  This rule
-applies even if your current institution is legitimately dysfunctional.
+applies even if your current institution is legitimately dysfunctional. -->
 
-## [About Us](about.md)
+# [About Us](about.md)
 
 For more information about the authors of this Guide, along with contribution instructions, see our [About Us](about.md) tab. In general, if you have any questions about this Guide, please email Madeline Endres at <mendres@umass.edu>.
