@@ -1,13 +1,5 @@
 $(document).foundation();
 
-var SCROLLTopy = 0; // Initialize globally
-
-// Function to set SCROLLTopy when the button is clicked
-function setScrollTop() {
-  SCROLLTopy = $(window).scrollTop(); // Capture the current scroll position
-  console.log('Scrolltopy set to:', SCROLLTopy);
-}
-
 const colors = ["#13154e", "#4f1f5d", "#a9288c", "#a769cc", "#7587db", "#7c133d", "#3333cc", "#69b64f", "#69b64f", "#f25c5c", "#f6ab53"];
 let colorAssignment = {};
 
@@ -62,7 +54,8 @@ function createTimeline(events) {
   //var timeline = new vis.Timeline(document.getElementById('timeline'), new vis.DataSet(items), options);
 }
 
-$.getJSON("../assets/materials/contributors.json", function(data) {
+function generateContentSections(types, data) {
+  // Sort the data by year
   data.sort(function(a, b) {
     const aYear = extractStartYear(a.cycle || '');
     const bYear = extractStartYear(b.cycle || '');
@@ -71,6 +64,7 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
 
   var allTags = new Set();
 
+  // Loop through the data and generate the necessary HTML
   data.forEach(function(item) {
     if (item.tags) {
       item.tags.forEach(tag => allTags.add(tag.toLowerCase()));
@@ -96,34 +90,44 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
 
     $("#peopleContent").append(cardHtml);
 
-    // Populate additional sections if the links exist
-    var thisName = item.name ? item.name.toLowerCase() : '';
-    var thisTags = item.tags ? item.tags.join(',').toLowerCase() : '';
-    if (item.cv) {
-      var cvHtml = `<div class="cell link-cell" data-tags="${thisTags}" data-name="${thisName}"><a href="/grad-job-guide/assets/materials/${item.cv}" target="_blank">${item.name}'s CV</a></div>`;
-      $("#resumesCvs").append(cvHtml);
-    }
-    if (item.coverLetter) {
-      var cvHtml = `<div class="cell link-cell" data-tags="${thisTags}" data-name="${thisName}"><a href="/grad-job-guide/assets/materials/${item.coverLetter}" target="_blank">${item.name}'s Cover Letter</a></div>`;
-      $("#coverLetters").append(cvHtml);
-    }
-    if (item.researchStatement) {
-      var researchHtml = `<div class="cell link-cell" data-tags="${thisTags}" data-name="${thisName}"><a href="/grad-job-guide/assets/materials/${item.researchStatement}" target="_blank">${item.name}'s Research Statement</a></div>`;
-      $("#researchStatements").append(researchHtml);
-    }
-    if (item.teachingStatement) {
-      var teachingHtml = `<div class="cell link-cell" data-tags="${thisTags}" data-name="${thisName}"><a href="/grad-job-guide/assets/materials/${item.teachingStatement}" target="_blank">${item.name}'s Teaching Statement</a></div>`;
-      $("#teachingStatements").append(teachingHtml);
-    }
-    if (item.diversityStatement) {
-      var diversityHtml = `<div class="cell link-cell" data-tags="${thisTags}" data-name="${thisName}"><a href="/grad-job-guide/assets/materials/${item.diversityStatement}" target="_blank">${item.name}'s Diversity Statement</a></div>`;
-      $("#diversityStatements").append(diversityHtml);
-    }
+    // Populate sections dynamically based on contributionTypes.json
+    Object.keys(types).forEach(key => {
+      if (item[key]) {
+        var sectionHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}" data-name="${item.name.toLowerCase()}"><a href="/grad-job-guide/assets/materials/${item[key]}" target="_blank">${item.name}'s ${types[key][1]}</a></div>`;
+        $(`#${key}Content`).append(sectionHtml);
+      }
+    });
   });
 
   allTags.forEach(tag => {
     const tagColor = getColorForTag(tag);
     $("#tagContainer").append(`<button class="tag-filter button small" data-tag="${tag}" style="background-color: #a2a2a2; border: 2px solid; border-radius: 12px; border-color: #a2a2a2;" data-original-color="${tagColor}">${tag}</button>`);
+  });
+}
+
+$.getJSON("../assets/materials/contributors.json", function(data) {
+  $.getJSON("../assets/materials/contributionTypes.json", function(types) {
+    // Create the HTML structure for each type
+
+    const siteUrl = $('.grid-container').data('site-url');
+    const baseUrl = $('.grid-container').data('base-url');
+
+    Object.keys(types).forEach(key => {
+      const [order, label, detailsLinkLoc] = types[key];
+      const sectionHtml = `
+        <h3 id="example-${key}">Example ${label}s
+        <a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#example-${key}" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a>
+        </h3>
+        ${detailsLinkLoc ? `<p>(Click <a href="${siteUrl}${baseUrl}/${detailsLinkLoc}">here</a> for more information about preparing your ${label}</p>` : ''}
+        <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="${key}Content">
+          <!-- Dynamic Content -->
+        </div>
+      `;
+
+      $("#linkCellContent").append(sectionHtml);
+    });
+
+    generateContentSections(types, data);
   });
 
   // Handle tag filter logic
@@ -156,8 +160,6 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
   }
 
   $(document).on("click", ".button[data-open='exampleModal1']", function(event) {
-    //setScrollTop(); // Set SCROLLTopy when button is clicked
-
     var id = $(this).data("id");
     var timelinePath = "/grad-job-guide/assets/materials/" + $(this).data("timeline");
     var item = data.find(i => i.id == id);
@@ -173,51 +175,24 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
 
     var modalContent = '';
 
-    if (item.cv) {
-      modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item.cv}" target="_blank">CV</a></div>`;
-    }
-    if (item.coverLetter) {
-      modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item.coverLetter}" target="_blank">Cover Letter</a></div>`;
-    }
-    if (item.researchStatement) {
-      modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item.researchStatement}" target="_blank">Research Statement</a></div>`;
-    }
-    if (item.teachingStatement) {
-      modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item.teachingStatement}" target="_blank">Teaching Statement</a></div>`;
-    }
-    if (item.diversityStatement) {
-      modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item.diversityStatement}" target="_blank">Diversity Statement</a></div>`;
-    }
-
-    $("#modalContent").html(modalContent);
-
-    // Create the timeline if the path is provided
-    //if (timelinePath) {
-    //  $.getJSON(timelinePath, function(timelineData) {
-    //    createTimeline(timelineData);
-    //  });
-    //} else {
-    //  $('#timeline').html(''); // Clear the timeline if no data is available
-    //}
+    // Dynamically add the content based on the contributionTypes.json
+    $.getJSON("../assets/materials/contributionTypes.json", function(types) {
+      Object.keys(types).forEach(key => {
+        if (item[key]) {
+          modalContent += `<div class="cell link-cell"><a href="/grad-job-guide/assets/materials/${item[key]}" target="_blank">${types[key][1]}</a></div>`;
+        }
+      });
+      $("#modalContent").html(modalContent);
+    });
 
     // Open the modal
     $('#exampleModal1').foundation('open');
-
-    console.log("IN CLICK HANDLER");
-    var modal = $(this);
-    console.log('Modal top position, end clicky:', modal.css('top'));
-    console.log('Scrolltopy in clicker', SCROLLTopy);
   });
 
   $(document).on('open.zf.reveal', '[data-reveal]', function(event) {
     console.log('Reveal modal opened');
     var modal = $(this);
     console.log('Modal top position:', modal.css('top'));
-    console.log('scroltoppy position:', SCROLLTopy);
-    //$('#exampleModal1').foundation('_disableScroll', SCROLLTopy);
-
-
-
   });
 
   $("#search").on("input", function() {
@@ -225,7 +200,6 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
     $(".person-card, .link-cell").each(function() {
       var name = $(this).data("name");
       var tags = $(this).data("tags");
-
 
       if (name.includes(query) || (tags && tags.includes(query))) {
         $(this).show();
