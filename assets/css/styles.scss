@@ -11,6 +11,26 @@
 }
 
 
+.highlight {
+  background-color: LightPink;
+  padding: 0.2em;
+  border-radius: 0.2em;
+}
+
+.highlight-link {
+  background-color: LightPink;
+  color: #1779ba;
+  padding: 0.2em;
+  border-radius: 0.2em;
+}
+
+.student-q {
+  color: DarkMagenta;
+  font-style: italic;
+  padding: 0.2em;
+  border-radius: 0.2em;
+}
+
 @import "quotes";
 
 {%- for member in site.data.people -%}
