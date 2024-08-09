@@ -25,6 +25,7 @@ repo: https://github.com/csguides/grad-job-guide
 comments: false
 
 header_pages:
+  - index.md
   - jobs.md
   - applying.md
   - interviewing.md
