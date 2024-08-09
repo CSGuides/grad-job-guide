@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About
+title: About Us
+nav: About Us
 permalink: /about/
 description: Learn all about the CS Grad Job and Interview Guide.
 ---

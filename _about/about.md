@@ -1,18 +1,23 @@
 # Authors
 
-This guide has been written predominantly by Wes Weimer (University of
-Michigan), Claire Le Goues (Carnegie Mellon), Zak Fry (GrammaTech),
-Kevin Leach (Vanderbilt University), Yu Huang (Vanderbilt University), 
-Kevin Angstadt (St. Lawrence University), and Madeline Endres (University 
+This guide has been written predominantly by [Wes Weimer](https://web.eecs.umich.edu/~weimerw/) (University of
+Michigan), [Claire Le Goues](https://clairelegoues.com/) (Carnegie Mellon), Zak Fry (GrammaTech),
+[Kevin Leach](https://kjl.name/) (Vanderbilt University), [Yu Huang](https://yuhuang-lab.github.io/) (Vanderbilt University), 
+[Kevin Angstadt](https://myslu.stlawu.edu/~kangstadt/) (St. Lawrence University), and [Madeline Endres](https://madelineendres.com) (University 
 of Massachusetts, Amherst). Kevin and Madeline are the primary
 maintainers of this version of the guide (there are older versions out
-there, but we anticipate this site to be most up-to-date.)
+there, but we anticipate this site to be most up-to-date).
 
 # Contributing
 
 We welcome contributions from the community to this guide.  The repository is
-[hosted on GitHub]({{site.repo}}).  We will post instructions and guidelines
-soon.
+[hosted on GitHub]({{site.repo}}). If you have any questions about contributing, please email Madeline Endres at <mendres@umass.edu>.
+
+## Contributing Application Materials
+
+We are always looking for more application material profiles, especially for job-types or job-locations that are currently under-represented in our guide. These materials are hosted on the [Example Materials tab](exampleMaterials.md), and can help students contextualize their application and deal with imposter syndrome. 
+
+If you are interesting in contributing your materials, please fill out our contribution form available [here](https://docs.google.com/forms/d/e/1FAIpQLSdLHwzuCsOcKHNBZBO9LGiWhVZPbcIE5-VpQ5hL8wQcFRAAMQ/viewform?usp=sf_link). This form includes places to upload PDFs of your materials, as well as add any information you'd like to better contextualize your application for readers. In this form, you can also indicate if you'd like to be kept anonymous. All materials are optional -- we greatly appreciate anything you'd be willing to share!
 
 ## Problems with the Website
 
