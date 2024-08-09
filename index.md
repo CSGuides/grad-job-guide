@@ -4,6 +4,7 @@
 
 layout: default
 title: Computer Science Graduate Job and Interview Guide
+nav: Overview
 ---
 
 # Introduction
@@ -106,4 +107,6 @@ ask the lady if she wants something to drink first.
 institution or other institutions at which you are interviewing.  This rule
 applies even if your current institution is legitimately dysfunctional.
 
-{% include_relative _about/about.md %}
+## [About Us](about.md)
+
+For more information about the authors of this Guide, along with contribution instructions, see our [About Us](about.md) tab. In general, if you have any questions about this Guide, please email Madeline Endres at <mendres@umass.edu>.
