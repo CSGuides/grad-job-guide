@@ -7,7 +7,9 @@
 
 title: "CS Grad Job and Interview Guide"
 author: "Kevin Angstadt"
+author2: "Madeline Endres"
 email: kangstadt@stlawu.edu
+email2: mendres@umass.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This document summarizes experience, opinions, and advice (and advice received
   from others) on looking for jobs in academia and industrial research labs in the
@@ -16,7 +18,8 @@ baseurl: "/grad-job-guide" # the subpath of your site, e.g. /blog
 url: "https://csguides.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username:  csguides
-google_analytics: G-PNQ65W15RF
+# google_analytics: G-PNQ65W15RF # kevin's
+google_analytics: G-V6DRFB5162 # Maddy's
 
 repo: https://github.com/csguides/grad-job-guide
 comments: false
@@ -27,8 +30,7 @@ header_pages:
   - interviewing.md
   - deciding.md
   - exampleMaterials.md
-
-
+  - about.md
 
 footer_pages:
   - about.md
