@@ -118,7 +118,7 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
         <h3 id="example-${key}">Example ${label}s
         <a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="#example-${key}" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a>
         </h3>
-        ${detailsLinkLoc ? `<p>(Click <a href="${siteUrl}${baseUrl}/${detailsLinkLoc}">here</a> for more information about preparing your ${label}</p>` : ''}
+        ${detailsLinkLoc ? `<p>(Click <a href="${siteUrl}${baseUrl}/${detailsLinkLoc}">here</a> for more information about preparing your ${label})</p>` : ''}
         <div class="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3" id="${key}Content">
           <!-- Dynamic Content -->
         </div>
