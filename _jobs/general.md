@@ -33,14 +33,17 @@ or may not apply for non US applicants.
   John Cabot University in Italy.  These schools are located outside of the US
   but follow many US practices with respect to tenure and conduct
   classes in English. This is basically just like a job at a US university. 
-  
+
   The trick here is that they tend not to take US applicants seriously. US
   applicants typically tend (for whatever reason -- picking the known over the
   unknown, staying close to family, trying to use such places as safety schools,
   etc.) not to accept jobs even when they are offered.  
   You should only apply for non-US positions if you're serious about them. 
   You're making it harder for everyone else otherwise.
-  
+
+	<details>
+	<summary> Expand for more information on applying to Non-US US-Like Research Academia:</summary>
+	<br>
   We recommend including a few sentences in your cover letter and research
   statement explicitly stating why you really want to go there and why
   they should take you seriously (e.g., you speak the local language, you have family
@@ -64,8 +67,9 @@ or may not apply for non US applicants.
   to both.  Evidently there is considerable variation in terms of how well the two
   departments get along at different schools. All schools will tell you that they
   get along capitally, especially as compared to all other schools, which are
-  plagued by infighting and competition.
-
+  plagued by infighting and competition..
+	</details>
+  
 - **Non-US Research Academia**: This includes places like ENS in
   France, Oxford in the UK and Tsinghua in China. These places may not
   conduct classes in English, usually have a different promotion and tenure
