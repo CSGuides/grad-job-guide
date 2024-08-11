@@ -108,6 +108,18 @@
       "profileImageLoc": "endremad/Endres_headshot.jpeg",
       "jobTalk": "endremad/Endres_jobTalk.pdf",
       "tags": ["Software Engineering", "Programming Languages", "No Post-doc", "R1 Tenure Track"]
+    },
+    {
+      "id": 11,
+      "name": "Hammad Ahmad",
+      "cycle": "2023-2024",
+      "coverLetter": "hammada/Hammad_CMU_cover_letter.pdf",
+      "researchStatement": "hammada/Hammad_Research_Statement.pdf",
+      "teachingStatement": "hammada/Hammad_Teaching_Statement.pdf",
+      "diversityStatement": "hammada/Hammad_DEI_Statement.pdf",
+      "profileImageLoc": "hammada/hammad_headshot.png",
+      "teachingTalk": "hammada/teaching_talk_hash_tables.pdf",
+      "tags": ["Software Engineering", "No Post-doc", "Teaching-Focused Position"]
     }
   ]
   

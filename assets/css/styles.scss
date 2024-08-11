@@ -2,6 +2,18 @@
 # this should make it be processed
 ---
 
+summary {
+  font-style: italic;
+}
+
+details {
+  background-color: rgb(238, 216, 248);
+  border-radius: 0.5em 0.5em;
+  padding: 5px;
+  margin-bottom: 15px;
+
+}
+
 .site-footer {
   background-color: #f5f5f5;
 }
@@ -19,9 +31,9 @@
   background: transparent;
   background-image: linear-gradient(
     to right,
-    rgba(221, 141, 255, 0.1),
+    rgba(221, 141, 255, 0.2),
     rgba(221, 141, 255, 0.7) 4%,
-    rgba(221, 141, 255, 0.3)
+    rgba(221, 141, 255, 0.4)
   );
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;
@@ -35,9 +47,9 @@
   background: transparent;
   background-image: linear-gradient(
     to right,
-    rgba(221, 141, 255, 0.1),
+    rgba(221, 141, 255, 0.2),
     rgba(221, 141, 255, 0.7) 4%,
-    rgba(221, 141, 255, 0.3)
+    rgba(221, 141, 255, 0.4)
   );
   -webkit-box-decoration-break: clone;
   box-decoration-break: clone;

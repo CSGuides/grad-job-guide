@@ -1,6 +1,17 @@
 $(document).foundation();
 
-const colors = ["#13154e", "#4f1f5d", "#a9288c", "#a769cc", "#7587db", "#7c133d", "#3333cc", "#69b64f", "#69b64f", "#f25c5c", "#f6ab53"];
+const colors = ["#13154e", 
+                "#4f1f5d", 
+                "#a9288c", 
+                "#a769cc", 
+                "#7587db", 
+                "#7c133d", 
+                "#3333cc", 
+                "#69b64f", 
+                "#69b64f", 
+                "#f25c5c", 
+                "#f6ab53",
+                "#008000"];
 let colorAssignment = {};
 
 function getColorForTag(tag) {

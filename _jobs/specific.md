@@ -1,4 +1,4 @@
-# Where To Apply In Particular
+# Where Can I Find Specific Jobs?
 
 Now that you know the sorts of jobs you're looking for, you still have to find
 actual jobs to apply for. Here are some approaches:
@@ -115,3 +115,4 @@ tenure-track positions.  We also received another 3 verbal offers for
 joint tenure-track positions. 
 {% endcapture %}
 {% include quote.html content=quote user="kleach" %}
+
