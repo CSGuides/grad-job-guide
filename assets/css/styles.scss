@@ -2,6 +2,18 @@
 # this should make it be processed
 ---
 
+summary {
+  font-style: italic;
+}
+
+details {
+  background-color: rgb(238, 216, 248);
+  border-radius: 0.5em 0.5em;
+  padding: 5px;
+  margin-bottom: 15px;
+
+}
+
 .site-footer {
   background-color: #f5f5f5;
 }

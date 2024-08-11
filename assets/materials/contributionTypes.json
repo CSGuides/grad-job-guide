@@ -4,5 +4,6 @@
     "researchStatement": [3, "Research Statement", "applying/#preparing-your-resume"],
     "teachingStatement": [4, "Teaching Statement", "applying/#preparing-your-research-and-teaching-statements"],
     "diversityStatement": [5, "Diversity Statement", null],
-    "jobTalk": [6, "Job Talk", null]
+    "jobTalk": [6, "Job Talk", null],
+    "teachingTalk": [7, "Teaching Talk", null]
 }

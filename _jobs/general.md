@@ -1,150 +1,152 @@
 # What Jobs Exist?
 
 Despite the canonical "industry versus academia" phrasing, there are
-actually a number of choices. We introduce several options below. We note
-that this guide is written from a US perspective, so these categories may
-or may not apply for non US applicants.
+actually many more options available. Below, we introduce several job
+categories. *Note that this guide is written from a U.S. perspective, so 
+these categories may not be as helpful for non-U.S. 
+applicants.
 
-- **US Research Academia**: This includes "top-ten" schools like MIT,
+- **U.S. Research Academia**: This includes "top-ten" schools like MIT,
   CMU, Berkeley, Stanford, and Cornell as well schools with lower rankings 
-  like UC Irvine, Purdue, Rutgers, and Virginia. Professors often consider 
-  this the default type of application. 
+  like UC Irvine, Purdue, Rutgers, and Virginia. *Professors often consider 
+  this the default type of application.* 
 
-- **Industrial Research Labs**: This includes Microsoft Research, IBM
+- **Industrial Research Labs**: This category includes Microsoft Research, IBM
   Research (T.J. Watson), Intel Labs, GrammaTech, Bell Labs, Sun Labs, NEC,
-  BBN Raytheon, Google, and so on.  
-  We group Federally Funded Research and Development Centers
-  (FFRDCs) like Lincoln Labs and MITRE in this category. 
+  BBN Raytheon, Google, and so on. We also include Federally Funded 
+  Research and Development Centers (FFRDCs) like Lincoln Labs and MITRE here.
 
 - **Industrial "Startups"**: This includes Ph.D.-seeking high-tech
   companies or recently-formed startups. Examples
   include Coverity, Green Hills, Fortify and EMC. 
-  We have no personal experience with this type
-  of work, but others suggest that it typically involves taking a research
-  idea much further than you would in academia. Over the course of years you
-  take a good idea from concept to product with all of the steps along the
-  way (e.g., documentation, testing, shipping, marketing). Advice we've
-  received suggests that this is actually very rewarding and that "right out
-  of school" is not a bad time to try it. 
+  We don’t have personal experience in this area, but others suggest
+  that this work typically involves taking a research idea much further 
+  than in academia, from concept to product, with all the steps along 
+  the way (e.g., documentation, testing, shipping, marketing). Advice 
+  we've received suggests that this can be very rewarding, and "right 
+  out of school" is not a bad time to try it.
 
-- **Non-US US-Like Research Academia**: This includes McGill, Toronto,
+- **Non-U.S. U.S.-Like Research Academia**: This includes institutions like McGill, Toronto,
   Waterloo, and UBC in Canada; EPFL in Switzerland; University College London
   in the UK; and lesser-known places like
-  John Cabot University in Italy.  These schools are located outside of the US
-  but follow many US practices with respect to tenure and conduct
-  classes in English. This is basically just like a job at a US university. 
-
-  The trick here is that they tend not to take US applicants seriously. US
+  John Cabot University in Italy. These schools operate similarly to U.S. 
+  universities with respect to tenure and typically conduct classes in 
+  English. However, U.S. applicants are sometimes not taken as 
+  seriously, as they often decline job offers when given. 
+  Apply to these positions only if you are serious about them, to avoid 
+  making the process harder for others.
+  <!--The trick here is that they tend not to take US applicants seriously. US
   applicants typically tend (for whatever reason -- picking the known over the
   unknown, staying close to family, trying to use such places as safety schools,
-  etc.) not to accept jobs even when they are offered.  
-  You should only apply for non-US positions if you're serious about them. 
-  You're making it harder for everyone else otherwise.
-
+  etc.) not to accept jobs even when they are offered. You should only apply for 
+  non-US positions if you're serious about them. You're making it harder for 
+  everyone else otherwise.-->
 	<details>
-	<summary> Expand for more information on applying to Non-US US-Like Research Academia:</summary>
-	<br>
-  We recommend including a few sentences in your cover letter and research
-  statement explicitly stating why you really want to go there and why
-  they should take you seriously (e.g., you speak the local language, you have family
-  there, you are not tied to the US, etc.).  You can also emphasize these
-  facts on the phone and in person.  For example, Claire is of Francophone descent
-  and speaks French fluently, facts that are relevant in Canada even outside
-  Quebec.  If you are granted an interview, try to know (at a minimum) the name
-  of the current prime minister and all of the provinces (states, departments,
-  whatever) of the country in question.
+	<summary>Expand for more on applying to Non-US US-Like Research Academia</summary>
+  <p>When applying to these institutions, it's important to convey
+  why they should take your application seriously. We recommend including a few sentences in your cover letter and research
+  statement explicitly stating why you really want to go there (e.g., you speak the local language, have family
+  there, or are not tied to the U.S.). Also emphasize these points during 
+  phone calls and interviews. For example, Claire's Francophone 
+  background and fluency in French were relevant in Canada, even outside 
+  Quebec.</p>
   
-  If you are offered an interview or a position at such an institution, ask about
-  immigration and the kind of help they'll provide you and your spouse (if relevant).  
+  <p>If granted an interview, familiarize yourself with the country's 
+  basic political and geographical details (e.g., the name
+  of the current prime minister, or all of the provinces of the country 
+  in question). If you are offered a position, ask about immigration 
+  assistance and support for you and your spouse (if applicable)..  
   The school will have experience with these issues and can be quite
-  helpful.  It is also legitimate to ask about differences between academic
-  systems.  For example, salaries in Canada are 12-month, not 9; tenure is decided
+  helpful.  It is also legitimate to ask about differences between 
+  academic systems.  For example, salaries in Canada are 12-month, not 
+  9; tenure is decided
   at 5 years, not 6; and the funding system is almost entirely different as
-  compared to the States.
+  compared to the States.</p>
   
-  One more word on applying to Canada: Canadian CS and ECE departments are
-  typically interchangeable for the purposes of an SE applicant, and thus you should apply
-  to both.  Evidently there is considerable variation in terms of how well the two
-  departments get along at different schools. All schools will tell you that they
+  <p>One more word on applying to Canada: Computer Science (CS) and Electrical and Computer Engineering (ECE) departments are often 
+  interchangeable for Software Engineering applicants. Apply to both, 
+  but be aware that relationships between the two departments vary by 
+  school. All schools will tell you that they
   get along capitally, especially as compared to all other schools, which are
-  plagued by infighting and competition..
-	</details>
-  
-- **Non-US Research Academia**: This includes places like ENS in
-  France, Oxford in the UK and Tsinghua in China. These places may not
-  conduct classes in English, usually have a different promotion and tenure
-  scheme, and often have different requirements (e.g., they may expect a
-  post-doc or a second degree and they are rumored to tend to hire "locally").
-  We can't help you here, and in general if you don't already know much more
-  about this corner of the world than we do you shouldn't count on ending up
-  at one of these places.  The one piece of insight we can add is that in the UK
-  in particular, a post-doc is effectively mandatory.
+  plagued by infighting and competition.</p></details>
 
+- **Non-US Research Academia**: This includes institutions like ENS in
+  France, Oxford in the UK and Tsinghua in China. These schools may not
+  conduct classes in English, usually have different promotion and tenure
+  schemes, and often have different requirements (e.g., post-docs, 
+  second degrees). For example, in the UK, a post-doc is effectively 
+  mandatory. Hiring is often localized, so if you’re not already 
+  familiar a given institution or location, you may not want to count on 
+  them as a job option.
+   
 - **Top-Tier Teaching Academia**: This includes places like Carleton,
   Williams, Wesleyan, Oberlin and Brown. Faculty here still conduct research
-  but undergraduate education is emphasized and the graduate program (and
-  thus graduate students) will be smaller or non-existent. (As an aside, a
+  but undergraduate education is emphasized, and the graduate program is smaller or non-existent. (As an aside, a
   <i>university</i> has a graduate program and a <i>college</i> does not.) 
-  Teaching at least 3 courses per year is common. 
+  Teaching three or more courses per year is common. 
 
-- **Teaching Academia**: This includes standard small liberal arts
-  universities that you probably haven't heard of unless you're from the
-  locale. Shippensburg, Lock Haven, Haverford, Juniata and Ithaca College are
-  all good examples. Here the emphasis will be on undergraduate education,
+- **Teaching Academia**: This includes smaller liberal arts colleges 
+  that may be less well-known outside their local areas, such as 
+  Shippensburg, Lock Haven, Haverford, Juniata, and Ithaca College. Here 
+  the emphasis will be on undergraduate education,
   undergraduate advising and scholarship (to the possible exclusion of the
-  constantly-publishing-papers type of research). Teaching 6 courses a year
-  is common. In addition, the salary will probably be around half of what you
+  constantly-publishing-papers type of research). Teaching six courses a year
+  is common, and salaries are generally around half of what you
   would receive from the Research Academia category. 
 
-- **"Instructor" Positions**: Most top-tier schools (Michigan and 
-  Virginia are both examples) have full-time teaching-focused positions.
-  Job titles vary from "Teaching Professor" to "Instructor" or "Lecturer". 
+- **"Instructor" Positions**: Most top-tier schools, including Michigan
+  and Virginia, have full-time teaching-focused positions.
+  Job titles vary, including "Teaching Professor", "Instructor" or "Lecturer". 
   These positions may or may not be tenure-track (and often are not). 
   However, they often have a "social tenure" or "formal expectation of continued 
   employment" at around the six-year mark that mimics tenure. They tend to
-  focus on teaching undergraduate "service" courses (freeing up the research
-  faculty to do other things). In such a position you typically have no
-  research requirements but a high teaching requirement of CS100-ish classes.
-  If you are interested in one, we recommend you reach out to
-  the teaching-focused instructors faculty at your university.
+  focus on teaching undergraduate "service" courses. 
+  In such a position you typically have no
+  research requirements but a high teaching requirement.
+  <!--If you are interested in one, we recommend you reach out to
+  the teaching-focused instructors faculty at your university.-->
 
-- **Standard Industry**: If you want to get a job as a normal
-  Microsoft Developer, your Ph.D. certainly qualifies you. You don't need
-  this document in that case. Typically grad students aren't interested in
-  standard dev jobs, but it might be handy to remember that they're out there
-  if you're jousting with a two-body problem. There is something to be said
-  for having your work "end" when you go home for the evening or the weekend.
+- **Standard Industry**: If you want to get a job as a standard
+  Developer, your Ph.D. certainly qualifies you. You don't need
+  this document in that case. While grad students often aim for more 
+  research-oriented roles, these positions are a solid option, 
+  particularly if you face a two-body problem. A key advantage is the 
+  work-life balance, with clear boundaries between work and personal 
+  time.
 
-- **Post-Docs**: Post-docs remain somewhat rare in Computer Science (at
-  least in our neck of the woods, that is, Not Theory). Traditionally, European
-  grad students apply for post-docs in the US and then apply for another job
-  later.  They have become more common in the US since 2008, as a number of
-  schools froze hiring post-financial crisis and during COVID-19.  The low job 
-  supply forced otherwise
-  qualified candidates to take post-docs and try again later.  It then became more
+- **Post-Docs**: Post-doc positions are still somewhat rare in Computer 
+  Science, especially outside of CS Theory. However, they have become 
+  more common in the U.S. due to the 2008 the financial crisis and 
+  COVID-19; during and after both, many schools froze hiring. 
+  The low job supply forced
+  qualified candidates into post-doc roles. It then became more
   difficult for fresh PhDs to compete with such buffed CVs. That said, it is
-  still possible (as of 2024) to acquire a tenure-track faculty position in SE or
-  Systems without completing a post-doc first.  
-  Taking a post-doc gives you time to flesh out your resume
-  with additional publications. On the other hand, if you have taken a post-doc
-  people will expect your resume to be flush with publications. The typical advice
-  is that if you can get a job without getting a post-doc, go for the
-  job.
+  still possible (as of 2024) to acquire a tenure-track faculty position in Software Engineering or
+  Systems without completing a post-doc first. 
+  
+  Taking a post-doc caq give you time to build your publication record. 
+  In addition, post-docs can be helpful
+  for non U.S. grad students who eventually want a full-time position in 
+  the U.S. On the other hand, if you have taken a post-doc
+  people will expect more publications. The general advice is to accept 
+  a tenure-track job if you can get one without a post-doc.
 
-Having enumerated all of those possible options, we will now conveniently
-forget all of them except research academia and industrial research labs.
+**In this Guide, we focus on the jobs where we have the
+most direct experience: US Research Academia, Industrial Research Labs,
+Teaching Academia, and ``Instructor'' positions.**
 
-Ultimately you must decide what sort of positions you will apply for on
-your own. A research position is not inherently "better" or "worse" than a
-teaching position -- they are made up of different things. Find out what
-makes you happy. 
+
+Ultimately you must decide what sort of positions you will apply for based on your own interests and goals. <span class="highlight">A research position is not inherently "better" or "worse" than a
+teaching position---they are made up of different things. Find out what
+makes you happy. </span>
+
 
 # When Should I Apply to Jobs?
 
-If you plan to be doing your job search interviews in the Spring of Year X
-you must submit applications in the Fall of Year X-1 (or by January 15-ish
-of Year X). You must decide where you will be applying early because
-different categories of institutions have different deadlines. 
+If you plan to be interviewing for jobs in the spring of Year X, you 
+must submit applications in the fall of Year X-1 (or by mid-January of 
+Year X). Deciding where to apply early is crucial because different 
+types of institutions have different deadlines.
 
 - **Research Academia**:  The earliest deadline that we've seen for a Research 
   Academia position is November 15th, and most applications will be due in December or January.
