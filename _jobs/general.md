@@ -3,10 +3,10 @@
 Despite the canonical "industry versus academia" phrasing, there are
 actually a number of choices:
 
-- **Research Academia**: This includes "top-ten" schools like MIT,
+- **US Research Academia**: This includes "top-ten" schools like MIT,
   CMU, Berkeley, Stanford, and Cornell as well schools with lower rankings
   like UC Irvine, Purdue, Rutgers and Virginia. Professors often consider 
-  this the default type of application. 
+  this the default type of application.
 
 - **Industrial Research Labs**: This includes Microsoft Research, IBM
   Research (T.J. Watson), Intel Labs, GrammaTech, Bell Labs, Sun Labs, NEC,
