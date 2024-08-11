@@ -1,12 +1,14 @@
 # What Jobs Exist?
 
 Despite the canonical "industry versus academia" phrasing, there are
-actually a number of choices:
+actually a number of choices. We introduce several options below. We note
+that this guide is written from a US perspective, so these categories may
+or may not apply for non US applicants.
 
 - **US Research Academia**: This includes "top-ten" schools like MIT,
-  CMU, Berkeley, Stanford, and Cornell as well schools with lower rankings
-  like UC Irvine, Purdue, Rutgers and Virginia. Professors often consider 
-  this the default type of application.
+  CMU, Berkeley, Stanford, and Cornell as well schools with lower rankings 
+  like UC Irvine, Purdue, Rutgers, and Virginia. Professors often consider 
+  this the default type of application. 
 
 - **Industrial Research Labs**: This includes Microsoft Research, IBM
   Research (T.J. Watson), Intel Labs, GrammaTech, Bell Labs, Sun Labs, NEC,
@@ -29,29 +31,32 @@ actually a number of choices:
   Waterloo, and UBC in Canada; EPFL in Switzerland; University College London
   in the UK; and lesser-known places like
   John Cabot University in Italy.  These schools are located outside of the US
-  but follow many US practices with respect to tenure and research and conduct
+  but follow many US practices with respect to tenure and conduct
   classes in English. This is basically just like a job at a US university. 
-  
+
   The trick here is that they tend not to take US applicants seriously. US
   applicants typically tend (for whatever reason -- picking the known over the
   unknown, staying close to family, trying to use such places as safety schools,
-  etc.) not to accept jobs at such places even when they are offered.  
-  You should only apply for such positions if you're serious about them (we both
-  were). You're making it harder for everyone else otherwise.
-  
-  We recommend including an explicit notice in your cover letter and research
-  statement detailing (in a few sentences) why you really want to go there and why
+  etc.) not to accept jobs even when they are offered.  
+  You should only apply for non-US positions if you're serious about them. 
+  You're making it harder for everyone else otherwise.
+
+	<details>
+	<summary> Expand for more information on applying to Non-US US-Like Research Academia:</summary>
+	<br>
+  We recommend including a few sentences in your cover letter and research
+  statement explicitly stating why you really want to go there and why
   they should take you seriously (e.g., you speak the local language, you have family
-  there, you are not tied to the US, whatever).  You can also emphasize these
+  there, you are not tied to the US, etc.).  You can also emphasize these
   facts on the phone and in person.  For example, Claire is of Francophone descent
   and speaks French fluently, facts that are relevant in Canada even outside
-  Quebec.  If you are granted an interview, be able to recall at minimum the name
+  Quebec.  If you are granted an interview, try to know (at a minimum) the name
   of the current prime minister and all of the provinces (states, departments,
   whatever) of the country in question.
   
   If you are offered an interview or a position at such an institution, ask about
-  immigration and the kind of help they'll provide you and your spouse in crossing
-  borders.  Such schools have experience with these issues and can be quite
+  immigration and the kind of help they'll provide you and your spouse (if relevant).  
+  The school will have experience with these issues and can be quite
   helpful.  It is also legitimate to ask about differences between academic
   systems.  For example, salaries in Canada are 12-month, not 9; tenure is decided
   at 5 years, not 6; and the funding system is almost entirely different as
@@ -62,8 +67,9 @@ actually a number of choices:
   to both.  Evidently there is considerable variation in terms of how well the two
   departments get along at different schools. All schools will tell you that they
   get along capitally, especially as compared to all other schools, which are
-  plagued by infighting and competition.
-
+  plagued by infighting and competition..
+	</details>
+  
 - **Non-US Research Academia**: This includes places like ENS in
   France, Oxford in the UK and Tsinghua in China. These places may not
   conduct classes in English, usually have a different promotion and tenure
