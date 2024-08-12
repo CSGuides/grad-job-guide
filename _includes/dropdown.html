@@ -1,0 +1,8 @@
+<div>
+<details>
+    <summary>{{ include.summary | markdownify | remove: "<p>" | remove: "</p>" }}</summary>
+    <div>
+        {{ include.details | markdownify }}
+    </div>
+</details> 
+</div>

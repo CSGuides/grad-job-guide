@@ -1,10 +1,10 @@
 # What Jobs Exist?
 
 Despite the canonical "industry versus academia" phrasing, there are
-actually many more options available. Below, we introduce several job
+actually many options available. Below, we introduce several job
 categories. *Note that this guide is written from a U.S. perspective, so 
 these categories may not be as helpful for non-U.S. 
-applicants.
+applicants.*
 
 - **U.S. Research Academia**: This includes "top-ten" schools like MIT,
   CMU, Berkeley, Stanford, and Cornell as well schools with lower rankings 
@@ -12,8 +12,8 @@ applicants.
   this the default type of application.* 
 
 - **Industrial Research Labs**: This category includes Microsoft Research, IBM
-  Research (T.J. Watson), Intel Labs, GrammaTech, Bell Labs, Sun Labs, NEC,
-  BBN Raytheon, Google, and so on. We also include Federally Funded 
+  Research (T.J. Watson), Google Research,  Meta Research, Intel Labs, GrammaTech, 
+  BBN Raytheon, and so on. We also include Federally Funded 
   Research and Development Centers (FFRDCs) like Lincoln Labs and MITRE here.
 
 - **Industrial "Startups"**: This includes Ph.D.-seeking high-tech
@@ -87,7 +87,7 @@ applicants.
 
 - **Teaching Academia**: This includes smaller liberal arts colleges 
   that may be less well-known outside their local areas, such as 
-  Shippensburg, Lock Haven, Haverford, Juniata, and Ithaca College. Here 
+  Shippensburg, Coe College, Lock Haven, Haverford, Juniata, and Ithaca College. Here 
   the emphasis will be on undergraduate education,
   undergraduate advising and scholarship (to the possible exclusion of the
   constantly-publishing-papers type of research). Teaching six courses a year
@@ -124,7 +124,7 @@ applicants.
   still possible (as of 2024) to acquire a tenure-track faculty position in Software Engineering or
   Systems without completing a post-doc first. 
   
-  Taking a post-doc caq give you time to build your publication record. 
+  Taking a post-doc can give you time to build your publication record. 
   In addition, post-docs can be helpful
   for non U.S. grad students who eventually want a full-time position in 
   the U.S. On the other hand, if you have taken a post-doc
@@ -138,58 +138,56 @@ Teaching Academia, and ``Instructor'' positions.**
 
 Ultimately you must decide what sort of positions you will apply for based on your own interests and goals. <span class="highlight">A research position is not inherently "better" or "worse" than a
 teaching position---they are made up of different things. Find out what
-makes you happy. </span>
+makes you happy.</span>
 
 
 # When Should I Apply to Jobs?
 
 If you plan to be interviewing for jobs in the spring of Year X, you 
-must submit applications in the fall of Year X-1 (or by mid-January of 
+will submit applications in the fall of Year X-1 (or by mid-January of 
 Year X). Deciding where to apply early is crucial because different 
 types of institutions have different deadlines.
 
-- **Research Academia**:  The earliest deadline that we've seen for a Research 
-  Academia position is November 15th, and most applications will be due in December or January.
-  Job postings usually contain a deadline for when they will "start considering" applications.
-  In practice, however, many positions will accept and review applications submitted 
-  after this date. Thus, if you missed an application deadline by a few days or a week, 
-  it may still be worth applying. 
+- **U.S. Research Academia**:  The earliest deadlines are around November 15th, 
+  with most applications due in December or early January. 
+  Job postings often state when they will "start considering" applications, but 
+  many positions accept and review late submissions. 
   It is rare, but not unheard of, for a school to have a hard application
-  deadline. For example, Madeline was unable to apply to UC Berkeley due to a missed
-  deadline on December 1st. However, she also received a job offer for a school that she applied
-  to two-weeks after the stated deadline. We recommend that you read through job postings
-  carefully, and keep track of deadlines using a spreadsheet.
+  deadline. For example, Madeline was unable to apply to UC Berkeley due to a 
+  missed deadline on December 1st. However, she also received a job offer from 
+  a school where she applied
+  two weeks after the deadline. *We recommend that you read through job postings
+  carefully and keep track of deadlines using a spreadsheet.*
 
-- **Industrial Research Labs**: Industry tends to feature "rolling
-  interviews" (they aren't on Academia's semester clock) but they will do
-  most of their interviewing for this type of position at the same time as
-  academia will.  
+- **Industrial Research Labs**: Industry typically conducts rolling interviews, 
+  but the main hiring season often aligns with academia. 
 
-- **Industrial "Startups"**: These also generally follow
-  Industry's looser time clock.
+- **Industrial "Startups"**: These also generally follow industry's
+  more flexible hiring timeline.
 
-- **Non-US US-Like Research Academia**: Like with US Research Academia, 
+- **Non-U.S. U.S.-Like Research Academia**: Like with U.S. Research Academia, 
   your applications will typically be due in November, December, or January.
 
-- **Non-US Research Academia**: These can vary widely, and may or may not
-  align with the US semester clock.
+- **Non-U.S. Research Academia**: Timelines can vary widely, and may not
+  align with the U.S. academic calendar.
 
-- **Top-Tier Teaching Academia**: The interview schedule for
-  such schools is typically one to two months ahead of the schedule for
-  Research Academia (e.g., late September or October). Your application and letters of recommendation will be
-  due weeks in advance as well. Thus if you plan on applying to such a school
-  you must have all of your references ready early. 
+- **Top-Tier Teaching Academia**: These schools often begin interviews up to 
+  two months earlier than Research Academia, sometimes as early as October. As 
+  a result, your application and letters of recommendation will need to be 
+  submitted weeks in advance, with some deadlines as early as late September. 
+  *If you plan to apply to these schools, make sure your references are 
+  prepared well ahead of time.*
 
-- **Teaching Academia**: These often follow the same schedule as Top-Tier Teaching
+- **Teaching Academia**: Follows a similar schedule to Top-Tier Teaching
   Academia.
 
 - **"Instructor" Positions**: Depending on the school, these can follow the
   Research or Teaching Academia schedule.
 
-- **Standard Industry**: These will have rolling deadlines, and positions will
-  be posted throughout the year.
+- **Standard Industry**: Rolling deadlines are common, with positions posted 
+  throughout the year.
 
-- **Post-Docs**: Post-doc positions typically use
-  the same calendar as Research Academia, possibly offset slightly and with less
-  strict deadlines (many people conduct a faculty search first before looking for
-  a post-doc position).  
+- **Post-Docs**: These positions typically follow the Research Academia 
+  calendar, but deadlines may be less strict, as many candidates first search 
+  for faculty positions before turning to post-doc opportunities.
+

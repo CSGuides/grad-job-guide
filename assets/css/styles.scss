@@ -4,6 +4,9 @@
 
 summary {
   font-style: italic;
+  display: list-item;
+  list-style-type: disclosure-closed;
+  cursor: pointer;
 }
 
 details {

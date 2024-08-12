@@ -9,36 +9,68 @@ actual jobs to apply for. Here are some approaches:
   (since you're at the same conference they probably like you and the sort of work
   you do, so this isn't all that uncommon). You can expect two or three of these
   from a big conference. They're not required, but can be extremely helpful.
+
+  <details><summary>Expand for our personal experience with word of mouth and job offers</summary>
+  
+  <p>
   Claire gave two conference talks in the six months before applying for jobs and
   found this approach extremely useful.  She did not end those talks with "I am on
-  the job market," but should have in hindsight.
+  the job market," but should have in hindsight. 
+  </p>
+
+  <p>
+  Madeline attended a conference in her last year, and she did end her 
+  talk with "I am on the job market". Two of her job offers came from 
+  institutions where she talked to faculty members as a result of this 
+  announcement.
+  </p>
+  </details>
 
 - **ACM, CRA, and IEEE**: The ACM, CRA, and IEEE Higher Ed all keep
   databases of CS jobs that you can search through.  They have mailing lists that
   can send you daily or weekly postings of the most recent job ads.  The blurbs
   there can be hard to follow, and are not always consistent with either one
   another or what is posted on department websites.  We recommend that you get the
-  names of places that are hiring from these databases and then go to the
-  department websites (or whatnot) to double-check the details.
+  names of places that are hiring from these databases, and then go to the
+  department website to double-check the details.
 
-- **Rankings + Google**: Get a list of department rankings. The two most
-  popular are from US News & World Report and the CRA Taulbee Survey. Go to the
-  department website of every school in the top N and see if they are advertising
-  an opening. Note that they probably won't have the advertisement up until the
-  middle of the Fall Semester.  Claire took the top 100 schools on one such list
+- **Rankings + Google**: If you are applying for academic jobs, 
+  you can use a list of department rankings. The three most
+  popular are from US News & World Report, the CRA Taulbee Survey, and 
+  [CSRankings](https://csrankings.org/#/index?all&us). Pick
+  the one that best aligns with the job type(s) you are applying for. Go to the
+  department website of every school in the top *n* (where *n* is determined by 
+  your career goals and resume), and see if they are advertising
+  an opening. 
+  Note that most schools won't have the advertisement up until the
+  middle of the Fall Semester.  
+  <details><summary>Expand for our recommendations for using this approach:</summary>
+
+  <p>
+  Claire took the top 100 schools on one such list
   and put them in a spreadsheet, with a separate section for Canadian schools.
   She updated the spreadsheet when a school on the list posted a job to one of the
   above-mentioned websites.  Before applying, she reviewed the schools that were
   hiring and filtered according to various preferences. She aimed to apply to
   approximately an equal number of schools ranked above and below her graduate
   institution (UVA).
-  
-  If you choose to take a similar approach, Claire recommends modifying your
+  </p>
+
+  <p>
+  Madeline took the union of the top 30 schools on CSrankings and US News and Report.
+  She also added schools with historical strength in her primary research area (software
+  engineering). She then filtered schools based on those that were hiring and her
+  geographical preference. In the end, she applied to 23 schools.
+  </p>
+
+  <p>If you choose to take a similar approach, we recommends modifying your
   starting list and filtering criteria as appropriate.  Not everyone wants to work
   at a top-ranked school, so don't feel like "top 100" is the only way to go.  For
-  example, Claire aimed to apply mostly to larger departments.  You are likely to
-  have different preferences.
-  
+  example, Claire aimed to apply mostly to larger departments and Madeline wanted
+  a university in a costal state, within two hours of a major city. You are likely to
+  have different preferences.</p>
+  </details>
+
 - **Ask Around**: Your advisor may forward job offers to you. Ask your
   recently-graduated friends if they know anyone who is hiring.
 
