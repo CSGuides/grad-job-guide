@@ -21,7 +21,7 @@ actual jobs to apply for. Here are some approaches:
   <p>
   Madeline attended a conference in her last year, and she did end her 
   talk with "I am on the job market". Two of her job offers came from 
-  institutions where she talked to faculty members as a result of this 
+  institutions where she talked to faculty members after this 
   announcement.
   </p>
   </details>
@@ -60,7 +60,7 @@ actual jobs to apply for. Here are some approaches:
   Madeline took the union of the top 30 schools on CSrankings and US News and Report.
   She also added schools with historical strength in her primary research area (software
   engineering). She then filtered schools based on those that were hiring and her
-  geographical preference. In the end, she applied to 23 schools.
+  geographical preference. 
   </p>
 
   <p>If you choose to take a similar approach, we recommends modifying your
@@ -73,6 +73,8 @@ actual jobs to apply for. Here are some approaches:
 
 - **Ask Around**: Your advisor may forward job offers to you. Ask your
   recently-graduated friends if they know anyone who is hiring.
+
+# How Many Jobs Should I Apply To?
 
 In 2005, Wes applied to 21 places and got 8 interviews and 5 job offers. In
 2013, Claire applied to 28 schools and 1 research lab, got 10 invitations to
