@@ -1,37 +1,62 @@
 # Preparing Your Statements
 
-It's worth noting that many people feel that their statements don't really
-reflect who they are as people. Some are of the opinion that job
-application materials necessarily adopt a "putting yourself forward" or
-"please hire me" tone that's not indicative of how the person really
-behaves in general. Writing these statements can take a surprisingly long
-time because your own draft efforts will invariably sound stupid to you. 
+Your statements are the core of your application. Almost all jobs for
+fresh Ph.D.'s require a [Research Statement](#research-statement). Most 
+academic jobs also require a [Teaching Statement](#teaching-statement) and
+a [Diversity Statement](#diversity-statement).
 
-Aside from asking your friends to show you their statements, a good way to
-get these things is to download them one year early. Almost everyone puts
-their job application materials up on their web page when they are applying
-for a job. In May/June, Googling for `programming languages "teaching
-statement"` yields hundreds of results. Just download some and save
-them. Of course, if you get random people from the Internet you probably
-won't have heard of them and thus won't know if they are good or bad
-examples. So try to soak up all of the documents from people in your
-department that you can get a read on.  
+### General Advice for All Statements
 
-<!--As of 2013, there exists a larger collection of such materials floating
-around in the email archives of recently-hired junior faculty in Software
-Engineering.  Contact Claire if you're seriously on the market, and she will see
-if she can access it for you, so long as you solemnly vow to share your own
-materials after your search concludes.-->
+1. **Start Early:** Writing these statements can take a 
+  surprisingly long time. Many people feel that their statements 
+  don’t fully reflect who they are as people. The job application 
+  process often forces a “putting yourself forward” or “please hire me” 
+  tone that may not feel authentic. **Start early and seek regular 
+  feedback** because your own draft efforts will invariably 
+  feel stupid to you.
 
-Make sure that yours are available
+2. **Review Examples:** Reviewing examples can help you 
+  understand what’s expected for the jobs you are applying for. It can
+  also help you "face the tyranny of the blank page" and start writing.
+  This Guide contains a collection of [Example Materials](exampleMaterials.md)
+  that may help you get started. Additionally, consider asking friends and
+  mentors who were recently on the job market to share their materials.
+  
+  Another good strategy is to download examples from others who have recently 
+  applied for jobs. Many applicants post their materials on their 
+  websites, and a quick Google search (e.g., programming languages 
+  "teaching statement") can yield hundreds of results. We recommend
+  searching for and downloading last year's materials the summer 
+  before you apply (e.g.,
+  May/June), before successful applicants remove them from
+  their websites. Of course, if you get random people from the Internet you probably
+  won't have heard of them and thus won't know if they are good or bad
+  examples. So try to soak up all of the documents from people in your
+  department that you can get a read on. 
+
+3. **Focus on Structure:** Ensure that your statements are 
+  well-organized with clear topic sentences and logical flow. 
+  Some faculty reviewers might skim your statements rather than reading 
+  them in full. Use **bolding** and other structural elements to 
+  make sure the main ideas are easy to grasp at a glance, 
+  and to encourage readers to engage more thoroughly with your application.
+
+4. **Make Your Statements Available Online:** Make sure that your materials are
+  available on your website. Even if you've officially sent in your materials,
+  faculty reviewing your application may download them directly from your
+  webpage, as official application systems can be difficult to navigate.
+  In addition, many of your interviewers will look 
+  at your materials the day (or even hour) before they speak with you, 
+  and they will likely look on your website first. 
+
+
+<!--Make sure that yours are available
 on-line as well. Many places, even places to which you have officially sent
 materials, will get the versions off of your web page because the official
 application materials get lost in the bureaucracy or were printed out
 somewhere or somesuch. Wes was involved in multiple phone and sit-down
 interviews where people mentioned reading the materials from his web page as
-they were talking.  Half of your interviewers will look for/at your materials the
-day/hour before they speak with you, and they will look on your website
-first. 
+they were talking.  
 
 While we're on the subject, people will, in fact, read the details of your web
 page when they are considering you as a candidate. For example, Dave Evans at
@@ -43,6 +68,13 @@ web pages, even if those mentions were exceedingly brief (such as Claire's
 involvement with her local roller derby league).
 
 
+As of 2013, there exists a larger collection of such materials floating
+around in the email archives of recently-hired junior faculty in Software
+Engineering.  Contact Claire if you're seriously on the market, and she will see
+if she can access it for you, so long as you solemnly vow to share your own
+materials after your search concludes.-->
+
+We now detail each statement in turn.
 
 ## Research Statement
 The traditional approach here is to craft your research statement by
