@@ -77,11 +77,23 @@ materials after your search concludes.-->
 We now detail each statement in turn.
 
 ## Research Statement
-The traditional approach here is to craft your research statement by
-summarizing your thesis proposal and to craft your teaching statements by
-looking at what others have written and fumbling around. Here are some
-concrete examples:
+The traditional approach here is to craft your research statement 
+by summarizing your thesis proposal. These statements are typically 2-3 
+pages long and start with an overview of your research goals. They then 
+discuss each main thrust of your thesis proposal. If you are applying for a 
+teaching-focused job, such as in Liberal Arts academia, you might consider 
+including a section on the role undergraduate mentorship plays in your 
+research.
 
+References aren't required in a research 
+statement, but they don't hurt if you feel better including them (
+or if you have a bunch of publications and
+want to highlight that). Kevin Leach notes that by the time he was
+applying for jobs, he had published across several disciplines.  He used
+citations in his research statement to help the reader follow which
+publications were most relevant in constructing a coherent narrative.
+
+Here are some concrete examples:
 
 {% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer" | split: ',' %} 
 {% if site.data.people %}
@@ -100,30 +112,32 @@ concrete examples:
 For more examples of research statements, see the 
 [Example Materials](exampleMaterials.md) tab.
 
-
-References aren't required in a research statement, but they don't hurt
-if you feel better with them (or if you have a bunch of publications and
-want to highlight that).  Kevin Leach notes that by the time he was
-applying for jobs, he had published across several disciplines.  KL used
-citations in his research statement to help the reader follow which
-publications were most relevant in constructing a coherent narrative.
-
-
 ## Teaching Statement
 
-Almost all teaching statements seem to end up looking somewhat identical
-(see Lerner, Jhala and Whaley above). At Wesleyan, the only place Wes went
-that mentioned his teaching statement at all, they mentioned that it was
-creative and the best one they had seen in a while.  Given how interesting
-his isn't, that gives you a good idea for how low the bar is set if you
-want to do something personal with your teaching statement. Being
-yourself is still key, however. Not everyone should go for a teaching
-statement in which they claim not to be nice. Andy Begel's emphasis on
-education results is something of an upper bound on teaching statement
-impressiveness (unless you're actually in CS education), and a statement
-like his would fit in well if you're aiming for a teaching job.
+Teaching statements are also typically 2-3 pages long, with three pages
+being more common if you are going for a teaching-focused role.
 
-{% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer" | split: ',' %} 
+They usually begin with an overview of your *teaching philosophy*,
+which communicates your beliefs about teaching and learning. This
+includes how you approach your role as an educator and how you
+engage with students. It may
+take some time to develop your teaching philosophy. If you are stuck,
+it can be helpful to brainstorm specific examples from your teaching
+experiences that you might want to talk about, and then think about if there
+are any underlying values connecting them. In the rest of your statement, you'll want to
+summarize your teaching experience, and then demonstrate how your
+teaching philosophy is realized through compelling examples and
+anecdotes.
+
+If you are applying for a *research-focused* position, you might consider
+including your approach to mentoring junior researchers. If you
+are going for a *teaching-focused* position, you may want to focus
+more on classroom teaching, and talk about your experience with lecturing and
+course design.
+
+Here are some concrete examples:
+
+{% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer,hammada" | split: ',' %} 
 {% if site.data.people %}
 {% assign sorted_id = site.data.people | sort: 'id' %}
 {%- for dossier in sorted_id -%}
@@ -140,7 +154,35 @@ like his would fit in well if you're aiming for a teaching job.
 For more examples of teaching statements, see the 
 [Example Materials](exampleMaterials.md) tab.
 
+Overall, most teaching statements tend to look
+somewhat similar. At Wesleyan, the only place Wes went
+that mentioned his teaching statement at all, they mentioned that it was
+creative and the best one they had seen in a while.  Given how interesting
+his isn't, that gives you a good idea for how low the bar is set if you
+want to do something personal with your teaching statement. Being
+yourself is still key, however. Not everyone should go for a teaching
+statement in which they claim not to be nice. Hammad's emphasis on
+education results is something of an upper bound on teaching statement
+impressiveness, and a statement
+like his works well if you're aiming for a teaching job.
+
 ## Diversity Statement
+
+Since 2015, Diversity Statements (or Diversity, Equity, and 
+Inclusion Statements) have
+become increasingly popular. These are typically 1-2 pages long 
+and demonstrate your commitment to contributing to a supportive 
+and inclusive environment.
+
+In our personal opinion, the best diversity statements focus
+on actions you've taken for sustainable change and support rather than 
+meaningless platitudes. For example,
+Madeline talked about organizing a speaker series to expose students
+to different CS careers, including metrics on attendance and
+and the positive feedback she received. However, some readers may 
+expect a diversity philosophy at the start.
+
+Here are a few concrete examples:
 
 {% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer" | split: ',' %} 
 {% if site.data.people %}
