@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preparing Your Application
-nav: Applying
+nav: Application Materials
 description: >-
   This portion of the guide describes the materials needed for applications as 
   well as some tips for their preparation.
