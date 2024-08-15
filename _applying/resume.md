@@ -102,7 +102,7 @@ which serve as a lower-bound on required content and style.
 {% endif %}
 
 For more examples of resumes and CVs, see the 
-[Example Materials](exampleMaterials.md) tab.
+[Example Materials](/grad-job-guide/exampleMaterials) tab.
 
 
 
