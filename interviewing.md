@@ -7,15 +7,25 @@ description: >-
 permalink: /interviewing/
 ---
 
-# I've Submitted My Application---Now What?
+# The Interview Process: What to Expect
 
-Now that you've submitted your application, there is a bit of a waiting game...
+Now that you've submitted your application, the waiting begins...
 
-Timelines can vary significantly depending on job type (reference exampleMaterials)
+Many jobs will start by reaching out for a *phone screening* to assess whether you're a good 
+fit for the job. If you pass the screening, you may be invited for an in-person 
+interview. While there is some variation by job type, 
+<span class="highlight">graduate-level job interviews 
+typically last 1-2 days and consist of a job talk (or teaching talk), 
+individual interviews, and a group dinner.</span>
 
+In the rest of this tab, we'll cover what to expect during the interview process, 
+including [phone screenings](#phone-screening), the [typical interview schedule](#interview-visit-overview), 
+and tips on how to structure your [job talk](#preparing-your-job-talk) or [teaching talk](#preparing-your-teaching-talk). We'll also provide specific 
+advice for [individual interviews](#individual-interview-questions), and tips on
+navigating dual career considerations.
 
-
-{% include_relative _interviewing/talk.md %}
+{% include_relative _interviewing/phoneScreen.md %}
 {% include_relative _interviewing/visits.md %}
+{% include_relative _interviewing/talk.md %}
 {% include_relative _interviewing/questions.md %}
 {% include_relative _interviewing/twobody.md %}

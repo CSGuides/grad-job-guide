@@ -18,11 +18,11 @@ a [Diversity Statement](#diversity-statement).
 2. **Review Examples:** Reviewing examples can help you 
   understand what’s expected for the jobs you are applying for. It can
   also help you "face the tyranny of the blank page" and start writing.
-  This Guide contains a collection of [Example Materials](exampleMaterials.md)
+  This Guide contains a collection of [Example Materials](/grad-job-guide/exampleMaterials)
   that may help you get started. Additionally, consider asking friends and
   mentors who were recently on the job market to share their materials. 
   
-  Another strategy is to download examples from others who have recently 
+   Another strategy is to download examples from others who have recently 
   applied for jobs. Many applicants post their materials on their 
   websites, and a quick Google search (e.g., programming languages 
   "teaching statement") can yield hundreds of results. We recommend
