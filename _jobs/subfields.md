@@ -124,4 +124,4 @@ obvious.
 The job search process can be challenging, but by taking it step by step, you can find the right 
 fit for your career goals. Now that you know what jobs exist and when and where to apply, the 
 next step is to [write and compile
-your application portfolio](applying.md).
+your application portfolio](/grad-job-guide/applying).

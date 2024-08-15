@@ -47,4 +47,4 @@ Here are a few concrete examples:
 {%- endfor -%}
 {% endif %}
 
-For more examples of cover letters, see the [Example Materials](exampleMaterials.md) tab.
+For more examples of cover letters, see the [Example Materials](/grad-job-guide/exampleMaterials) tab.

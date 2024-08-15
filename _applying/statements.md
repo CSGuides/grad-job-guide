@@ -18,21 +18,21 @@ a [Diversity Statement](#diversity-statement).
 2. **Review Examples:** Reviewing examples can help you 
   understand what’s expected for the jobs you are applying for. It can
   also help you "face the tyranny of the blank page" and start writing.
-  This Guide contains a collection of [Example Materials](exampleMaterials.md)
+  This Guide contains a collection of [Example Materials](/grad-job-guide/exampleMaterials)
   that may help you get started. Additionally, consider asking friends and
-  mentors who were recently on the job market to share their materials.
+  mentors who were recently on the job market to share their materials. 
   
-  Another good strategy is to download examples from others who have recently 
+   Another strategy is to download examples from others who have recently 
   applied for jobs. Many applicants post their materials on their 
   websites, and a quick Google search (e.g., programming languages 
   "teaching statement") can yield hundreds of results. We recommend
   searching for and downloading last year's materials the summer 
   before you apply (e.g.,
   May/June), before successful applicants remove them from
-  their websites. Of course, if you get random people from the Internet you probably
-  won't have heard of them and thus won't know if they are good or bad
+  their websites. Of course, if you get random people from the Internet you probably won't have heard of them and thus won't know if they are good or bad
   examples. So try to soak up all of the documents from people in your
-  department that you can get a read on. 
+  department that you can get a read on.
+
 
 3. **Focus on Structure:** Ensure that your statements are 
   well-organized with clear topic sentences and logical flow. 
@@ -110,7 +110,7 @@ Here are some concrete examples:
 {% endif %}
 
 For more examples of research statements, see the 
-[Example Materials](exampleMaterials.md) tab.
+[Example Materials](/grad-job-guide/exampleMaterials) tab.
 
 ## Teaching Statement
 
@@ -152,7 +152,7 @@ Here are some concrete examples:
 {% endif %}
 
 For more examples of teaching statements, see the 
-[Example Materials](exampleMaterials.md) tab.
+[Example Materials](/grad-job-guide/exampleMaterials) tab.
 
 Overall, most teaching statements tend to look
 somewhat similar. At Wesleyan, the only place Wes went
@@ -161,8 +161,8 @@ creative and the best one they had seen in a while.  Given how interesting
 his isn't, that gives you a good idea for how low the bar is set if you
 want to do something personal with your teaching statement. Being
 yourself is still key, however. Not everyone should go for a teaching
-statement in which they claim not to be nice. Hammad's emphasis on
-education results is something of an upper bound on teaching statement
+statement in which they claim not to be nice. Kevin Angstdat's statement
+is something of an upper bound on teaching statement
 impressiveness, and a statement
 like his works well if you're aiming for a teaching job.
 
@@ -199,6 +199,6 @@ Here are a few concrete examples:
 {% endif %}
 
 For more examples of diversity statements, see the 
-[Example Materials](exampleMaterials.md) tab.
+[Example Materials](/grad-job-guide/exampleMaterials) tab.
 
 
