@@ -19,13 +19,16 @@ If someone on the inside told you to apply, mention that in your cover letter.
 Here are concrete examples (though note that not all of these include content
 on research area, as suggested above):
 
+{% assign allowed_ids = "endremad,angstadt,kleach" | split: ',' %}  <!-- Replace 'id1' and 'id2' with your actual ids -->
 {% if site.data.people %}
 {% assign sorted_id = site.data.people | sort: 'id' %}
 {%- for dossier in sorted_id -%}
+{% if allowed_ids contains dossier.id %}
 {% for item in dossier.cover %}
 {%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
 {%- assign url = src | relative_url -%}
-- [{{dossier.display}} Cover Letter {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
+* [{{ dossier.display }} Cover Letter {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
 {% endfor %}
+{% endif %}
 {%- endfor -%}
 {% endif %}
