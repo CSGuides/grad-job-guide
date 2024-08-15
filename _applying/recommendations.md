@@ -1,20 +1,39 @@
 # Letters of Recommendation
 
-You will need three to four letters of recommendation, one of which will come from
-your advisor. The typical dilemma here involves finding the other three. 
-You may well have only published papers with your advisor and the
-supervisor from you summer internship. Where do you find two others? 
+Letters of recommendation are a critical part of your application, 
+providing an external validation of your qualifications and potential. 
+<span class="highlight">You will typically need three to five letters from individuals who know 
+your work well.</span> Common letter writers include:
 
-Start now! Email some of the other professors in your department and make
-appointments to talk to them about your research and your plans. Ask them
-if they have any ideas, talk about possible collaborations, convince them
-to critique drafts of your papers, whatever. The more they know you the
-better and you may even get research ideas out of it. 
+* **Your Primary Advisor**: This will be your longest and most important
+  letter. 
+* **Co-Advisor or Committee Members**: The longer your professional relationship, the 
+  better. Prioritize committee members with whom you have co-authored a paper.
+* **Internship Supervisor**: Especially useful for Industrial Research positions, and also a 
+  good choice for academic positions if you co-authored a paper together.
+* **Other Professors You've Worked With**: Prioritize those with whom you've
+  published a paper, especially if they can provide unique insights not 
+  covered by other letter writers.
+* **A Faculty Co-Instructor**: If you are applying to *teaching-focused positions*, you 
+  may have acted as an *instructor of record*. It can be valuable to have a letter writer 
+  who can speak directly to your teaching and classroom management abilities.
 
-If you plan to do your job search interviews in the Spring of Year X, talk
-to your advisor about who should write your letters in the Summer of Year
-X-1 (or earlier!) and then ask them by the end of that summer. Give them
-plenty of warning. 
+While one of your letters will come from your advisor, you may 
+have only published papers with your advisor and the
+supervisor from you summer internship. *So where do you find the other two?*
+
+Start now! Email other professors in your department and make appointments 
+to discuss your research and plans. Ask if they have any ideas, talk about possible
+collaborations, and seek their feedback on drafts of your papers. The better they 
+know you, the stronger their letters can be, and you might even have some valuable 
+research ideas in the process.
+
+If you plan to do your job search interviews in the Spring of Year *X*, talk
+to your advisor about who should write your letters in the Summer of Year 
+*X-1* (or earlier!), and then ask them by the end of that summer. When 
+discussing potential letter writers with your advisor, seek their input 
+on who might provide the most compelling endorsements based on your career 
+goals. Give your letter writers plenty of advance notice.
 
 {% capture quote %}
 At the end of the day, I can only offer myself as a data point for
@@ -78,27 +97,16 @@ yourself for each writer.
 {% endcapture %}
 {% include quote.html content=quote user="kleach" %}
 
-## Organizing Things for your Letter Writers
+### Organizing Things for your Letter Writers
 
-The standard practice these days is to make a web page or chart listing all of
-the places to which letters must be sent as well as the due dates. 
+**Make a Spreadsheet for your Letter Writers:** To ensure that your letters of recommendation are submitted on time and to the correct places, 
+it's essential to keep your letter writers organized and informed. 
+We recommend that you create and share a spreadsheet with your letter writers that contains:
 
-As of 2013, most schools use some kind of special online web-system for
-applications.  If you are like Claire at all, you will be annoyed by the fact
-that the systems are all basically the same, and yet you still need to generate
-a new account at every one.  A few use [academicjobsonline.com](http://academicjobsonline.com).  These are by far
-the easiest positions to apply for.
-
-Regardless of system used, schools typically accept letters of recommendation via
-email (i.e., "please submit letters to the following address."; make it easy to
-cut and paste the addresses on your web page) but they may issue an email to
-your letter-writers instructing them to use an alternative form.  As of 2013, no
-positions required letters to be sent physically, and most expressly disallowed
-it.  A couple of schools ask for letters only after a first cut of applications,
-in which case they will contact your letter-writers directly.
-
-Loosely, your letter-writers will write the letters a day or two before the
-first one is due and then send them all out.
+* The schools you are applying to
+* The application deadline
+* A link to the submission portal 
+* Any special instructions or notes
 
 [You can see Wes's letter-writer chart here.]({{ "/assets/materials/weimer/list.html" | relative_url }})
 It's not perfect and I'm sure you could improve on the format but no
@@ -106,16 +114,40 @@ one complained. It should also give you an idea of how the due dates vary
 between top-tier teaching-ish schools (e.g., Oberlin at November 19) and
 standard research schools (e.g. CMU at January 15).
 
-As an aside, it is *very common* for letters of recommendation to fail to
-make it all the way to the people who need to see them.  It is typically very
-difficult to distinguish between a world in which your letter-writer did not
-submit a letter despite a request from a school; a world in which no such
-request was issued; a world in which the letter-writer submitted a letter but
-for some reason it was lost; and a world in which letters were all successfully
-submitted.  Wes had at least six places email to say only one or two of his
-letters got through, and asking to have the others emailed directly to some
-address.  Some UC-system schools are infamous for letter mishaps (e.g., losing
-more or less every letter from one year's worth of applicants). It is quite
-reasonable to send follow-up email to your target departments asking if all of
-your letters have made it in to your applicant file (this also shows interest in
+**Letter Submission Process**: Most schools use some kind of special online web-system for
+applications. If you're like Claire or Madeline, you will be annoyed by the fact
+that the systems are all basically the same, yet each one requires you to 
+create a new account. A few use [academicjobsonline.com](http://academicjobsonline.com)
+or [Interfolio](https://www.interfolio.com/). These are by far
+the easiest positions to apply for.
+
+Regardless of the system used, schools typically accept letters of recommendation 
+via email or through their online system. However, they may ask your letter writers 
+to use a specific form or platform. For positions hosted on [academicjobsonline.com](http://academicjobsonline.com)
+or [Interfolio](https://www.interfolio.com/), your letter writers can often submit one letter to multiple schools. If you go this route, make sure to:
+
+1. **Communicate Clearly with Your Letter Writers:** Ensure they know not to mention a specific school name in the letter unless it's tailored for that school.
+2. **Strategically Use This Option:** You may want to only use this approach with your secondary letter writers. Your advisor may want to customize their letter each schools. 
+
+A couple of schools ask for letters only after a first cut of applications,
+in which case they will contact your letter-writers directly.
+
+Loosely, your letter-writers will write the letters a day or two before the
+first one is due and then send them all out.
+
+**Lost Letters:** As an aside, it is *very common* for letters of recommendation to fail to
+make it all the way to the people who need to see them. This can be due to various issues,
+such as:
+
+* The letter writer did not submit a letter despite a request from the school.
+* A miss-typed email address in your application.
+* The school never issued a request for the letter.
+* The letter was submitted but got lost in the process.
+* The letter was successfully submitted, but the system failed to register it.  
+
+Wes had at least six places email to say only one or two of his
+letters gad arrived, asking to have the others emailed directly to some
+address.  <!--Some UC-system schools are infamous for letter mishaps (e.g., losing more or less every letter from one year's worth of applicants).--> 
+It is quite reasonable to send follow-up email to confirm that all of
+your letters have been received (this also shows interest in
 the position, but it's unlikely anyone will notice at this stage).
