@@ -1,49 +1,4 @@
-# Research Statement
-The traditional approach here is to craft your research statement by
-summarizing your thesis proposal and to craft your teaching statements by
-looking at what others have written and fumbling around. Here are some
-concrete examples:
-
-{% if site.data.people %}
-{% assign sorted_id = site.data.people | sort: 'id' %}
-{%- for dossier in sorted_id -%}
-{% for item in dossier.research %}
-{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
-{%- assign url = src | relative_url -%}
-- [{{dossier.display}} Research Statement {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
-{% endfor %}
-{%- endfor -%}
-{% endif %}
-
-{% if site.data.people %}
-{% assign sorted_id = site.data.people | sort: 'id' %}
-{%- for dossier in sorted_id -%}
-{% for item in dossier.teaching %}
-{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
-{%- assign url = src | relative_url -%}
-- [{{dossier.display}} Teaching Statement {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
-{% endfor %}
-{%- endfor -%}
-{% endif %}
-
-References aren't required in a research statement, but they don't hurt
-if you feel better with them (or if you have a bunch of publications and
-want to highlight that).  Kevin Leach notes that by the time he was
-applying for jobs, he had published across several disciplines.  KL used
-citations in his research statement to help the reader follow which
-publications were most relevant in constructing a coherent narrative.
-
-Almost all teaching statements seem to end up looking somewhat identical
-(see Lerner, Jhala and Whaley above). At Wesleyan, the only place Wes went
-that mentioned his teaching statement at all, they mentioned that it was
-creative and the best one they had seen in a while.  Given how interesting
-his isn't, that gives you a good idea for how low the bar is set if you
-want to do something personal with your teaching statement. Being
-yourself is still key, however. Not everyone should go for a teaching
-statement in which they claim not to be nice. Andy Begel's emphasis on
-education results is something of an upper bound on teaching statement
-impressiveness (unless you're actually in CS education), and a statement
-like his would fit in well if you're aiming for a teaching job. 
+# Preparing Your Statements
 
 It's worth noting that many people feel that their statements don't really
 reflect who they are as people. Some are of the opinion that job
@@ -62,11 +17,11 @@ won't have heard of them and thus won't know if they are good or bad
 examples. So try to soak up all of the documents from people in your
 department that you can get a read on.  
 
-As of 2013, there exists a larger collection of such materials floating
+<!--As of 2013, there exists a larger collection of such materials floating
 around in the email archives of recently-hired junior faculty in Software
 Engineering.  Contact Claire if you're seriously on the market, and she will see
 if she can access it for you, so long as you solemnly vow to share your own
-materials after your search concludes.
+materials after your search concludes.-->
 
 Make sure that yours are available
 on-line as well. Many places, even places to which you have officially sent
@@ -87,8 +42,89 @@ Claire had multiple people comment on the photos or hobbies mentioned on their
 web pages, even if those mentions were exceedingly brief (such as Claire's
 involvement with her local roller derby league).
 
-# Teaching Statement
 
-# Diversity Statement
+
+## Research Statement
+The traditional approach here is to craft your research statement by
+summarizing your thesis proposal and to craft your teaching statements by
+looking at what others have written and fumbling around. Here are some
+concrete examples:
+
+
+{% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer" | split: ',' %} 
+{% if site.data.people %}
+{% assign sorted_id = site.data.people | sort: 'id' %}
+{%- for dossier in sorted_id -%}
+{% if allowed_ids contains dossier.id %}
+{% for item in dossier.research %}
+{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
+{%- assign url = src | relative_url -%}
+* [{{ dossier.display }} Resume {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
+{% endfor %}
+{% endif %}
+{%- endfor -%}
+{% endif %}
+
+For more examples of research statements, see the 
+[Example Materials](exampleMaterials.md) tab.
+
+
+References aren't required in a research statement, but they don't hurt
+if you feel better with them (or if you have a bunch of publications and
+want to highlight that).  Kevin Leach notes that by the time he was
+applying for jobs, he had published across several disciplines.  KL used
+citations in his research statement to help the reader follow which
+publications were most relevant in constructing a coherent narrative.
+
+
+## Teaching Statement
+
+Almost all teaching statements seem to end up looking somewhat identical
+(see Lerner, Jhala and Whaley above). At Wesleyan, the only place Wes went
+that mentioned his teaching statement at all, they mentioned that it was
+creative and the best one they had seen in a while.  Given how interesting
+his isn't, that gives you a good idea for how low the bar is set if you
+want to do something personal with your teaching statement. Being
+yourself is still key, however. Not everyone should go for a teaching
+statement in which they claim not to be nice. Andy Begel's emphasis on
+education results is something of an upper bound on teaching statement
+impressiveness (unless you're actually in CS education), and a statement
+like his would fit in well if you're aiming for a teaching job.
+
+{% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer" | split: ',' %} 
+{% if site.data.people %}
+{% assign sorted_id = site.data.people | sort: 'id' %}
+{%- for dossier in sorted_id -%}
+{% if allowed_ids contains dossier.id %}
+{% for item in dossier.teaching %}
+{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
+{%- assign url = src | relative_url -%}
+* [{{ dossier.display }} Resume {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
+{% endfor %}
+{% endif %}
+{%- endfor -%}
+{% endif %}
+
+For more examples of teaching statements, see the 
+[Example Materials](exampleMaterials.md) tab.
+
+## Diversity Statement
+
+{% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer" | split: ',' %} 
+{% if site.data.people %}
+{% assign sorted_id = site.data.people | sort: 'id' %}
+{%- for dossier in sorted_id -%}
+{% if allowed_ids contains dossier.id %}
+{% for item in dossier.diversity %}
+{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
+{%- assign url = src | relative_url -%}
+* [{{ dossier.display }} Resume {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
+{% endfor %}
+{% endif %}
+{%- endfor -%}
+{% endif %}
+
+For more examples of diversity statements, see the 
+[Example Materials](exampleMaterials.md) tab.
 
 
