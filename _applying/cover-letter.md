@@ -32,3 +32,5 @@ on research area, as suggested above):
 {% endif %}
 {%- endfor -%}
 {% endif %}
+
+For more examples of cover letters, see the [Example Materials](exampleMaterials.md) tab.
