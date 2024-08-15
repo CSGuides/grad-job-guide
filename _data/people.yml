@@ -134,7 +134,7 @@
   color: "#ff9933"  
   cycle: "2020-2021"
   timeline: timeline.json
-  target: research, teaching
+  target: research
   resume:
     - file: kleach-cv-2020.pdf
       description: Organized for a tenure-track position.  I used this both for teaching- and tenure-track positions.
@@ -149,6 +149,29 @@
   cover: 
     - file: kleach-cover-letter.pdf
       description: I generalized the letter here.  Each submission included additional sentences specific to the department (e.g., faculty I knew of).
+
+- id: endremad
+  display: Madeline Endres
+  emloyer: University of Massachusetts Amherst
+  avatar: Endres_headshot.jpeg
+  color: "#7600bc"  
+  cycle: "2023-2024"
+  timeline: timeline.json
+  target: research
+  resume:
+    - file: Endres_cv_feb.pdf
+  research:
+    - file: Endres_researchStatement.pdf
+      description: Tenure-track research statement.
+  teaching:
+    - file: Endres_teachingStatement.pdf
+      description: Three pages, split between classroom instruction and graduate student mentoring.
+  diversity:
+    - file: Endres_diversityStatement.pdf
+  cover: 
+    - file: Endres_coverLetter.pdf
+      description: Generalized cover letter.
+
 
 ################################################################################
 # Dossiers begin here (add to end of list)

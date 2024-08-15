@@ -1,69 +1,99 @@
-# Research Area and Where to Apply
+# Academic Positions: Research Area and Where to Apply
 
-All of the job postings you find in academia will use basically the same
-boilerplate ad copy (e.g., "we encourage all qualified applicants from all
-areas of computer science to apply, we are an equal-opportunity ...").
-Beyond that, there are two ways the ads are typically formed: 
+<span class="highlight">Academic job postings may or may not be research-area specific.</span>
+Most academic job ads use similar boilerplate language:
 
-- One says "we are particularly looking for people in bioinformatics and
-  datamining, ...", at which point you shouldn't get your hopes up unless
-  you're in those areas. Here's a concrete example from Purdue's 2005
-  search (emphasis ours):
+> "We encourage all qualified applicants from all
+> areas of computer science to apply, we are an equal-opportunity employer...".
+
+ 
+**However, the specific focus of a department's search can greatly influence your 
+chances.** Below, we break down the two primary types of job ads and 
+how to interpret them.
+
+1. **Specific Focus Areas**: Some job postings explicitly state the areas of interest, 
+  such as compilers or data mining. If your research aligns with these areas, 
+  you have a stronger chance of being considered. If not, it may be difficult to secure 
+  an interview. Here are a couple of examples:
   
-  - The Department of Computer Sciences at Purdue University invites
-    applications for tenure-track positions beginning August 2005. Positions
-    are available at the Assistant Professor level; senior positions will be
-    considered for highly qualified applicants. Applications from outstanding
-    candidates in all areas of computer science will be considered. *Of
-    particular interest are candidates in the areas of programming languages
-    and compilers, software engineering, operating systems, data mining, and
-    bioinformatics.*
+    - From Purdue's 2005 search:
+    > "The Department of Computer Sciences at Purdue University invites
+      applications for tenure-track positions beginning August 2005. Positions
+      are available at the Assistant Professor level; senior positions will be
+      considered for highly qualified applicants. Applications from outstanding
+      candidates in all areas of computer science will be considered. **Of
+      particular interest are candidates in the areas of programming languages
+      and compilers, software engineering, operating systems, data mining, and
+      bioinformatics.**"
 
-- The other kind of ad says "our department has strengths in areas X, Y
+    - From Yale's 2024 search: 
+    > "The Yale Computer Science Department 
+      continues to invite applications for multiple tenure-track faculty positions to start in 
+      the 2024-2025 academic year. **For this year’s search, we are interested in candidates working 
+      in the areas of (1) AI and Trustworthy Computing or (2) Programming Languages.** With recent 
+      explosive growth of large-language-model based technologies such as ChatGPT, we are 
+      particularly interested in candidates who can take on the leadership role and help shape the 
+      research and education impact of AI for the rest of the University. 
+      Qualified applicants in computer science are invited to apply. 
+
+2. **General Calls**: Other ads may list a broad range of departmental strengths, leaving you with 
+  little specific information about what areas they are truly hiring for. 
+  <!-- The other kind of ad says "our department has strengths in areas X, Y
   and Z and we are looking for people who can either augment or complement
   those strengths", at which point you really have no information since
   they've covered all of the bases. Here's a concrete example from Virginia's
-  2005 search (emphasis mine): 
+  2005 search (emphasis mine): -->
   
-  - The University of Virginia ranks consistently as one of the top public
-    universities in the country. Its highly valued Department of Computer
-    Science has a diverse population with more than 300 undergraduate
-    students, 110 graduate students, and 28 faculty members. The department
-    offers baccalaureate, master, and doctoral degrees in Computer Science
-    and Computer Engineering. The department is undergoing significant growth
-    and programmatic evolution and aims to be one of the top departments in
-    experimental systems research and the leading institution in
-    undergraduate computer science education. *Its existing strengths include
-    algorithms, architecture, compilers, distributed systems, graphics, grid
-    computing, mobile computing, networks, operating systems, programming
-    environments, real-time and embedded systems, security, sensor networks,
-    and software engineering.* 
+    - From UVA's 2005 search:
+    > The University of Virginia... offers baccalaureate, master, 
+      and doctoral degrees in Computer Science
+      and Computer Engineering. The department is undergoing significant growth
+      and programmatic evolution and aims to be one of the top departments in
+      experimental systems research and the leading institution in
+      undergraduate computer science education. **Its existing strengths include
+      algorithms, architecture, compilers, distributed systems, graphics, grid
+      computing, mobile computing, networks, operating systems, programming
+      environments, real-time and embedded systems, security, sensor networks,
+      and software engineering.** 
 
-If your work spans more than one subfield, carefully consider the way you
-position yourself and your work.  Departments have areas in mind when they
-interview and assign applications to faculty in specific areas for
-batch-processing.  Claire's publication record was, as of 2012/2013, fairly
-evenly split between evolutionary computation and software engineering venues.
-However, she considers herself primarily an SE researcher, and wanted to be
-considered as such as an applicant.  She thus pitched herself as an "SE person"
-who borrows insights from other fields (evolutionary computation/GP) as opposed
-to a person who floats in the void between research areas.
+    Despite the general phrasing, *most schools with this type of posting have an 
+    internal area-related priority for hiring*. However, 
+    unless you have a contact at the school, it can be difficult to know if they are hiring in 
+    your specific subfield. 
+    
 
-One notable exception to the "apply largely to schools specifically hiring in
-your area" rule is the class of "top 1" schools.  CMU CS, for example, is huge,
-and its school of computing has multiple departments.  Thus, its job ad is
-typically very general in its call, and applications are routed based on area to
-relevant departments or faculty.  These programs (especially the very big ones)
-very rarely need to hire, and just do so when they find someone they like.
-Thus, even if their calls are open, it's probably worth applying, because
-apparently you never know.
+**Overall, we recommend prioritizing schools with job postings that match your
+research area.** Regarding general calls, we recommend applying only if the 
+school aligns well with your career goals and personal preferences. 
 
-(Digression: Claire actually asked Wes if it was even worth sending
-applications to those places given that "it wasn't going to happen."  He
-insisted she apply, which is funny in retrospect. She is of the opinion
-that her sincere belief that she wouldn't receive an
-offer from CMU helped during the interview, because she wasn't especially
-nervous or stressed out about messing up.)
+**One notable exception to this rule is "top 10" schools.**  Such programs 
+(especially the very large ones) often have multiple hiring lines, and may 
+hire candidates they find exceptional, regardless of research area. 
+*Thus, even if their calls are open, it's probably worth applying, because 
+you never know.*  For example, CMU's School of Computer Science is large, 
+with multiple departments. Their job ads are typically very general, and 
+applications are routed based on the area to relevant departments. Claire 
+actually asked Wes if it was even worth sending in an application as "it wasn't 
+going to happen." He insisted she apply, which is funny in retrospect. She believes 
+that her sincere belief that she wouldn't receive an offer from CMU helped during 
+the interview, because she wasn't especially nervous or stressed about messing up.
+
+{% capture quote %}
+With one exception, all of my interviews were at schools that were either explicitly hiring in Software Engineering,
+or had historical strength in the area.
+
+The exception was a top public research institution in the U.S.. While the call was general, at my interview, 
+the department chair told me that software engineering wasn't a designated priority my year. 
+*However, he also told me that they reserve about half of their interview spots for exceptional 
+candidates, regardless of their specific research subfield.*
+
+In my opinion, if a school that you'd really like to go to doesn't explicitly 
+list your area as a priority, 
+it can still be worth applying if you believe you're a strong candidate. However, I would still
+prioritize calls that explicitly mention your research area.
+{% endcapture %}
+{% include quote.html content=quote user="endremad" %}
+    
 
 {% capture quote %}
 It is my *personal opinion* that as a software engineering
@@ -89,3 +119,9 @@ don't pretend to do these things if you don't.  It's tacky and
 obvious.
 {% endcapture %}
 {% include quote.html content=quote user="legoues" %}
+
+
+The job search process can be challenging, but by taking it step by step, you can find the right 
+fit for your career goals. Now that you know what jobs exist and when and where to apply, the 
+next step is to [write and compile
+your application portfolio](applying.md).

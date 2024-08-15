@@ -4,6 +4,9 @@
 
 summary {
   font-style: italic;
+  display: list-item;
+  list-style-type: disclosure-closed;
+  cursor: pointer;
 }
 
 details {
@@ -11,6 +14,13 @@ details {
   border-radius: 0.5em 0.5em;
   padding: 5px;
   margin-bottom: 15px;
+
+}
+
+blockquote p {
+  color: #44077d;
+  font-style: italic;
+  font-size: smaller;
 
 }
 
