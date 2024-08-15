@@ -1,5 +1,4 @@
-# Preparing Your Research and Teaching statements
-
+# Research Statement
 The traditional approach here is to craft your research statement by
 summarizing your thesis proposal and to craft your teaching statements by
 looking at what others have written and fumbling around. Here are some
@@ -87,3 +86,9 @@ the parody programming languages examination test on his web page. Both Wes and
 Claire had multiple people comment on the photos or hobbies mentioned on their
 web pages, even if those mentions were exceedingly brief (such as Claire's
 involvement with her local roller derby league).
+
+# Teaching Statement
+
+# Diversity Statement
+
+
