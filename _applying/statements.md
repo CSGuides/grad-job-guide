@@ -59,7 +59,7 @@ concrete examples:
 {% for item in dossier.research %}
 {%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
 {%- assign url = src | relative_url -%}
-* [{{ dossier.display }} Resume {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
+* [{{ dossier.display }} Research Statement {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
 {% endfor %}
 {% endif %}
 {%- endfor -%}
@@ -99,7 +99,7 @@ like his would fit in well if you're aiming for a teaching job.
 {% for item in dossier.teaching %}
 {%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
 {%- assign url = src | relative_url -%}
-* [{{ dossier.display }} Resume {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
+* [{{ dossier.display }} Teaching Statement {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
 {% endfor %}
 {% endif %}
 {%- endfor -%}
@@ -118,7 +118,7 @@ For more examples of teaching statements, see the
 {% for item in dossier.diversity %}
 {%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
 {%- assign url = src | relative_url -%}
-* [{{ dossier.display }} Resume {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
+* [{{ dossier.display }} Diversity Statement {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
 {% endfor %}
 {% endif %}
 {%- endfor -%}
