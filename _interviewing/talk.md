@@ -69,13 +69,10 @@ to be convinced. The exception to this is industry. In large industrial
 research labs, you will basically only present to people in your
 general area.
 
-If possible, also try to do a dry run at a school to which you're not applying.  
-For example, Claire gave a colloquium talk at Virginia Tech about three months before
-submitting her applications.  It
-wasn't nearly so intense as a real interview, and it was nice to practice
-the talk with an unfamiliar audience before doing it for real.
+If possible, also try to do a dry run at a school to which you're not applying. For example, Claire gave a colloquium talk at Virginia Tech about three months before
+submitting her applications.  It wasn't nearly so intense as a real interview, and it was nice to practice the talk with an unfamiliar audience before doing it for real.
 
-**The "One-Third-Rule":** A common piece of advice suggests that one-third of your talk should
+**The "One-Third Rule":** A common piece of advice suggests that one-third of your talk should
 be understood by everyone in the room, one-third should be understood by
 people in your general area (e.g., graphics, programming languages,
 systems) and one-third should be understood "only by you". However, this advice is
