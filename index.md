@@ -34,19 +34,19 @@ However, **this guide isn't just for students currently on the job market!** Eve
 you are are just starting graduate school, the sections on [finding job opportunities](jobs.md)
 and [application preparation](applying.md) can still be helpful. Your career
 goals will often inform the choices you make during your doctoral studies, making it important to
-be aware of the kinds of jobs available to you.  
+be aware of the kinds of jobs available to you and what those jobs may value.  
 
 It's also helpful to know what goes into an application package so you can plan ahead.
 For example, if you're aiming for an academic career that emphasizes
 teaching, you might plan for being a primary instructor ("instructor of
-record" at some institutions) while still a doctoral student. Conversely if
+record" at some institutions) while still a doctoral student. Conversely, if
 you are most interested in a research-focused career, you might instead choose
 to bolster your resume with industrial internships.  <span class="highlight">*It's much better to know 
-what to expect and plan ahead than to regret not doing more.*</span>
+what to expect and plan ahead than to regret not doing something.*</span>
 
 # Navigating This Guide
 
-This guide is organized into the four major stages of a job search:
+This guide is organized around four major stages of a job search:
 
   1. [Finding jobs](jobs.md)
   2. [Preparing your application](applying.md)
@@ -55,10 +55,11 @@ This guide is organized into the four major stages of a job search:
 
 This guide also contains 
 [<span class="highlight-link">example application materials and interview resources</span>](exampleMaterials.md) 
-tailored for different job types including R1 Tenure-Track positions, 
-Liberal Arts Tenure-Track Positions, and Industrial Research Positions.
+that were actually used in real job searches.
+These materials are tailored for different job types, including R1 Tenure-Track positions, 
+R1 Teaching-Focused positions, Liberal Arts Tenure-Track positions, and Industrial Research positions.
 
-On the rest of this page, we briefly summarize each phase.
+We next briefly summarize each phase.
 
 ## Phase 1: [Finding Jobs](jobs.md)
 
@@ -68,10 +69,10 @@ On the rest of this page, we briefly summarize each phase.
 
 * <span class="student-q">"How can I find jobs to apply to?"</span>
 
-As you begin your search, the first step is to think about the types of jobs
+As you begin your search, a first step is to think about the types of jobs
 that appeal to you.  We discuss various job opportunities in computer science
 for students earning doctoral degrees.  Then we give pointers for discovering
-open searches and how to read job postings.
+open searches and how to interpret job postings.
 
 ## Phase 2: [Preparing Your Application](applying.md)
 
@@ -92,7 +93,7 @@ concrete examples from successful job searches.
 
 * <span class="student-q">"How should I structure my job talk?"</span>
 
-We discuss common activities for interviews and give some tips on preparing for 
+We discuss common activities for interviews and give tips on preparing for 
 questions---both those you’ll need to answer and those you might want to ask.
 
 ## Phase 4: [Making a Decision](deciding.md)
@@ -109,9 +110,11 @@ accept.
 
 # [Examples of Successful Materials](exampleMaterials.md)
 
-We have collected portfolios from successful applicants in past cycles. These include 
-CVs, Cover Letters, Research Statements, Teaching Statements, Diversity Statement, Job 
-Talk Slides, and Application Timelines. The portfolios are searchable by tags (e.g., 
+Successful applicants from past cycles have generously agreed to provide their
+job search materials. These include 
+CVs, Cover Letters, Research Statements, Teaching Statements, Diversity Statements, Job 
+Talk Slides, and Application Timelines (including Rejections and Acceptances). 
+The portfolios are searchable by tags (e.g., 
 job type, research area, dual career search, etc.). *These examples offer practical guidance
 as you develop your own application.*
 
