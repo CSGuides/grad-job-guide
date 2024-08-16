@@ -11,7 +11,8 @@ const colors = ["#13154e",
                 "#69b64f", 
                 "#f25c5c", 
                 "#f6ab53",
-                "#008000"];
+                "#008000",
+                "#B22222"];
 let colorAssignment = {};
 
 function getColorForTag(tag) {
