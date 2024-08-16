@@ -197,6 +197,14 @@ favors if you are so tired and strung out that your are no longer at your mental
 best.
 
 {% capture quote %}
+Make sure you drink lots of water!!
+
+(As a fun aside, every single in-person interview gave me some sort of branded water bottle.
+Several of them were actually quite nice :) )
+{% endcapture %}
+{% include quote.html content=quote user="endremad" %}
+
+{% capture quote %}
 Having applied during COVID-19, all my interviews were fully remote.
 Some institutions did one long day of interviews, others spread it over
 multiple days.  Given the flexibility, some institutions even did three
