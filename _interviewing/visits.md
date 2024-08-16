@@ -149,7 +149,7 @@ their research, the program requirements, their background, and so on. Claire
 tried to think of issues that mattered to her as a graduate student and ask
 about them, such as if they felt the faculty was responsive to their concerns or
 how much their input on this particular meeting mattered in the hiring process.
-See below for [more ideas about what you might ask](#individual-interview-questions).
+See below for [more ideas about what you might ask](#individual-meeting-questions).
 
 **Navigating the Interview Dinner:** The interview dinner can be long, 
 especially when you’re already tired. You might need to navigate social 
@@ -195,6 +195,14 @@ as well as a bathing suit and workout clothing to take advantage of hotel gyms
 when available.  Take care of yourself physically.  You do yourself no
 favors if you are so tired and strung out that your are no longer at your mental
 best.
+
+{% capture quote %}
+Make sure you drink lots of water!!
+
+(As a fun aside, every single in-person interview gave me some sort of branded water bottle.
+Several of them were actually quite nice :) )
+{% endcapture %}
+{% include quote.html content=quote user="endremad" %}
 
 {% capture quote %}
 Having applied during COVID-19, all my interviews were fully remote.

@@ -1,15 +1,21 @@
-# Dual-Career Couples/Divulging Your Partnered Status
+# Dual-Career Couples
 
-Context: Wes was single when he was on the market; Claire had a partner who was
+*In this section, we talk about strategies for dual-career couples, and if
+you should disclose your partnered status.* 
+The advice in this section applies to both regular dual-career couples and those
+facing the actual *academic two-body problem*.
+
+For context, Wes was single when he was on the market; Claire had a partner who was
 planning to move with her and find a job in the software industry; Kevin
-Leach and Yu Huang had partners seeking academic positions together in
-the same department.  Wes
-mentioned his relationship status in his cover letters; Claire did not.  The
-advice in this section applies to both regular dual-career couples and those
-facing the actual academic two-body problem. However, Wes and Claire are less experienced
+Leach and Yu Huang were partners seeking academic positions together in
+the same department (the traditional two-body problem); 
+Madeline had a partner who wanted to be in a location where
+they could pursue their career in the arts.  Wes, Kevin, and Yu Huang
+mentioned their relationship statuses in their cover letters; 
+Claire and Madeline did not.  <!--However, Wes and Claire are less experienced
 with the latter situation, we cannot provide as much insight on the subject.  If
 you are in that position, we encourage you to talk to others who have done a
-two-body academic search for more concrete and informed advice.
+two-body academic search for more concrete and informed advice.-->
 
 As mentioned above, you may be asked about your marital status during your
 interviews.  Claire actually never had anyone ask her this outright. Perhaps
@@ -94,6 +100,22 @@ position for these reasons, they would have saved me the trouble of having to
 uncover their misogyny some other way.
 {% endcapture %}
 {% include quote.html content=quote user="legoues" %}
+
+{% capture quote %}
+I pre-filtered the schools that I applied to based on location constraints for
+both me and my partner (a classical music composer). However, some locations
+were still better on paper than others.
+
+As a result, I also tried to drop my partner into conversations at schools. 
+When I mentioned that he was a composer, 
+interviewers at every school offered to put me in contact with
+local musical contacts. From these connections, my partner and I were able to better
+understanding of the musical environment around each school.
+
+*If you are planning to relocate with a partner, I highly recommend that you ask
+about opportunities and support during your interview.*
+{% endcapture %}
+{% include quote.html content=quote user="endremad" %}
 
 {% capture quote %}
 On the topic of being honest about things and covering somewhat personal topics,

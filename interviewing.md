@@ -21,8 +21,8 @@ individual interviews, and a group dinner.</span>
 In the rest of this tab, we'll cover what to expect during the interview process, 
 including [phone screenings](#phone-screening), the [typical interview schedule](#interview-visit-overview), 
 and tips on how to structure your [job talk](#preparing-your-job-talk) or [teaching talk](#preparing-your-teaching-talk). We'll also provide specific 
-advice for [individual interviews](#individual-interview-questions), and tips on
-navigating dual career considerations.
+advice for [individual interviews](#individual-meeting-questions), and tips on
+navigating [dual career situations](#dual-career-couples).
 
 {% include_relative _interviewing/phoneScreen.md %}
 {% include_relative _interviewing/visits.md %}
