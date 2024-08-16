@@ -144,8 +144,8 @@ friend of Wes's has gotten a 10% raise every year for the last five or six
 years. Industry raises range between 0% and 15% yearly. You also get
 bonuses in industry. 
 
-**Company Trivia**: Friends of Wes's at IBM have suggested that on a starting
-salary offer of $110,000 you should ask for another $10,000 right off the
+**Company Trivia**: Friends of Wes's at IBM have suggested that 
+you should ask for another $10,000 right off the
 bat (and that they'll do it without blinking an eye). If for some
 reason you can't bring yourself to do that that it would be "criminal" not
 to ask for $5,000. However, multiple data points at Microsoft Research
