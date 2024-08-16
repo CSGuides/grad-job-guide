@@ -120,7 +120,7 @@
       "profileImageLoc": "hammada/hammad_headshot.png",
       "teachingTalk": "hammada/teaching_talk_hash_tables.pdf",
       "tags": ["Software Engineering", "No Post-doc", "Teaching-Focused Position"]
-    }
+    },
     {
       "id": 12,
       "name": "Amir Kamil",
@@ -128,7 +128,7 @@
       "coverLetter": "akamil/umich-cover_2015_akamil.pdf",
       "researchStatement": "akamil/research_2015_akamil.pdf",
       "teachingStatement": "akamil/teaching_2015_akamil.pdf",
-      "profileImageLoc": "akamil/akamil4.jpg",
+      "profileImageLoc": "akamil/akamil4_akamil.jpg",
       "tags": ["Programming Languages", "High Performance Computing", "Teaching-Focused Position", "No Post-doc"]
     }
   ]
