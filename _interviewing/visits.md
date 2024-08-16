@@ -72,8 +72,9 @@ individually. These interviews typically last between 30 and 60 minutes.
 potential colleagues (e.g., other faculty or researchers at the institution).
 The goal of these meetings is to assess your fit within the department, 
 explore potential collaborations, and discuss your research in more detail.  
+
 Below, we provide a [list of questions that
-you can ask in these meetings](#individual-interview-questions).
+you may consider asking in these meetings](#individual-interview-questions).
 
 **Meeting with the Dean or Department Head:** You will likely have a meeting (or lunch) 
 with the dean, department head, or upper-level division manager. This meeting 
@@ -212,8 +213,7 @@ or four half-days.  It was also easy enough to not think about wardrobe
 (I may have worn sweat pants to more than one tenure-track faculty
 interview). 
 
-I suspect things will return to normal post-COVID.
-However, my advice is, if you have a remote interview, make sure to have
+My advice is, if you have a remote interview, make sure to have
 at least one physical visit at some point.  Since you are making a decision
 about a significant portion of your life (tenure-track may potentially
 be a lifetime decision), you owe it to yourself to see if you even like
