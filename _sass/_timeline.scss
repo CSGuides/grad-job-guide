@@ -1,17 +1,27 @@
 .guide-timeline {
+  .timeline-header {
+    cursor: pointer; // Change cursor to pointer to indicate it's clickable
+  }
+
   .invitation {
     color: purple;
   }
-  
+
   .interview {
     color: blue;
   }
-  
+
   .offer {
     color: green;
   }
-  
+
   .reject {
     color: red;
   }
+}
+
+.toggle-timeline {
+  color: #007BFF;
+  text-decoration: underline;
+  cursor: pointer;
 }
