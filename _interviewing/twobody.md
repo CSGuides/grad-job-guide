@@ -27,6 +27,7 @@ this question is illegal.
 Everyone will want to know.  I put it at the top of my CV and I am
 fairly sure my marital status was mentioned in at least one of my
 letters.  We did not want any confusion over what we wanted together.  
+
 The risk I see with revealing this status is that you will have
 institutions reject you outright because they simply cannot hire two
 people at once.   In that regard, it may give one body less negotiating
@@ -54,7 +55,7 @@ negative opinion of you hurt your chances.
 {% include quote.html content=quote user="weimer" %}
 
 {% capture quote %}
-*everyone really wants to know and you should
+*Everyone really wants to know and you should
 almost certainly tell them.*  During my interviews, I would
 find a way to drop my partner's existence and job ambitions into an early
 conversation. *In every case*, I was met with a relieved "Oh I'm so glad
