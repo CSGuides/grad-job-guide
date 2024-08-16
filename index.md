@@ -13,7 +13,7 @@ nav: Overview
 
 **If so, this site is for you!**
 
-This website offers a *summary of experiences, insights, and advice*---both our personal opinions and those from others---*on navigating the job search process for computer science academia and industrial research labs*. It contains both general advice as well as detailed accounts of several job searches, including:
+This website offers a *summary of experiences, insights, and advice*---including many personal opinions and accounts---*on navigating the job search process for computer science academia and industrial research labs*. It contains both general advice as well as detailed accounts of several job searches, including:
 
 * Multiple searches resulting in job offers at top-tier R1 institutions (e.g.,
   CMU, UMass Amherst, etc.).
@@ -23,21 +23,8 @@ This website offers a *summary of experiences, insights, and advice*---both our 
   Pomona, St. Lawrence, etc.).
 
 **This website is structured as a how-to guide for graduate students.**
-While we offer collective advice and speak in general terms, we will sometimes refer to specific authors by name.
-{% capture summary %} Expand for more information on the searches conducted by the authors of this Guide!{% endcapture %}
-
-{% capture details %}
-* [Wes Weimer's](https://web.eecs.umich.edu/~weimerw/) 2005 search for a position in programming languages or software
-engineering, which led to a role at the University of Virginia.
-* [Claire Le Goues's](https://clairelegoues.com/) 2013 search for a position in programming languages or software
-engineering, which led to a role Carnegie Mellon University.
-* Zak Fry's 2014 search for industrial research positions, which led to a role at GrammaTech.
-* [Kevin Angstadt's](https://myslu.stlawu.edu/~kangstadt/) 2019 search for a programming languages position, which led to a role at St. Lawrence University.
-* [Kevin Leach's](https://kjl.name/) 2020 search for a position in software engineering or security, which led to a role at Vanderbilt University.  
-* [Madeline Endres's](https://madelineendres.com) 2024 search for a software engineering position, which led to a role at the University of Massachusetts, Amherst.
-{% endcapture %}
-
-{% include dropdown.html summary=summary details=details %}
+We provide collective advice, quote and commentary from a few individuals, and application materials from many individuals. 
+sometimes refer to specific authors by name.
 
 # Is This Guide For Me?
 
