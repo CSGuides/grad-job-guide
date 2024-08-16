@@ -93,23 +93,7 @@ applying for jobs, he had published across several disciplines.  He used
 citations in his research statement to help the reader follow which
 publications were most relevant in constructing a coherent narrative.
 
-Here are some concrete examples:
-
-{% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer" | split: ',' %} 
-{% if site.data.people %}
-{% assign sorted_id = site.data.people | sort: 'id' %}
-{%- for dossier in sorted_id -%}
-{% if allowed_ids contains dossier.id %}
-{% for item in dossier.research %}
-{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
-{%- assign url = src | relative_url -%}
-* [{{ dossier.display }} Research Statement {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
-{% endfor %}
-{% endif %}
-{%- endfor -%}
-{% endif %}
-
-For more examples of research statements, see the 
+For examples of research statements, see the 
 [Example Materials](/grad-job-guide/exampleMaterials) tab.
 
 ## Teaching Statement
@@ -135,23 +119,7 @@ are going for a *teaching-focused* position, you may want to focus
 more on classroom teaching, and talk about your experience with lecturing and
 course design.
 
-Here are some concrete examples:
-
-{% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer,hammada" | split: ',' %} 
-{% if site.data.people %}
-{% assign sorted_id = site.data.people | sort: 'id' %}
-{%- for dossier in sorted_id -%}
-{% if allowed_ids contains dossier.id %}
-{% for item in dossier.teaching %}
-{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
-{%- assign url = src | relative_url -%}
-* [{{ dossier.display }} Teaching Statement {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
-{% endfor %}
-{% endif %}
-{%- endfor -%}
-{% endif %}
-
-For more examples of teaching statements, see the 
+For examples of teaching statements, see the 
 [Example Materials](/grad-job-guide/exampleMaterials) tab.
 
 Overall, most teaching statements tend to look
@@ -182,23 +150,7 @@ to different CS careers, including metrics on attendance and
 and the positive feedback she received. However, some readers may 
 expect a diversity philosophy at the start.
 
-Here are a few concrete examples:
-
-{% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer" | split: ',' %} 
-{% if site.data.people %}
-{% assign sorted_id = site.data.people | sort: 'id' %}
-{%- for dossier in sorted_id -%}
-{% if allowed_ids contains dossier.id %}
-{% for item in dossier.diversity %}
-{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
-{%- assign url = src | relative_url -%}
-* [{{ dossier.display }} Diversity Statement {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
-{% endfor %}
-{% endif %}
-{%- endfor -%}
-{% endif %}
-
-For more examples of diversity statements, see the 
+For examples of diversity statements, see the 
 [Example Materials](/grad-job-guide/exampleMaterials) tab.
 
 
