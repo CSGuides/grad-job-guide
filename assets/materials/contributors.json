@@ -31,7 +31,7 @@
       "cycle": "2003-2004",
       "coverLetter": "jhala/rj-cover-generic3.pdf",
       "researchStatement": "jhala/Jhala-Research.pdf",
-      "teachingStatement": "weimer/Jhala-Teaching.pdf",
+      "teachingStatement": "jhala/Jhala-Teaching.pdf",
       "tags": ["Programming Languages", "No Post-doc", "R1 Tenure Track"]
     },
     {
@@ -120,6 +120,16 @@
       "profileImageLoc": "hammada/hammad_headshot.png",
       "teachingTalk": "hammada/teaching_talk_hash_tables.pdf",
       "tags": ["Software Engineering", "No Post-doc", "Teaching-Focused Position"]
+    }
+    {
+      "id": 12,
+      "name": "Amir Kamil",
+      "cycle": "2014-2015",
+      "coverLetter": "akamil/umich-cover_2015_akamil.pdf",
+      "researchStatement": "akamil/research_2015_akamil.pdf",
+      "teachingStatement": "akamil/teaching_2015_akamil.pdf",
+      "profileImageLoc": "akamil/akamil4.jpg",
+      "tags": ["Programming Languages", "High Performance Computing", "Teaching-Focused Position", "No Post-doc"]
     }
   ]
   

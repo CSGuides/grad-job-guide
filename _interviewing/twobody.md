@@ -134,3 +134,6 @@ to be pretty trivial, based on Claire's (serious) conversations with Waterloo on
 the subject.  The Canadian immigration system is much more straightforward than
 the US system (as of July 2013), and their HR departments are practiced in
 providing support for the process.
+
+Now that you've finished your interviews, it's time to [make a decision](/grad-job-guide/deciding)
+and accept an offer.
