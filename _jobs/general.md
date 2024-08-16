@@ -9,12 +9,18 @@ applicants.*
 - **U.S. Research Academia**: This includes "top-ten" schools like MIT,
   CMU, Berkeley, Stanford, and Cornell as well schools with lower rankings 
   like UC Irvine, Purdue, Rutgers, and Virginia. *Professors often consider 
-  this the default type of application.* 
+  this the default type of application*---even if it may not be where most applicants end up.
+  You may benefit from talking to your advisors and mentors about other options. 
 
-- **Industrial Research Labs**: This category includes Microsoft Research, IBM
-  Research (T.J. Watson), Google Research,  Meta Research, Intel Labs, GrammaTech, 
-  BBN Raytheon, and so on. We also include Federally Funded 
-  Research and Development Centers (FFRDCs) like Lincoln Labs and MITRE here.
+- **Industrial Research Labs**: This category includes
+  larger research organizations like Microsoft Research, IBM
+  Research (T.J. Watson), Google Research,  Meta Research, Intel Labs;
+  research organizations that are adjacent to academia, like
+  MIT Lincoln Labs, GrammaTech, Kestrel Institute, and Johns Hopkins
+  University Applied Physics Laboratories;
+  and other 
+  Federally Funded 
+  Research and Development Centers (FFRDCs) like Raytheon BBN and MITRE.
 
 - **Industrial "Startups"**: This includes Ph.D.-seeking high-tech
   companies or recently-formed startups. Examples
@@ -80,14 +86,15 @@ applicants.*
   them as a job option.
    
 - **Top-Tier Teaching Academia**: This includes places like Carleton,
-  Williams, Wesleyan, Oberlin and Brown. Faculty here still conduct research
+  Williams, Wesleyan, Oberlin, Bowdoin and Brown. Faculty here still conduct research
   but undergraduate education is emphasized, and the graduate program is smaller or non-existent. (As an aside, a
   <i>university</i> has a graduate program and a <i>college</i> does not.) 
   Teaching three or more courses per year is common. 
 
 - **Teaching Academia**: This includes smaller liberal arts colleges 
   that may be less well-known outside their local areas, such as 
-  Shippensburg, Coe College, Lock Haven, Haverford, Juniata, and Ithaca College. Here 
+  Shippensburg, Coe College, 
+  Lock Haven, Haverford, Juniata, and Ithaca College. Here 
   the emphasis will be on undergraduate education,
   undergraduate advising and scholarship (to the possible exclusion of the
   constantly-publishing-papers type of research). Teaching six courses a year
@@ -96,7 +103,8 @@ applicants.*
 
 - **"Instructor" Positions**: Most top-tier schools, including Michigan
   and Virginia, have full-time teaching-focused positions.
-  Job titles vary, including "Teaching Professor", "Instructor" or "Lecturer". 
+  Job titles vary, including "Teaching Professor", "Professor of Practice",
+  "Instructor" or "Lecturer". 
   These positions may or may not be tenure-track (and often are not). 
   However, they often have a "social tenure" or "formal expectation of continued 
   employment" at around the six-year mark that mimics tenure. They tend to
@@ -116,11 +124,13 @@ applicants.*
 
 - **Post-Docs**: Post-doc positions are still somewhat rare in Computer 
   Science, especially outside of CS Theory. However, they have become 
-  more common in the U.S. due to the 2008 the financial crisis and 
-  COVID-19; during and after both, many schools froze hiring. 
-  The low job supply forced
-  qualified candidates into post-doc roles. It then became more
-  difficult for fresh PhDs to compete with such buffed CVs. That said, it is
+  more common in the U.S. following both the 2008 the financial crisis and 
+  also COVID-19; during and after both, many schools froze hiring. 
+  The low job supply encouraged
+  candidates into post-doc roles. It then became more
+  difficult for fresh PhDs to compete with such buffed CVs.
+  This is particularly true in some disciplines. For example, anecdotally, post-docs are much more
+  common in CS Theory. That said, it is
   still possible (as of 2024) to acquire a tenure-track faculty position in Software Engineering or
   Systems without completing a post-doc first. 
   
@@ -133,7 +143,7 @@ applicants.*
 
 **In this Guide, we focus on the jobs where we have the
 most direct experience: US Research Academia, Industrial Research Labs,
-Teaching Academia, and ``Instructor'' positions.**
+Teaching Academia, and "Instructor" positions.**
 
 
 Ultimately you must decide what sort of positions you will apply for based on your own interests and goals. <span class="highlight">A research position is not inherently "better" or "worse" than a
@@ -190,4 +200,14 @@ types of institutions have different deadlines.
 - **Post-Docs**: These positions typically follow the Research Academia 
   calendar, but deadlines may be less strict, as many candidates first search 
   for faculty positions before turning to post-doc opportunities.
+
+Finally, it is common for institutions to "run late" with job postings.
+For example, in 2023, Bowdoin College Computer Science posted a job
+opportunity for an assitant professor position on December 10th
+(months later than many other postings for that cycle). Applicants
+often revisit departmental webpages to see if openings have been posted. 
+Such a delay may be caused by various reasons (e.g., getting 
+regulatory approval for the posting text, finalizing permission from
+a dean or provost, etc.); as long as an official posting is made, you
+can feel comfortable applying. 
 
