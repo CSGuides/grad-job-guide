@@ -84,24 +84,7 @@ Claire had similar experiences but notes that at some schools,
 interviewers had read at least one of her publications before meeting 
 with her.
 
-**Example Resumes:** Here are our resumes from when we were applying, 
-which serve as a lower-bound on required content and style. 
-
-{% assign allowed_ids = "endremad,angstadt,kleach,fry,legoues,weimer" | split: ',' %}  <!-- Replace 'id1' and 'id2' with your actual ids -->
-{% if site.data.people %}
-{% assign sorted_id = site.data.people | sort: 'id' %}
-{%- for dossier in sorted_id -%}
-{% if allowed_ids contains dossier.id %}
-{% for item in dossier.resume %}
-{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
-{%- assign url = src | relative_url -%}
-* [{{ dossier.display }} Resume {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
-{% endfor %}
-{% endif %}
-{%- endfor -%}
-{% endif %}
-
-For more examples of resumes and CVs, see the 
+**Example Resumes:** For concrete examples of resumes and CVs, see the 
 [Example Materials](/grad-job-guide/exampleMaterials) tab.
 
 
