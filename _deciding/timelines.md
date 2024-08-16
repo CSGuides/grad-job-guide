@@ -54,7 +54,7 @@ There are a few things to notice about these otherwise-boring timelines:
   you get the one job you really want you should take it, but Claire notes the
   opportunities she would have missed if she'd signed an offer too early.  See
   below on hard-sell tactics.
-- <font color="red">Explicit rejection notices</font> are rare (especially
+- Sadly, <font color="red">explicit rejection notices</font> are rare (especially
   without an interview) and are rarely early. Many places just never get back to
   you.  Claire didn't even track which schools that did not interview her
   officially rejected her and when. 
