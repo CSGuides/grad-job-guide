@@ -30,7 +30,7 @@ It really helped my mental health.
 
 ## Example Timelines
 
-Here's (a subset of) several application timelines: 
+Here are several application timelines (including information about acceptances and rejections): 
 
 {% include timeline.html %}
 
