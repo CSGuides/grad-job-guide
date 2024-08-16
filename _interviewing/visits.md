@@ -1,10 +1,10 @@
 # Interview Visit Overview
 
 We’ll cover what you can expect during a typical multi-day interview, 
-including the length and structure, different types of interviews 
+including the length and structure, different types of meetings 
 embedded into the overall interview, and tips for planning and preparation.
 
-### Length and Structure of the Interview
+## Length and Structure of the Interview
 
 A typical interview lasts about one to two days, depending largely on the size of 
 the institution. **Larger departments or teams mean more people to meet, which results 
@@ -41,9 +41,9 @@ typically include:
   sometimes in addition to) a research-focused job talk. This talk will also
   last 45 minutes to an hour, and can be scheduled any time during the day.
 
-* *Interviews:* Until around 5 pm, the rest of your day will be filled with
+* *Interview Meetings:* Until around 5 pm, the rest of your day will be filled with
   back-to-back interviews, 
-  often lasting from 30 to 60 minutes each. You will likely have interviews with 
+  often lasting from 30 to 60 minutes each. You will likely meet with 
   potential colleagues (e.g., faculty or researchers), senior personnel (e.g., a manager,
   department chair, or dean), and current students. It’s completely legitimate to take 
   notes during these interviews; doing so will help you remember the conversations 
@@ -63,7 +63,7 @@ not awkward or insulting.** Even if they don't extend
 you an offer, getting a feel for that area will give you a broader basis for
 comparison when you are considering your actual offers.
 
-### The Different Types of Interviews
+## The Different Types of Interview Meetings
 
 Almost all of your time will be spent in offices talking to people
 individually. These interviews typically last between 30 and 60 minutes. 
@@ -160,7 +160,7 @@ We recommend that you plan in advance for potentially stressful social situation
 For example, Madeline made it a rule to have at most one glass of red wine, 
 and only if someone else ordered alcohol first.
 
-### Personal Considerations
+## Personal Considerations
 
 **Dress Comfortably:** It really doesn't matter what you wear, 
 so wear what makes you the most
