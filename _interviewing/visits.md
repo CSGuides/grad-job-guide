@@ -149,7 +149,7 @@ their research, the program requirements, their background, and so on. Claire
 tried to think of issues that mattered to her as a graduate student and ask
 about them, such as if they felt the faculty was responsive to their concerns or
 how much their input on this particular meeting mattered in the hiring process.
-See below for [more ideas about what you might ask](#individual-interview-questions).
+See below for [more ideas about what you might ask](#individual-meeting-questions).
 
 **Navigating the Interview Dinner:** The interview dinner can be long, 
 especially when you’re already tired. You might need to navigate social 

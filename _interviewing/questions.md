@@ -97,7 +97,7 @@ ask you during these individual meetings. Here are some examples:
     this question intelligently. 
 
 * *Are you married? Do you have a two-body problem?*
-  * See below on the [two-body problem](#dual-career-couplesdivulging-your-partnered-status).
+  * See below on the [two-body problem](#dual-career-couples).
 
 * *What will your CAREER award be about?* 
 
