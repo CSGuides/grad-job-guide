@@ -1,9 +1,13 @@
 # Cover Letters
 
-The cover letter is one of the least important elements of your
-application, but getting it wrong can have significant consequences. A
+Getting a cover letter wrong can have significant consequences. A
 poorly crafted cover letter can lead to your entire application being misfiled
 or overlooked.
+
+Claie Le Goues, who was Chair of the ISR Tenure Track Hiring Committee at CMU
+from 2019 to 2022, has indicated that cover letters are much more important now
+than they were in prior decades. She suggests that applicants not treat cover
+letters as an afterthought. 
 
 Your cover letter should be brief and to the point. It should: 
 
@@ -14,11 +18,14 @@ Your cover letter should be brief and to the point. It should:
   and why you are likely to accept an offer. 
 5. Mention any special circumstances (e.g., two-body problem).
 
-Limit the overview of your research focus to a few sentences; 
+Limit the overview of your research focus to a paragraph or two; 
 your [research statement](#research-statement) is the place for detail. 
 This is particularly important when applying to large schools 
 that may have many independent
-searches but only one application portal. **Make it easy for a hiring chair in
+searches but only one application portal. If you find it difficult to
+summarize, Wes recommends prioritizing outcomes (e.g., awards) over
+lower-level mechanisms (e.g., mentioning that you use a particular
+type of dataflow analysis). **Make it easy for a hiring chair in
 your area to quickly realize you're one of theirs!**
 
 (On a related note: if a portal asks you to select research area keywords, please be
@@ -31,20 +38,8 @@ past collaborations you've had with faculty at the institution.
 **If someone on the inside told you to apply, be sure to mention it 
 in your cover letter.**
 
-Here are a few concrete examples:
+Kevin Leach notes that he prepared a generalized cover letter and then changed
+sentences to specialize it to each department, such as by listing faculty he knew. Kevin Angstadt
+notes that teaching-focused and research-focused positions may merit different cover letter contents.
 
-{% assign allowed_ids = "endremad,angstadt,kleach" | split: ',' %}  <!-- Replace 'id1' and 'id2' with your actual ids -->
-{% if site.data.people %}
-{% assign sorted_id = site.data.people | sort: 'id' %}
-{%- for dossier in sorted_id -%}
-{% if allowed_ids contains dossier.id %}
-{% for item in dossier.cover %}
-{%- capture src -%}/assets/materials/{{ dossier.id | uri_escape }}/{{ item.file | uri_escape }}{%- endcapture -%}
-{%- assign url = src | relative_url -%}
-* [{{ dossier.display }} Cover Letter {% if item.description %}({{ item.description | strip }}){% endif %}]({{ url }})
-{% endfor %}
-{% endif %}
-{%- endfor -%}
-{% endif %}
-
-For more examples of cover letters, see the [Example Materials](/grad-job-guide/exampleMaterials) tab.
+For examples of cover letters, see the [Example Materials](/grad-job-guide/exampleMaterials) tab.
