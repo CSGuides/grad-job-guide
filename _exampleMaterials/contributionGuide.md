@@ -28,6 +28,7 @@ to be higher ranked (or to have a "big name" or a strong reputation) end up bein
 you are considering, find some of their recently-hired faculty, download their CVs (or go to DBLP), and then <i>only consider the resume items and publications they
 had by the year they were hired</i>. For example, you might look at recently-hired faculty at the University of Michigan and recently-hired faculty
 at the Univeristy of New Mexico and use this technique to get a broad sense of what those schools end up expecting.  
+
 [Wes](/grad-job-guide/about#authors) notes that a higher-ranked school is <i>not</i> "better": instead, this is a technique for gaining more grounded
 information about selecvtivity and mitigating imposter syndrome. As a concrete example, 
 <a href="https://en.wikipedia.org/wiki/Stephanie_Forrest">Stephanie Forrest</a> received R1 tenure-track offers from both the University of Michigan
