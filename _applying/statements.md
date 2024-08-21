@@ -152,8 +152,9 @@ to different CS careers, including metrics on attendance and
 and the positive feedback she received. However, some readers may 
 expect a diversity philosophy at the start.
 
-From the faculty side, [Wes](/grad-job-guide/about#authors), who has chaired a Diversity Committee for
-many years, been involved in such committees at multiple institutions, and helped push for the 
+From the faculty side, [Wes](/grad-job-guide/about#authors), who has chaired or been
+involved in Diversity Committees for
+many years at multiple institutions, and helped push for the 
 consideraiton of Diversity Statements at Michigan, encourages you to place an 
 emphasis on showing your <i>understanding</i> of the complexity and nuance of these issues, as well as the 
 <i>activities</i> you have carried out (or plan to carry out) to improve climate and broaden participation in computing, rather
@@ -162,12 +163,12 @@ considering applicant identity directly. In that light, "I am a member of group 
 than "I founded a summer program to support XYZ students, and used my personal experience as a member of that group
 to focus activities on challenges ABC and DEF, which may disproportionately impact members of that population." 
 
-Regarding activities, [Wes](/grad-job-guide/about#authors) further encourages you to include numbers and outcomes where possible. For example, 
+When writing about activities, [Wes](/grad-job-guide/about#authors) further encourages you to include numbers and outcomes where possible. For example, 
 list how many people attended your community-building event, quantify how participants found your speaker series helpful, 
-count how many of the high school students you spoke to went on to apply, and so on. This may require planning in
+count how many of the high school students you spoke to went on to apply to college, and so on. This may require planning in
 advance: if you have already done the hard work of bringing in and advertising a guest speaker, 
-giving all of the attendees a survey with a few Likert and freeform questions may not be much 
-more effort on top of that, but will strengthen your Diversity Statement. For example, a hiring committee
+giving all of the attendees a survey with a few multiple choice (e.g., Likert scale) or freeform questions is not much 
+more effort, but will strengthen your Diversity Statement. For example, a hiring committee
 choosing between applicants stating 
 
 > I organized a community-building ice cream social for first-year XYZ students
@@ -176,7 +177,7 @@ and
 
 > I organized a community-building ice cream social for first-year XYZ students. 20 people attended and participants gave an average survey response of 4.6/5.0 to the statement "This event made me more likely to declare the CS major." One participant wrote, "I thought there wouldn't be anyone else like me in CS, but I met some fun people here."
 
-... will almost certainly find the second to be more compelling. In addition, you are encouraged to
+... will almost certainly find the second to be more compelling. In addition, we encourage you to
 include any evidence that your efforts have spanned multiple years and that they will continue without you.
 Informally, administrations often see diversity activities as falling into a "graveyard of broken dreams", where one enthusiastic person
 runs an activity for one cycle and then graduates or moves on, and the activity falls apart without that leader. 
@@ -191,7 +192,7 @@ Concretely, many US universities have recently produced, adapted and refined rub
 Diversity Statements. Many of these show a convergence of ideas and best practices. For example, the Michigan State Univeristy
 rubric is based on the University of California at Berkeley rubric, which was itself adapted by the University of California at Irvine, etc. 
 Using these rubrics to guide the construction of your Diversity Statement is thus more likely to result in a single
-statement that is assessed positively at multiple institutions. Some of these rubrics (including the original Berkeley one) can
+statement that is assessed positively at multiple institutions. Some of these rubrics can
 be harder to find on the web (e.g., they may be structured for faculty hiring committees, not for applicants), so we have archived three public 
 examples here for your convenience:
 
