@@ -140,7 +140,9 @@ Since 2015, Diversity Statements (or Diversity, Equity, and
 Inclusion Statements) have
 become increasingly popular. These are typically 1-2 pages long 
 and demonstrate your commitment to contributing to a supportive 
-and inclusive environment.
+and inclusive environment. We provide additional guidance on these statements because
+they may be less familiar to applicants and because there may be less "institutional knowledge" 
+about them. 
 
 In our personal opinion, the best diversity statements focus
 on actions you've taken for sustainable change and support rather than 
