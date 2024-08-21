@@ -72,8 +72,8 @@ hire candidates they find exceptional, regardless of research area.
 *Thus, even if their calls are open, it's probably worth applying, because 
 you never know.*  For example, CMU's School of Computer Science is large, 
 with multiple departments. Their job ads are typically very general, and 
-applications are routed based on the area to relevant departments. Claire 
-actually asked Wes if it was even worth sending in an application as "it wasn't 
+applications are routed based on the area to relevant departments. [Claire](/grad-job-guide/about#authors) 
+actually asked [Wes](/grad-job-guide/about#authors) if it was even worth sending in an application as "it wasn't 
 going to happen." He insisted she apply, which is funny in retrospect. She believes 
 that her sincere belief that she wouldn't receive an offer from CMU helped during 
 the interview, because she wasn't especially nervous or stressed about messing up.

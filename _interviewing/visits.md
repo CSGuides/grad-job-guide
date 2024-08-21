@@ -99,7 +99,7 @@ Questions to ask the dean might include:
   don't know anything about them yet as a grad student.
 
 
-Claire met with at least three deans who had reviewed her application and had
+[Claire](/grad-job-guide/about#authors) met with at least three deans who had reviewed her application and had
 questions about her research. This was more common when the dean was a computer
 scientist.
 
@@ -132,7 +132,7 @@ Larger groups can be more challenging to manage as you will have to
 lead the discussion. 
 
 Sometimes the students will have seen your talk and will have (often very good)
-questions.  Claire's toughest grilling during her interviews by far was at the
+questions.  [Claire](/grad-job-guide/about#authors)'s toughest grilling during her interviews by far was at the
 hands of graduate students.  However, much of the time the students will be
 young (first or second year) and often won't really have anything to say.
 
@@ -142,11 +142,11 @@ young (first or second year) and often won't really have anything to say.
 * "what courses will you offer when you first arrive?"
 * "how will you choose your grad students?". 
 
-You should have answers to all of these -- don't be like Wes and get 
+You should have answers to all of these -- don't be like [Wes](/grad-job-guide/about#authors) and get 
 surprised by them in real-time.
 
 You should take time to ask a bunch of questions, such as about
-their research, the program requirements, their background, and so on. Claire
+their research, the program requirements, their background, and so on. [Claire](/grad-job-guide/about#authors)
 tried to think of issues that mattered to her as a graduate student and ask
 about them, such as if they felt the faculty was responsive to their concerns or
 how much their input on this particular meeting mattered in the hiring process.
@@ -158,7 +158,7 @@ situations, such as deciding whether to drink alcohol, dealing with
 someone dominating the conversation, etc.
 
 We recommend that you plan in advance for potentially stressful social situations.
-For example, Madeline made it a rule to have at most one glass of red wine, 
+For example, [Madeline](/grad-job-guide/about#authors) made it a rule to have at most one glass of red wine, 
 and only if someone else ordered alcohol first.
 
 ## Personal Considerations
@@ -170,7 +170,7 @@ instead of a full suit.  They might remember if you were obviously
 uncomfortable in your clothes or if you couldn't walk because of your
 shoes.  If you are comfortable in a suit and have one that fits you and you
 want to wear it, go ahead.  If you are purchasing your first suit since
-high school to interview, abort.  Claire, Wes, and Madeline pulled their
+high school to interview, abort.  [Claire](/grad-job-guide/about#authors), [Wes](/grad-job-guide/about#authors), and [Madeline](/grad-job-guide/about#authors) pulled their
 interview outfits from their existing wardrobes. If you do want to wear a
 suit of some kind, practice giving talks and sitting around in it before
 your interviews.
@@ -190,7 +190,7 @@ consecutively talking to people about complicated topics, knowing that your
 future employment is on the line. You must smile and be friendly and in a good
 humor the whole time. It's not difficult, but it does take more energy than you
 think. Talking to professors you don't know for a nine hours is not like talking
-to your friends for nine hours. Claire always travels with ear plugs, an eye mask, 
+to your friends for nine hours. [Claire](/grad-job-guide/about#authors) always travels with ear plugs, an eye mask, 
 melatonin, and a kindle/book to help sleep,
 as well as a bathing suit and workout clothing to take advantage of hotel gyms
 when available.  Take care of yourself physically.  You do yourself no

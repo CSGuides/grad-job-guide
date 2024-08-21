@@ -5,20 +5,20 @@ you should disclose your partnered status.*
 The advice in this section applies to both regular dual-career couples and those
 facing the actual *academic two-body problem*.
 
-For context, Wes was single when he was on the market; Claire had a partner who was
-planning to move with her and find a job in the software industry; Kevin
-Leach and Yu Huang were partners seeking academic positions together in
+For context, [Wes](/grad-job-guide/about#authors) was single when he was on the market; [Claire](/grad-job-guide/about#authors) had a partner who was
+planning to move with her and find a job in the software industry; [Kevin](/grad-job-guide/about#authors)
+Leach and [Yu](/grad-job-guide/about#authors) were partners seeking academic positions together in
 the same department (the traditional two-body problem); 
-Madeline had a partner who wanted to be in a location where
-they could pursue their career in the arts.  Wes, Kevin, and Yu Huang
+[Madeline](/grad-job-guide/about#authors) had a partner who wanted to be in a location where
+they could pursue their career in the arts.  [Wes](/grad-job-guide/about#authors), [Kevin](/grad-job-guide/about#authors), and [Yu](/grad-job-guide/about#authors)
 mentioned their relationship statuses in their cover letters; 
-Claire and Madeline did not.  <!--However, Wes and Claire are less experienced
+[Claire](/grad-job-guide/about#authors) and [Madeline](/grad-job-guide/about#authors) did not. 
 with the latter situation, we cannot provide as much insight on the subject.  If
 you are in that position, we encourage you to talk to others who have done a
 two-body academic search for more concrete and informed advice.-->
 
 As mentioned above, you may be asked about your marital status during your
-interviews.  Claire actually never had anyone ask her this outright. Perhaps
+interviews.  [Claire](/grad-job-guide/about#authors) actually never had anyone ask her this outright. Perhaps
 times changed since 2005, or perhaps interviewers are more sensitive about the
 issue with a female candidate than they are with a male candidate.  Regardless,
 this question is illegal. 
@@ -131,7 +131,7 @@ employees that they think they could work with every day on a personal level.
 {% include quote.html content=quote user="fry" %}
 
 One final note on partners and jobs: emigrating to Canada with a partner appears
-to be pretty trivial, based on Claire's (serious) conversations with Waterloo on
+to be pretty trivial, based on [Claire](/grad-job-guide/about#authors)'s (serious) conversations with Waterloo on
 the subject.  The Canadian immigration system is much more straightforward than
 the US system (as of July 2013), and their HR departments are practiced in
 providing support for the process.

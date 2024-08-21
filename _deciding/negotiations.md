@@ -28,7 +28,7 @@ making yourself uncomfortable to get another thousand or two.
 The trick here is that almost all of your raises will be cumulative and
 percentage-based. By the laws of compound interest your starting salary
 becomes critically important, especially since you're going to be there for
-at least twenty years. With one exception, everyone Wes and Claire have talked to was in
+at least twenty years. With one exception, everyone [Wes](/grad-job-guide/about#authors) and [Claire](/grad-job-guide/about#authors) have talked to was in
 favor of haggling for your starting salary. Responses were either "I
 didn't do it and now I regret it" or "I did it and it didn't work, but you
 should try it" or "I did it and it worked and I'm glad". The common
@@ -68,7 +68,7 @@ you ask more without just saying "give me more money"? There are two
 traditional approaches. 
 
 - One approach works by comparison. If you already have a higher offer
-  they will probably match it (this isn't a guarantee -- Wes's UMass offer was
+  they will probably match it (this isn't a guarantee -- [Wes](/grad-job-guide/about#authors)'s UMass offer was
   not matched by NYU, for example, and if the schools are far apart in
   rankings they may not play this game). You may well have to send them a
   copy of the other offer to show the dean. This is the easiest approach.
@@ -83,7 +83,7 @@ traditional approaches.
   more. 
 
 Evaluate benefits, especially health care, along with salary offers.  One of the
-offers Claire received included a fairly high salary compared to her other
+offers [Claire](/grad-job-guide/about#authors) received included a fairly high salary compared to her other
 offers, but provided notably expensive health insurance that largely
 counteracted the salary advantage as compared to other schools (especially given
 her chronic medical condition).  You can mention
@@ -99,7 +99,7 @@ you obtain permission to hire someone at a certain "level" or "rank" or
 "band" and that strictly limits the starting salary range to within two or
 three thousand dollars. 
 
-Claire found that there was wide variability in the flexibility that schools had
+[Claire](/grad-job-guide/about#authors) found that there was wide variability in the flexibility that schools had
 regarding salaries, especially between state schools.  In her experience,
 state and public schools are free and open with the details of their offers
 with everyone, because their salaries are typically public knowledge.
@@ -113,7 +113,7 @@ students, more discretionary funding, or for the entire startup package to
 be discretionary (e.g., "I will be able to live with the amount of money
 you're offering me if you allow me to spend it any way I like"). 
 
-This is easier if you can justify your request(s).  For example, Claire blocked
+This is easier if you can justify your request(s).  For example, [Claire](/grad-job-guide/about#authors) blocked
 out some travel plans (for some reason, SE conferences in 2013-2015 are all in
 far-flung locations, a fact that she mentioned in startup discussions) and
 detailed computing equipment.  Ask about department policies on both student
@@ -124,7 +124,7 @@ what kinds of availability guarantees they provide, and whether costs such as IT
 support, compute time, or printing are charged to faculty funds.  By the way,
 everyone will tell you that they have state-of-the-art computing facilities that
 will meet your needs perfectly.  Your goal is to identify exactly what you need
-to make sure that it's actually available.  For example, Claire often needs
+to make sure that it's actually available.  For example, [Claire](/grad-job-guide/about#authors) often needs
 to execute and manage large numbers of
 virtual machines based on a custom image (think Amazon EC2).  Very few
 departments can provide this kind of support as of 2013. She planned to purchase
@@ -132,29 +132,29 @@ a minimal cloud setup from startup funds and used the specs to support her
 requests during startup negotiations.
 
 By some combination of these approaches (considering and comparing across all
-offers) Wes was able to increase his (lowest) starting salary by 3.6% and double
-his (lowest) startup funds. Claire did not track her "haggling success" in this
+offers) [Wes](/grad-job-guide/about#authors) was able to increase his (lowest) starting salary by 3.6% and double
+his (lowest) startup funds. [Claire](/grad-job-guide/about#authors) did not track her "haggling success" in this
 way, but she negotiated at least a little bit with every department that
 made an offer on both salary and startup, and in all cases was met *at
 least* in the middle on at least some portion of her requests.  
 
 You can expect industrial salaries to be 12/9ths of a nine-month academic
 salary. However, raises in industry are much more common. For example, a
-friend of Wes's has gotten a 10% raise every year for the last five or six
+friend of [Wes](/grad-job-guide/about#authors)'s has gotten a 10% raise every year for the last five or six
 years. Industry raises range between 0% and 15% yearly. You also get
 bonuses in industry. 
 
-**Company Trivia**: Friends of Wes's at IBM have suggested that 
+**Company Trivia**: Friends of [Wes](/grad-job-guide/about#authors)'s at IBM have suggested that 
 you should ask for another $10,000 right off the
 bat (and that they'll do it without blinking an eye). If for some
 reason you can't bring yourself to do that that it would be "criminal" not
 to ask for $5,000. However, multiple data points at Microsoft Research
 suggest that it is very difficult to haggle for starting salaries there
-because of internal strictures; the same goes for Google. Wes only knows of one success story haggling
-at Microsoft, and Claire has never heard of anyone succeed at Google.
+because of internal strictures; the same goes for Google. [Wes](/grad-job-guide/about#authors) only knows of one success story haggling
+at Microsoft, and [Claire](/grad-job-guide/about#authors) has never heard of anyone succeed at Google.
 
 Find out when your startup funds expire. In addition, make sure (in writing)
-that your grad student funding includes the summer months. A friend of Wes's ended up in
+that your grad student funding includes the summer months. A friend of[Wes](/grad-job-guide/about#authors)'s ended up in
 a situation where he "took their word" that it extended to include the summer
 and they came back to him later and made a fuss because it wasn't written in the
 contract.  This advice ("get it in writing") applies to basically everything,
@@ -184,4 +184,4 @@ chair during the "initial offer" conversation.
 Finally, if you think you want to haggle but you need more advice about it,
 email your local department head (or past department heads). They have
 probably seen it many times from both sides of the fence and are often
-willing to give advice (it worked for Wes). 
+willing to give advice (it worked for [Wes](/grad-job-guide/about#authors)). 

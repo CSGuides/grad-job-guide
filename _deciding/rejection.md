@@ -15,7 +15,7 @@ reasons for them to reject you.
 
 
 You should tread carefully in the time period after your interviews but
-before your official offers. Many department chairs have told Wes that they
+before your official offers. Many department chairs have told [Wes](/grad-job-guide/about#authors) that they
 view it as part of their job (or their responsibility to the department) to 
 put the brightest face on this possible and essentially to "string you
 along" or "never say no" (and thus keep as many good options for the

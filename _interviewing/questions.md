@@ -11,7 +11,7 @@ us has asked during interviews, along with typical responses you might encounter
 **Questions you can ask:**
 
 Generally, try to have a set of questions lined up. For two days,
-people will repeatedly ask you if you have questions for them.  Claire just
+people will repeatedly ask you if you have questions for them.  [Claire](/grad-job-guide/about#authors) just
 repeated hers when necessary.
 
 * *What's the funding situation like here?* Have you had good luck with 
@@ -117,7 +117,7 @@ ask you during these individual meetings. Here are some examples:
     you'll be in (your research area) forever, or do you see yourself
     shifting to (another area)? Take this opportunity to distance yourself from
     your advisor---you want to argue that you can pursue your own work
-    for tenure. In Claire's experience, the more prestigious the institution, the
+    for tenure. In [Claire](/grad-job-guide/about#authors)'s experience, the more prestigious the institution, the
     more emphasis they give to this sort of question, sometimes phrased explicitly
     as *"What do you envision your tenure case looking like?"*
 
@@ -128,17 +128,17 @@ graduate students are not always exposed.  For example, *"have you considered
 funding sources for your work?"* is mostly an attempt to determine if you have
 have any idea how the grant system works.  
 
-Wes typically used up almost all of the time asking questions of the other
+[Wes](/grad-job-guide/about#authors) typically used up almost all of the time asking questions of the other
 person. Remember, you are there to interview them as well.  Moreover, 
 there are candidates who can't keep a conversation going after the first
-five minutes, which is the kiss of (awkward) death (Claire heard this from
+five minutes, which is the kiss of (awkward) death ([Claire](/grad-job-guide/about#authors) heard this from
 people interviewing her in several departments). <span class="highlight">You want to convince your
 potential colleagues that you are someone they wouldn't mind working 
 with or sharing a hallway with. Being able to hold a reasonable 
 conversation for 30 minutes is a good start.</span>
 
 {% capture quote %}
-Zak would first note that for any type of interview, having looked up the people
+I would first note that for any type of interview, having looked up the people
 on your schedule and noted at least some work they've done recently goes a long
 way in the one-on-one interviews.  Many people seemed genuinely surprised when I
 brought up a recent paper and had questions and comments about it.

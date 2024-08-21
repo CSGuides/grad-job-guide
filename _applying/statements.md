@@ -123,13 +123,13 @@ For examples of teaching statements, see the
 [Example Materials](/grad-job-guide/exampleMaterials) tab.
 
 Overall, most teaching statements tend to look
-somewhat similar. At Wesleyan, the only place Wes went
+somewhat similar. At Wesleyan, the only place [Wes](/grad-job-guide/about#authors) went
 that mentioned his teaching statement at all, they mentioned that it was
 creative and the best one they had seen in a while.  Given how interesting
 his isn't, that gives you a good idea for how low the bar is set if you
 want to do something personal with your teaching statement. Being
 yourself is still key, however. Not everyone should go for a teaching
-statement in which they claim not to be nice. Kevin Angstdat's statement
+statement in which they claim not to be nice. [Kevin Angstdat](/grad-job-guide/about#authors)'s statement
 is something of an upper bound on teaching statement
 impressiveness, and a statement
 like his works well if you're aiming for a teaching job.
@@ -145,7 +145,7 @@ and inclusive environment.
 In our personal opinion, the best diversity statements focus
 on actions you've taken for sustainable change and support rather than 
 meaningless platitudes. For example,
-Madeline talked about organizing a speaker series to expose students
+[Madeline](/grad-job-guide/about#authors) talked about organizing a speaker series to expose students
 to different CS careers, including metrics on attendance and
 and the positive feedback she received. However, some readers may 
 expect a diversity philosophy at the start.

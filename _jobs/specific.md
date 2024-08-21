@@ -13,13 +13,13 @@ step is to find actual positions to apply for. Here are some approaches:
   <details><summary>Expand for our personal experience with word of mouth and job offers</summary>
   
   <p>
-  Claire gave two conference talks in the six months before applying for jobs and
+  [Claire](/grad-job-guide/about#authors) gave two conference talks in the six months before applying for jobs and
   found this approach extremely useful.  She did not end those talks with "I am on
   the job market," but should have in hindsight. 
   </p>
 
   <p>
-  Madeline attended a conference right before she went on the job market, and she did end her 
+  [Madeline](/grad-job-guide/about#authors) attended a conference right before she went on the job market, and she did end her 
   talk with "I am on the job market". Two of her job offers came from 
   institutions where she talked to faculty members afterward.
   </p>
@@ -44,7 +44,7 @@ step is to find actual positions to apply for. Here are some approaches:
   <details><summary>Expand for our recommendations for using this approach:</summary>
 
   <p>
-  Claire took the top 100 schools on one such list
+  [Claire](/grad-job-guide/about#authors) took the top 100 schools on one such list
   and put them in a spreadsheet, with a separate section for Canadian schools.
   She updated the spreadsheet whenever a school posted a job  Before applying, 
   she reviewed the schools that were
@@ -54,7 +54,7 @@ step is to find actual positions to apply for. Here are some approaches:
   </p>
 
   <p>
-  Madeline took the union of the top 30 schools from CSRankings and US News 
+ [Madeline](/grad-job-guide/about#authors) took the union of the top 30 schools from CSRankings and US News 
   & World Report, adding institutions with historical strength in her 
   research area (software engineering). She then filtered schools based 
   on those that were hiring and her geographical preferences.
@@ -63,7 +63,7 @@ step is to find actual positions to apply for. Here are some approaches:
   <p>If you choose a similar approach, we recommend adjusting your starting 
   list and filtering criteria to suit your own goals. Not everyone wants to work
   at a top-ranked school, so don't feel like "top 100" is the only way to go.  For
-  example, Claire focused on larger departments, while and Madeline preferred
+  example, [Claire](/grad-job-guide/about#authors) focused on larger departments, while and [Madeline](/grad-job-guide/about#authors) preferred
   universities in coastal states within two hours of a major city. You are likely to
   have different preferences.</p>
   </details>
@@ -92,14 +92,14 @@ number of applications you submit.
 
 *Searches for Research Academia Positions:*
 
-* In 2005, Wes applied to 21 places and got 8 interviews and 5 job offers. 
-* In 2013, Claire applied to 28 schools and 1 research lab, got 10 invitations to
-  interview, went on 9 interviews, and received 8 offers. *Claire was told by different people at 
+* In 2005, [Wes](/grad-job-guide/about#authors) applied to 21 places and got 8 interviews and 5 job offers. 
+* In 2013, [Claire](/grad-job-guide/about#authors) applied to 28 schools and 1 research lab, got 10 invitations to
+  interview, went on 9 interviews, and received 8 offers. *[Claire](/grad-job-guide/about#authors) was told by different people at 
   different points in the year that the number of positions to which she applied was (A) far too many, (B) far too few, and (C) exactly right.  Make of that what you will.*
-* In 2020, Kevin and Huang Yu were looking for a joint hire. They applied to 50
+* In 2020, [Kevin](/grad-job-guide/about#authors) and [Yu](/grad-job-guide/about#authors) were looking for a joint hire. They applied to 50
   schools, received over 15 interviews each, and got 5 joint academic offers
   (three of which were joint tenure-track positions).
-* In 2024, Madeline applied to 24 schools, got 6 interviews, and received 4 offers. 
+* In 2024, [Madeline](/grad-job-guide/about#authors) applied to 24 schools, got 6 interviews, and received 4 offers. 
 
 *Searches for teaching Academia Positions:*
 * Hammad applied to 26 positions, got FIXME interviews, and received FIXME offers.
@@ -115,7 +115,7 @@ number of applications you submit.
 From our experience applying for programming languages or software engineering
 positions, receiving interviews from 25-33% of your places is average and indicates
 a well-tailored application list. The strongest candidates may get around 50%. For 
-example, the strongest candidate in Wes's field-year (in his opinion) applied to 30 
+example, the strongest candidate in [Wes](/grad-job-guide/about#authors)'s field-year (in his opinion) applied to 30 
 places, received 17 interview offers, went on 15 interviews, and received 7 job offers.
 
 It's important to contextualize these numbers based on the market conditions of the year.
@@ -157,7 +157,7 @@ situation. For example:
   addition, If your work spans more than one subfield, carefully consider the way you
   position yourself and your work.  Departments have areas in mind when they
   interview and assign applications to faculty in specific areas for
-  batch-processing.  For example, Claire's publication record was fairly
+  batch-processing.  For example, [Claire](/grad-job-guide/about#authors)'s publication record was fairly
   evenly split between evolutionary computation and software engineering venues.
   However, she considers herself primarily an SE researcher, and wanted to be
   considered as such as an applicant.  She thus pitched herself as an "SE person"

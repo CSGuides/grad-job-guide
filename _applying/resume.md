@@ -18,14 +18,14 @@ Here are some concrete tips for organizing your resume or CV:
 
 * **Have an Opening Tag Line:** We recommend using a short phrase at the top
   of your resume to contextualize your application. For example,
-  Madeline led with:
+  [Madeline](/grad-job-guide/about#authors) led with:
 
   > Combining **software engineering** with human factors and **programming 
     languages** techniques to **improve programmer productivity and wellbeing**
 
 * **Emphasize Publications:** Your publications and publication venues are
   very important. We recommend summarizing your publications in a
-  sentence or two. As one example, Madeline wrote:
+  sentence or two. As one example, [Madeline](/grad-job-guide/about#authors) wrote:
 
   > 16 peer-reviewed publications: 13 conference papers (ICSE, 
     ESEC/FSE, PLDI, ASE, OOPSLA, etc.) including a distinguished 
@@ -33,7 +33,7 @@ Here are some concrete tips for organizing your resume or CV:
     with undergraduate advisees, including three with student first 
     authors. Three papers with interdisciplinary collaborators.
 
-  Wes did not include this type of summary. If he were to apply again, he would
+  [Wes](/grad-job-guide/about#authors) did not include this type of summary. If he were to apply again, he would
   include one because he saw people at interviews skim his resume for exactly
   this summary while he sat before them.  
 
@@ -65,22 +65,22 @@ Here are some concrete tips for organizing your resume or CV:
   evaluation scores---early in your resume.
 
   If you are going for this type of job, your resume 
-  should be at least as good as Wes's and hopefully much better 
-  (more like Kevin Angstadt's below, say). Wes's were the bare 
+  should be at least as good as [Wes](/grad-job-guide/about#authors)'s and hopefully much better 
+  (more like [Kevin Angstadt](/grad-job-guide/about#authors)'s below, say). [Wes](/grad-job-guide/about#authors)'s were the bare 
   minimum required (e.g., they sufficed to get him an interview at 
   Wesleyan) but they were mentioned as a concern (until he was able to 
   convince them with his presentation) and he has no doubt that other teaching
   places rejected him because of them. Teaching jobs will also want multiple 
-  numerical evaluations (e.g., Wes was asked explicitly what his numerical teaching
+  numerical evaluations (e.g., [Wes](/grad-job-guide/about#authors) was asked explicitly what his numerical teaching
   evaluations were at Wesleyan, and we imagine that they're even more serious about
   it at other departments).
 
 **The importance of your resume:** At many institutions, your resume 
 might be the only document that makes it through the application process 
-to the interviewers. During interviews, Wes often observed people 
+to the interviewers. During interviews, [Wes](/grad-job-guide/about#authors) often observed people 
 reviewing his resume as he entered the room or while he was sitting 
 down. In contrast, his research statement was rarely mentioned. 
-Claire had similar experiences but notes that at some schools, 
+[Claire](/grad-job-guide/about#authors) had similar experiences but notes that at some schools, 
 interviewers had read at least one of her publications before meeting 
 with her.
 

@@ -19,7 +19,7 @@ you can ask:
   experience been with...."
 
 **We recommend that you have several questions prepared before the interview.**
-Madeline found it helpful to write her questions on a notepad on her computer,
+[Madeline](/grad-job-guide/about#authors) found it helpful to write her questions on a notepad on her computer,
 so that she could refer to them if needed.
 
 In our experience, screenings typically last 20-40 minutes, and are conducted
@@ -46,7 +46,7 @@ number of in-person interviews or that are in less desirable locations that may 
 to attract new hires. **Before your screening, do your research!** Make sure you know
 basic information about the location, and have answers prepared regarding what
 excites you about the area and why you applied. You might be surprised
-how many candidates fail the interview at this stage. For example, Madeline was told 
+how many candidates fail the interview at this stage. For example, [Madeline](/grad-job-guide/about#authors) was told 
 that a candidate at UMass Amherst had not passed to the next round
 because they indicated that they were excited about living in Boston 
 (Amherst is two hours west of Boston and is a small town with 30,000 people).  

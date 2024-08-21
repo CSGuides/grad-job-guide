@@ -63,3 +63,13 @@ content: "";
 .align-right {
   text-align: right;
 }
+
+.message a {
+  color: white;
+  text-decoration: underline;
+}
+
+.message a:hover {
+  color: lightblue;
+  text-decoration: underline;
+}

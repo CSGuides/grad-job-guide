@@ -53,7 +53,7 @@ applicants.*
   why they should take your application seriously. We recommend including a few sentences in your cover letter and research
   statement explicitly stating why you really want to go there (e.g., you speak the local language, have family
   there, or are not tied to the U.S.). Also emphasize these points during 
-  phone calls and interviews. For example, Claire's Francophone 
+  phone calls and interviews. For example, [Claire](/grad-job-guide/about#authors)'s Francophone 
   background and fluency in French were relevant in Canada, even outside 
   Quebec.</p>
   
@@ -163,7 +163,7 @@ types of institutions have different deadlines.
   Job postings often state when they will "start considering" applications, but 
   many positions accept and review late submissions. 
   It is rare, but not unheard of, for a school to have a hard application
-  deadline. For example, Madeline was unable to apply to UC Berkeley due to a 
+  deadline. For example, [Madeline](/grad-job-guide/about#authors) was unable to apply to UC Berkeley due to a 
   missed deadline on December 1st. However, she also received a job offer from 
   a school where she applied
   two weeks after the deadline. *We recommend that you read through job postings

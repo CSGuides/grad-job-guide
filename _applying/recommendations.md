@@ -54,8 +54,8 @@ and academia would lead to a more useful reference. Talk to your advisors.
 {% include quote.html content=quote user="weimer" %}
 
 {% capture quote %}
-Wes's advice about letter writers basically guided my
-selection thereof: Wes was my adviser; Stephanie Forrest and I have worked and
+[Wes](/grad-job-guide/about#authors)'s advice about letter writers basically guided my
+selection thereof: [Wes](/grad-job-guide/about#authors) was my adviser; Stephanie Forrest and I have worked and
 written papers together for many years; I have taken classes, written at least
 one paper, and supported grants with John Knight throughout my graduate career;
 and Mark Harman and I have been in contact about my work since before I received
@@ -67,14 +67,15 @@ encourage you to select your letter writers carefully.
 
 {% capture quote %}
 The jobs I applied for required a maximum of three letters and I was fortunate
-enough to get letters from a subset of Claire's letter writers: Wes Weimer
+enough to get letters from a subset of [Claire](/grad-job-guide/about#authors)'s letter writers: 
+[Wes Weimer](/grad-job-guide/about#authors)
 (primary advisor), Stephanie Forrest (mentor and co-author on three papers), and
 John Knight (with whom I took a class and often solicited advice from throughout
 my grad career).  To highlight a potential pitfall, I will note that one of my
 undergraduate advisors (with whom I was co-author on several papers) agreed to
 write me a letter of recommendation, but noted that it might be somewhat weak
 because of the time that had lapsed since our professional interaction.
-Wes's sage advice was that anyone who flat-out admits that they may not be
+[Wes](/grad-job-guide/about#authors)'s sage advice was that anyone who flat-out admits that they may not be
 able to write you the strongest recommendation letter should be used as a last
 resort.  While I very much appreciate the generosity and honesty of my previous
 advisor, I am glad that I eventually chose someone with a more comprehensive
@@ -108,14 +109,14 @@ We recommend that you create and share a spreadsheet with your letter writers th
 * A link to the submission portal 
 * Any special instructions or notes
 
-[You can see Wes's letter-writer chart here.]({{ "/assets/materials/weimer/list.html" | relative_url }})
+[You can see [Wes's](/grad-job-guide/about#authors) letter-writer chart here.]({{ "/assets/materials/weimer/list.html" | relative_url }})
 It's not perfect and I'm sure you could improve on the format but no
 one complained. It should also give you an idea of how the due dates vary
 between top-tier teaching-ish schools (e.g., Oberlin at November 19) and
 standard research schools (e.g. CMU at January 15).
 
 **Letter Submission Process**: Most schools use some kind of special online web-system for
-applications. If you're like Claire or Madeline, you will be annoyed by the fact
+applications. If you're like [Claire](/grad-job-guide/about#authors) or [Madeline](/grad-job-guide/about#authors), you will be annoyed by the fact
 that the systems are all basically the same, yet each one requires you to 
 create a new account. A few use [academicjobsonline.com](http://academicjobsonline.com)
 or [Interfolio](https://www.interfolio.com/). These are by far
@@ -145,7 +146,7 @@ such as:
 * The letter was submitted but got lost in the process.
 * The letter was successfully submitted, but the system failed to register it.  
 
-Wes had at least six places email to say only one or two of his
+[Wes](/grad-job-guide/about#authors) had at least six places email to say only one or two of his
 letters gad arrived, asking to have the others emailed directly to some
 address.  <!--Some UC-system schools are infamous for letter mishaps (e.g., losing more or less every letter from one year's worth of applicants).--> 
 It is quite reasonable to send follow-up email to confirm that all of

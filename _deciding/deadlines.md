@@ -11,20 +11,20 @@ even if all of the dates are available for you, not all of
 the dates will be available at every university. Moreover, 
 the practical limit is about 2.5 interviews per week -- and 2 is much
 more reasonable. The travel time and the effort of being "on" for the
-entire interview are hard to appreciate until you've actually done it.  Claire
+entire interview are hard to appreciate until you've actually done it.  [Claire](/grad-job-guide/about#authors)
 only had one 2-interview week, and she strongly encourages you to avoid it.
 
 Another way to cope is to ask for more time. If you explain the situation
 honestly, many places will push back their deadlines. For example, Purdue was
-willing to push their deadline for Wes back to effectively May 2.
-Unfortunately, that can often still not be long enough (it wasn't for Wes, as
-his timeline indicates).  Waterloo extended Claire's decision deadline to give
+willing to push their deadline for [Wes](/grad-job-guide/about#authors) back to effectively May 2.
+Unfortunately, that can often still not be long enough (it wasn't for [Wes](/grad-job-guide/about#authors), as
+his timeline indicates).  Waterloo extended [Claire](/grad-job-guide/about#authors)'s decision deadline to give
 her the chance to do a second visit at UIUC.  
 
 Finally, certain classes of offers rarely come with deadlines. Industrial
 research labs (e.g., IBM and Microsoft) can typically afford to sit on an offer
 for as long as you would reasonably like once it has been extended to you.
-Claire's Lincoln Labs offer had a basically infinitely-extensible deadline.
+[Claire](/grad-job-guide/about#authors)'s Lincoln Labs offer had a basically infinitely-extensible deadline.
 Similarly, some academic offers effectively say "you are our first choice and
 there is no one we will extend an offer to this year if you turn us down, so
 take as long as you like to think about it."

@@ -1,10 +1,10 @@
 # Deciding
 
 If you're having a hard time deciding, it's quite legitimate to go on a second
-visit (or two).  Claire found these quite informative.  She and her partner went
+visit (or two).  [Claire](/grad-job-guide/about#authors) found these quite informative.  She and her partner went
 on such visits together and arranged a "date night" at each one in an effort
 to simulate what it might be like to live in the place in question.  As
-mentioned, Claire's partner also did onsite interviews with companies or otherwise consulted
+mentioned, [Claire](/grad-job-guide/about#authors)'s partner also did onsite interviews with companies or otherwise consulted
 with department members or others about employment opportunities on such visits.
 
 {% capture quote %}
@@ -17,7 +17,7 @@ can't really help you here generically.
 I waited to have complete information for all offers before
 making a decision.  I also asked for advice from as many people as possible,
 though for the most part this didn't help. I did not choose my position on rank
-alone, and it's unlikely that you should.  Wes suggests that I should say more
+alone, and it's unlikely that you should.  [Wes](/grad-job-guide/about#authors) suggests that I should say more
 on this because I ended up at highly-ranked CMU. This decision is mostly
 related to what matters to you in life and what makes you happy.  I
 sincerely believe that I could have worked and lived happily in all of my
@@ -42,7 +42,7 @@ emails never got any easier.
 {% capture quote %}
 Talk to everyone, several times.  I
 had my mind made up based on my assumptions about both places from which I
-had offers.  After talking to Wes a lot, I was contacted by the place I had
+had offers.  After talking to [Wes](/grad-job-guide/about#authors) a lot, I was contacted by the place I had
 decided not to go to and, after two subsequent conversations, I now work
 there.  It's impossible to ask all the right questions or get all the
 information about any given place, but if you have concerns about a certain

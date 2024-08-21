@@ -167,4 +167,4 @@ applies even if your current institution is legitimately dysfunctional. -->
 
 # [About Us](about.md)
 
-For more information about the authors of this Guide, along with contribution instructions, see our [About Us](about.md) tab. In general, if you have any questions about this Guide, please email Madeline Endres at <mendres@umass.edu>.
+For more information about the authors of this Guide, along with contribution instructions, see our [About Us](about.md) tab. In general, if you have any questions about this Guide, please email [Madeline Endres](/grad-job-guide/about#authors) at <mendres@umass.edu>.
