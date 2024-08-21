@@ -67,7 +67,7 @@ increasing freedom to pursue your interests. Both large universities and smaller
   why they should take your application seriously. We recommend including a few sentences in your cover letter and research
   statement explicitly stating why you really want to go there (e.g., you speak the local language, have family
   there, or are not tied to the US). Also emphasize these points during 
-  phone calls and interviews. For example, [Claire](/grad-job-guide/about#authors)'s Francophone 
+  phone calls and interviews. For example, <a href="/grad-job-guide/about#authors">Claire</a>'s Francophone 
   background and fluency in French were relevant in Canada, even outside 
   Quebec.</p>
   
