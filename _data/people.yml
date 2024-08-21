@@ -62,7 +62,7 @@
   color: "#990033"
   cycle: "2004-2005"
   timeline: timeline.json
-  target: Research Academia, Teaching Academia, and Industrial Research
+  target: Research Academia, Teaching Academia, and Industrial Research Positions
   resume:
     - file: weimer-resume.pdf
   research:
@@ -81,7 +81,7 @@
   avatar: claire.jpg
   color: "#0099FF"
   cycle: "2012-2013"
-  target: Research Academia and Industrial Research
+  target: Research Academia and Industrial Research Positions
   timeline: timeline.json
   resume:
     - file: legoues-cv.pdf
@@ -97,7 +97,7 @@
   avatar: zak.jpeg
   color: "#008000"
   cycle: "2013-2014"
-  target: Industrial Research
+  target: Industrial Research Positions
   resume:
     - file: fry-cv.pdf
   research:
@@ -110,7 +110,7 @@
   color: "#993300"
   cycle: "2019-2020"
   timeline: timeline.json
-  target: Teaching Academia and Instructor
+  target: Teaching Academia and Instructor Positions
   resume:
     - file: angstadt-cv-f2019.pdf
       description: Organized for a teaching-focused application
@@ -137,7 +137,7 @@
   color: "#ff9933"  
   cycle: "2020-2021"
   timeline: timeline.json
-  target: Research Academia and Instructor
+  target: Research Academia and Instructor Positions
   resume:
     - file: kleach-cv-2020.pdf
       description: Organized for a tenure-track position.  I used this both for teaching- and tenure-track positions.
@@ -159,7 +159,7 @@
   avatar: Endres_headshot.jpeg
   color: "#7600bc"  
   cycle: "2023-2024"
-  target: Research Academia
+  target: Research Academia Positions
   resume:
     - file: Endres_cv_feb.pdf
   research:
