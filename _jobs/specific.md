@@ -96,7 +96,7 @@ number of applications you submit.
 * In 2013, [Claire](/grad-job-guide/about#authors) applied to 28 schools and 1 research lab, got 10 invitations to
   interview, went on 9 interviews, and received 8 offers. *[Claire](/grad-job-guide/about#authors) was told by different people at 
   different points in the year that the number of positions to which she applied was (A) far too many, (B) far too few, and (C) exactly right.  Make of that what you will.*
-* In 2020, [Kevin](/grad-job-guide/about#authors) and [Yu](/grad-job-guide/about#authors) were looking for a joint hire. They applied to 50
+* In 2020, [Kevin](/grad-job-guide/about#authors) and Yu were looking for a joint hire. They applied to 50
   schools, received over 15 interviews each, and got 5 joint academic offers
   (three of which were joint tenure-track positions).
 * In 2024, [Madeline](/grad-job-guide/about#authors) applied to 24 schools, got 6 interviews, and received 4 offers. 
