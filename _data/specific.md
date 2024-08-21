@@ -102,7 +102,7 @@ number of applications you submit.
 * In 2024, [Madeline](/grad-job-guide/about#authors) applied to 24 schools, got 6 interviews, and received 4 offers. 
 
 *Searches for teaching Academia Positions:*
-* Hammad applied to 26 positions, got 19 interviews, and received 9 offers.
+* Hammad applied to 26 positions, got 19 interviews, and received  offers.
 
 *Searches for Industrial Research:*
 * In 2014, Zak applied to 15 jobs, had interviews at five, and received two offers.

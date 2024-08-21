@@ -1,0 +1,378 @@
+[
+    {
+        "cycle": "2023-2024",
+        "events": [
+            
+            {
+                "date": "Oct 11",
+                "description": "Rhodes invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Oct 12",
+                "description": "Pomona invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Oct 13",
+                "description": "CMU invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Oct 14",
+                "description": "Harvey Mudd invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Oct 19",
+                "description": "Harvey Mudd Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Oct 19",
+                "description": "Harvey Mudd invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Oct 19",
+                "description": "Lafayette invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Oct 20",
+                "description": "Pomona Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Oct 24",
+                "description": "CMU Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Oct 24",
+                "description": "Rhodes Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Oct 24",
+                "description": "Haverford invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Oct 24",
+                "description": "UCSD invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Oct 24",
+                "description": "UMich invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Oct 25",
+                "description": "Lafayette Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Oct 26",
+                "description": "Princeton invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Oct 26",
+                "description": "Cornell invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Oct 27",
+                "description": "Princeton Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Oct 30",
+                "description": "Haverford Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Oct 31",
+                "description": "UCSD Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Oct 31",
+                "description": "Whitman invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Nov 2",
+                "description": "CMU invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Nov 2",
+                "description": "Cornell Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Nov 2",
+                "description": "UMass Amherst invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Nov 3",
+                "description": "Whitman Zoom interview",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Nov 6",
+                "description": "UIUC invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Nov 6-7",
+                "description": "Harvey Mudd interview",
+                "type": "interview"
+            },
+            {
+                "date": "Nov 7",
+                "description": "Princeton invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Nov 7",
+                "description": "Haverford invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Nov 8",
+                "description": "Cornell invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Nov 8",
+                "description": "Franklin & Marshall invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Nov 10",
+                "description": "UCSD invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Nov 10",
+                "description": "UMass Amherst Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Nov 10",
+                "description": "UMass Amherst invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Nov 13",
+                "description": "UMich interview",
+                "type": "interview"
+            },
+            {
+                "date": "Nov 15",
+                "description": "Franklin & Marshall Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Nov 16",
+                "description": "UIUC Zoom interview",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Nov 17",
+                "description": "UCSD interview ",
+                "type": "interview"
+            },
+            {
+                "date": "Nov 20",
+                "description": "Lafayette invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Nov 20",
+                "description": "Whitman invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Nov 20",
+                "description": "UWashington invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Nov 20",
+                "description": "James Madison invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Nov 22",
+                "description": "I decline my Whitman interview invitation",
+                "type": "decline-interview"
+            },
+            {
+                "date": "Nov 20-21",
+                "description": "Haverford interview",
+                "type": "interview"
+            },
+            {
+                "date": "Nov 27-28",
+                "description": "CMU interview",
+                "type": "interview"
+            },
+            {
+                "date": "Nov 29",
+                "description": "James Madison interview over Zoom",
+                "type": "phone-interview"
+            },
+            {
+                "date": "Dec 1",
+                "description": "Cornell interview",
+                "type": "interview"
+            },
+            {
+                "date": "Dec 4-5",
+                "description": "Princeton interview",
+                "type": "interview"
+            },
+            {
+                "date": "Dec 5",
+                "description": "Vanderbilt invitation to interview over Zoom",
+                "type": "phone-invitation"
+            },
+            {
+                "date": "Dec 8",
+                "description": "UMass Amherst interview",
+                "type": "interview"
+            },
+            {
+                "date": "Dec 8",
+                "description": "Harvey Mudd makes an official offer, requires decision by Dec 18 (extended to Dec 22 to let me finish Lafayette interview)",
+                "type": "offer"
+            },
+            {
+                "date": "Dec 11",
+                "description": "Lafayette interview",
+                "type": "interview"
+            },
+            {
+                "date": "Dec 12",
+                "description": "Lafayette makes an official offer, requires decision by Dec 19 (extended to Dec 22)",
+                "type": "offer"
+            },
+            {
+                "date": "Dec 12",
+                "description": "I withdraw from the search at UWashington and Vanderbilt (I had upcoming Zoom interviews at both places)",
+                "type": "decline-interview"
+            },
+            {
+                "date": "Dec 13",
+                "description": "UCSD informs me they will be making an official offer",
+                "type": "offer"
+            },
+            {
+                "date": "Dec 13",
+                "description": "Rhodes invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Dec 14",
+                "description": "Cornell makes an official offer",
+                "type": "offer"
+            },
+            {
+                "date": "Dec 15",
+                "description": "UMass Amherst makes an official offer",
+                "type": "offer"
+            },
+            {
+                "date": "Dec 15",
+                "description": "Princeton informs me they will not be able to extend an offer",
+                "type": "reject"
+            },
+            {
+                "date": "Dec 15",
+                "description": "I decline my Rhodes interview invitation",
+                "type": "decline-interview"
+            },
+            {
+                "date": "Dec 18",
+                "description": "James Madison invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Dec 18",
+                "description": "I decline my Jame Madison interview",
+                "type": "decline-interview"
+            },
+            {
+                "date": "Dec 18",
+                "description": "CMU makes an official offer",
+                "type": "offer"
+            },
+            {
+                "date": "Dec 18",
+                "description": "Haverford makes an official offer, requires decision by Dec 27",
+                "type": "offer"
+            },
+            {
+                "date": "Dec 19",
+                "description": "UMich informs me they will be making an official offer",
+                "type": "offer"
+            },
+            {
+                "date": "Dec 19",
+                "description": "UCSD makes an official offer",
+                "type": "offer"
+            },
+            {
+                "date": "Dec 20",
+                "description": "I turn down my Lafayette offer",
+                "type": "decline-offer"
+            },
+            {
+                "date": "Dec 21",
+                "description": "I turn down my Haverford offer",
+                "type": "decline-offer"
+            },
+            {
+                "date": "Dec 21",
+                "description": "I turn down my Harvey Mudd offer",
+                "type": "decline-offer"
+            },
+            {
+                "date": "Jan 4",
+                "description": "I withdraw from the search at UMich",
+                "type": "decline-offer"
+            },
+            {
+                "date": "Jan 8",
+                "description": "Franklin & Marshall invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Jan 8",
+                "description": "I decline my Franklin & Marshall interview",
+                "type": "decline-interview"
+            },
+            {
+                "date": "Jan 17",
+                "description": "UIUC invitation to interview",
+                "type": "invitation"
+            },
+            {
+                "date": "Jan 18",
+                "description": "I decline my UIUC interview",
+                "type": "decline-interview"
+            },
+            {
+                "date": "Jan 30",
+                "description": "I accept CMU and turn down my remaining offers",
+                "type": "accept"
+            }
+        ]
+    }
+]
