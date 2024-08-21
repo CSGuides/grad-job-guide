@@ -75,7 +75,7 @@ Here are some concrete tips for organizing your resume or CV:
   [Kevin Angstadt](/grad-job-guide/about#authors)'s
   and
   [Hammad Ahmad](/grad-job-guide/about#authors)'s materials represent more of
-  an upper bound, resulting in very successful searchs with multiple offers.
+  an upper bound, resulting in very successful searches with multiple offers.
  
   Teaching jobs will also want multiple 
   numerical evaluations. For example, [Wes](/grad-job-guide/about#authors) was asked explicitly what his numerical teaching
