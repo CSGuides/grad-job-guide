@@ -13,9 +13,6 @@ the same department (the traditional two-body problem);
 they could pursue their career in the arts.  [Wes](/grad-job-guide/about#authors), [Kevin](/grad-job-guide/about#authors), and [Yu](/grad-job-guide/about#authors)
 mentioned their relationship statuses in their cover letters; 
 [Claire](/grad-job-guide/about#authors) and [Madeline](/grad-job-guide/about#authors) did not. 
-with the latter situation, we cannot provide as much insight on the subject.  If
-you are in that position, we encourage you to talk to others who have done a
-two-body academic search for more concrete and informed advice.-->
 
 As mentioned above, you may be asked about your marital status during your
 interviews.  [Claire](/grad-job-guide/about#authors) actually never had anyone ask her this outright. Perhaps
