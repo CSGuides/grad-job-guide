@@ -1,27 +1,27 @@
 # Authors
 
-This guide has been written predominantly by [Wes Weimer](https://web.eecs.umich.edu/~weimerw/) (University of
-Michigan), [Claire Le Goues](https://clairelegoues.com/) (Carnegie Mellon), Zak Fry (GrammaTech),
+This guide was written by [Wes Weimer](https://web.eecs.umich.edu/~weimerw/) (University of
+Michigan), [Claire Le Goues](https://clairelegoues.com/) (Carnegie Mellon University), Zak Fry (GrammaTech),
 [Kevin Leach](https://kjl.name/) (Vanderbilt University), [Yu Huang](https://yuhuang-lab.github.io/) (Vanderbilt University), 
 [Kevin Angstadt](https://myslu.stlawu.edu/~kangstadt/) (St. Lawrence University), and [Madeline Endres](https://madelineendres.com) (University 
-of Massachusetts, Amherst). 
+of Massachusetts, Amherst). We elicited select input from others, and indicate who/where throughout, where relevant.
 
 In this Guide, we generally offer collective advice and speak in general terms. However, we will sometimes refer to specific authors by name. We provide
 information about each author's search below to provide context.
 
 * [Wes Weimer](https://web.eecs.umich.edu/~weimerw/): Conducted a 2005 search for a position in programming languages or software
-engineering in academia or industry, which led to a role at the University of Virginia.
+engineering in academia or industry; accepted a position as a tenure track assistant professor at the University of Virginia.
 
 * [Claire Le Goues](https://clairelegoues.com/): Conducted a 2013 search for a position in programming languages or software
-engineering in research academia or industry, which led to a role Carnegie Mellon University.
+engineering in research academia or industry; accepted a position as a tenure track assistant professor at Carnegie Mellon University.
 
-* Zak Fry: Conducted a 2014 search for industrial research positions in software systems, which led to a role at GrammaTech.
+* Zak Fry: Conducted a 2014 search for industrial research positions in software systems; accepted a role as a Research Scientist at GrammaTech.
 
-* [Kevin Angstadt](https://myslu.stlawu.edu/~kangstadt/): Conducted a 2019 search for a programming languages position in teaching-focused academia, which led to a role at St. Lawrence University.
+* [Kevin Angstadt](https://myslu.stlawu.edu/~kangstadt/): Conducted a 2019 search for a programming languages position in teaching-focused academia; accepted a position as a tenure track assistant professor at St. Lawrence University.
 
-* [Kevin Leach](https://kjl.name/): Conducted a 2020 search for a position in software engineering or security in research or teaching-focused academia, which led to a role at Vanderbilt University.  
+* [Kevin Leach](https://kjl.name/): Conducted a two-body (with spouse [Yu Huang](https://yuhuang-lab.github.io/)) 2020 search for a position in software engineering or security in research or teaching-focused academia; accepted a position as a tenure track assistant professor at Vanderbilt University.  
 
-* [Madeline Endres](https://madelineendres.com): Conducted a 2024 search for a software engineering position in research academia, which led to a role at the University of Massachusetts, Amherst.
+* [Madeline Endres](https://madelineendres.com): Conducted a 2024 search for a software engineering position in research academia; accepted a position as a tenure track assisstant professor at the University of Massachusetts, Amherst.
 
 
 Kevin Angstadt and Madeline Endres are the primary

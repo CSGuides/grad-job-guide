@@ -43,9 +43,8 @@ Here are some concrete tips for organizing your resume or CV:
   publications chronologically without distinguishing by venue
   type can appear disingenuous, and it can be annoying for the reader
   to spend time mentally sorting the list (since workshops 
-  "count less" than other venue types).
-
-  To this end, Claire included journal impact factors and conference 
+  "count less" than other venue types).  To that end, be sure to separate short/workshop from full conference/journal publications. 
+  Claire included journal impact factors and conference 
   acceptance rates. She also highlighted venue acronyms and applicable 
   awards in the left-hand column of her publication list.  These 
   decisions were intended to make her CV easier to scan for this type 

@@ -96,7 +96,7 @@ number of applications you submit.
 * In 2013, [Claire](/grad-job-guide/about#authors) applied to 28 schools and 1 research lab, got 10 invitations to
   interview, went on 9 interviews, and received 8 offers. *[Claire](/grad-job-guide/about#authors) was told by different people at 
   different points in the year that the number of positions to which she applied was (A) far too many, (B) far too few, and (C) exactly right.  Make of that what you will.*
-* In 2020, [Kevin](/grad-job-guide/about#authors) and [Yu](/grad-job-guide/about#authors) were looking for a joint hire. They applied to 50
+* In 2020, [Kevin](/grad-job-guide/about#authors) and Yu were looking for a joint hire. They applied to 50
   schools, received over 15 interviews each, and got 5 joint academic offers
   (three of which were joint tenure-track positions).
 * In 2024, [Madeline](/grad-job-guide/about#authors) applied to 24 schools, got 6 interviews, and received 4 offers. 
@@ -125,7 +125,16 @@ candidates.
 For instance, Spring 2005 was highly competitive with many strong applicants in PL/SE, 
 while 2013 was more of a candidate's market: the hiring freeze post-financial crisis was
 thawing, and the wave of candidates who had started postdocs in 2008 and applied
-for faculty positions 2 or 3 years later had thinned.
+for faculty positions 2 or 3 years later had thinned.  
+
+{% capture quote %}
+Based on something like 15 years of observing the market, I feel comfortable
+claiming that SE/PL is effectively never "hot".  But, as they fall
+squarely into the bread-and-butter category of Computer Science (everyone has to
+teach programming!), there appears to be a pretty consistent level of demand in
+these areas (subject to prevailing market conditions, of course).  
+{% endcapture %}
+{% include quote.html content=quote user="legoues" %}
 
 ### Advice for Industrial Positions
 

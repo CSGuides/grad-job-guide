@@ -64,9 +64,12 @@ hand.  I have been told by various people that this behavior is more common from
 and attractive to "lower ranked" schools, because they typically have to work
 harder to interview and attract candidates.  Put differently: Stanford can be
 reasonably confident that a candidate will accept their offer.
-Ranked-75th-University may have to put out more offers to get a bite.  That
-said, this is a difficult feature of the job search and I wish schools
-could synchronize their schedules a bit more to avoid it.
+Ranked-75th-University may have to put out more offers to get a bite.  
+This is a difficult feature of the job search and I wish schools
+could synchronize their schedules a bit more to avoid it; but ultimately, a
+system like the medical school "match" process disadvantages applicants (it's an
+explicitly legal cartel!), so we may just have to accept that we live in the
+best of all possible worlds.
 {% endcapture %}
 {% include quote.html content=quote user="legoues" %}
 
