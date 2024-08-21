@@ -24,6 +24,11 @@ and tips on how to structure your [job talk](#preparing-your-job-talk) or [teach
 advice for [individual interviews](#individual-meeting-questions), and tips on
 navigating [dual career situations](#dual-career-couples).
 
+Before any phone screening or interview, 
+we recommend visiting the faculty web page and finding people
+with interests similar to your own, as well as looking up people who
+are on your schedule. 
+
 {% include_relative _interviewing/phoneScreen.md %}
 {% include_relative _interviewing/visits.md %}
 {% include_relative _interviewing/questions.md %}
