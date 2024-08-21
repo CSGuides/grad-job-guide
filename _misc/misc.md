@@ -6,7 +6,7 @@ We list here tidbits, advice, high-level observations, or trivia that, for whate
 - We recommend that you read the <a href="http://www.cra.org/statistics/">CRA Taulbee survey</a>.  It's also tremendously useful as you progress through faculty life.  About halfway through, it lists salary averages across a variety of department types.
 - The University of Michigan's Computer Science and Engineering division publishes faculty search statistics in its annual DEI Reports. You can find them on the web. For example: 
 > [In Academic Year 2023-2024] CSE received 591 applications for faculty positions, of which 562 were for tenure-track positions and 29 were for teaching faculty positions. ... We invited 38 of those 591 applicants (6%) to interview. ... CSE extended job offers to 15 candidates.
-
+- And: 
 > [In Academic Year 2022-2023] CSE received 442 applications for faculty positions ... We invited 44 of those 442 applicants (10%) to interview. ... CSE extended job offers to 27 candidates. 
 - The Michigan CSE DEI reports also contain demographic information (not reproduced here) and go back a few more years.
 - For a more historical perspective, in 2005 Purdue received 380 applicants for 3 job spots in CS and held 14
