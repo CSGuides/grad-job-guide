@@ -12,7 +12,10 @@ We provide examples of the main application components, as well as
 complete application portfolios. The portfolios are organized by date, 
 with the newest listed first. Additionally, all materials can be 
 filtered by key attributes, such as primary research area(s), 
-dual career situations, and job type.
+dual career situations, and job type. Please consider our 
+[advice
+on nuance when comparing to these materials](#comparisons-nuance-and-a-technique). 
+
 
 We thank everyone who contributed their materials to this project. If you 
 are interested in contributing your materials, please see our 
