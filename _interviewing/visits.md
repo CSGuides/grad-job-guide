@@ -159,7 +159,13 @@ someone dominating the conversation, etc.
 
 We recommend that you plan in advance for potentially stressful social situations.
 For example, both [Claire](/grad-job-guide/about#authors) and [Madeline](/grad-job-guide/about#authors) made it a rule to have at most one glass of red wine, 
-and only if someone else ordered alcohol first.
+and only if someone else ordered alcohol first. 
+
+[Claire](/grad-job-guide/about#authors)'s "silver rule" (after only drinking
+if the host is drinking) is "never say anything mean about anyone, especially not your current
+institution or other institutions at which you are interviewing". 
+She notes that this rule applies even if your current institution is legitimately dysfunctional.
+
 
 ## Personal Considerations
 
@@ -197,6 +203,8 @@ when available.  Take care of yourself physically.  You do yourself no
 favors if you are so tired and strung out that your are no longer at your mental
 best.
 
+
+
 {% capture quote %}
 Make sure you drink lots of water!!
 
@@ -230,3 +238,9 @@ spend time thinking about whether you would be happy living in that
 city. 
 {% endcapture %}
 {% include quote.html content=quote user="kleach" %}
+
+{% capture quote %}
+Do not expect to accomplish any work (beyond giving a conference talk)
+between February and May.
+{% endcapture %}
+{% include quote.html content=quote user="weimer" %}
