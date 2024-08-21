@@ -15,7 +15,7 @@ nav: Overview
 
 This website offers a *summary of experiences, insights, and advice*---including many personal opinions and accounts---*on navigating the job search process for computer science academia and industrial research labs*. It contains both general advice as well as detailed accounts of several job searches, including:
 
-* Multiple searches resulting in job offers at top-tier R1 institutions (e.g.,
+* Multiple searches resulting in job offers at top-tier academic research institutions (e.g.,
   CMU, UMass Amherst, etc.).
 * Multiple searches resulting in job offers in industrial research (e.g.,
   GrammaTech, Lincoln Labs, etc.).
@@ -24,7 +24,7 @@ This website offers a *summary of experiences, insights, and advice*---including
 
 **This website is structured as a how-to guide for graduate students.**
 We provide collective advice, quote and commentary from a few individuals, and application materials from many individuals. 
-sometimes refer to specific authors by name.
+We sometimes refer to [specific authors by name](about.md).
 
 # Is This Guide For Me?
 
@@ -56,8 +56,9 @@ This guide is organized around four major stages of a job search:
 This guide also contains 
 [<span class="highlight-link">example application materials and interview resources</span>](exampleMaterials.md) 
 that were actually used in real job searches.
-These materials are tailored for different job types, including R1 Tenure-Track positions, 
-R1 Teaching-Focused positions, Liberal Arts Tenure-Track positions, and Industrial Research positions.
+These materials are tailored for different job types, including Research Tenure-Track positions 
+(sometimes abbreviated "R1 TT"), 
+Research Teaching-Focused positions, Liberal Arts Tenure-Track positions, and Industrial Research positions.
 
 We next briefly summarize each phase.
 
