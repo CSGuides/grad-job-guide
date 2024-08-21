@@ -150,7 +150,7 @@ to different CS careers, including metrics on attendance and
 and the positive feedback she received. However, some readers may 
 expect a diversity philosophy at the start.
 
-From the faculty side, [Wes]((/grad-job-guide/about#authors), who has chaired a Diversity Committee for
+From the faculty side, [Wes](/grad-job-guide/about#authors), who has chaired a Diversity Committee for
 many years, been involved in such committees at multiple institutions, and helped push for the 
 consideraiton of Diversity Statements at Michigan, encourages you to place an 
 emphasis on showing your <i>understanding</i> of the complexity and nuance of these issues, as well as the 
@@ -160,7 +160,7 @@ considering applicant identity directly. In that light, "I am a member of group 
 than "I founded a summer program to support XYZ students, and used my personal experience as a member of that group
 to focus activities on challenges ABC and DEF, which may disproportionately impact members of that population." 
 
-Regarding activities, [Wes]((/grad-job-guide/about#authors) further encourages you to include numbers and outcomes where possible. For example, 
+Regarding activities, [Wes](/grad-job-guide/about#authors) further encourages you to include numbers and outcomes where possible. For example, 
 list how many people attended your community-building event, quantify how participants found your speaker series helpful, 
 count how many of the high school students you spoke to went on to apply, and so on. This may require planning in
 advance: if you have already done the hard work of bringing in and advertising a guest speaker, 
