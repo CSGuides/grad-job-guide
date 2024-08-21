@@ -51,7 +51,8 @@ Here are some concrete tips for organizing your resume or CV:
   decisions were intended to make her CV easier to scan for this type 
   of information, because interviewers look for it.
 
-* **Consider Section Summaries:** Kevin Leach had applied to jobs as a 
+* **Consider Section Summaries:**
+  [Kevin Leach](/grad-job-guide/about#authors) had applied to jobs as a 
   "cross-disciplinary" researcher with a few years of postdoctoral experience.
   This led to a complicated list of publications and grants. 
   Kevin found it helpful to have summaries at the top of each section to
@@ -59,18 +60,24 @@ Here are some concrete tips for organizing your resume or CV:
   taught, and which grants were received at each institution.
 
 * **Teaching Qualifications:** If you are applying for teaching 
-  positions (e.g., top-tier teaching academia, small liberal arts 
+  positions (e.g., top-tier teaching academia, liberal arts 
   college, instructor position), you should highlight your teaching 
   qualifications---such as courses taught, courses designed, and numerical 
   evaluation scores---early in your resume.
 
-  If you are going for this type of job, your resume 
-  should be at least as good as [Wes](/grad-job-guide/about#authors)'s and hopefully much better 
-  (more like [Kevin Angstadt](/grad-job-guide/about#authors)'s below, say). [Wes](/grad-job-guide/about#authors)'s were the bare 
+  As with reserach-focused position, the selectivity of a teaching-focused
+  position will vary with context, including the quality and reputation
+  of the school. For top-tier liberal arts colleges,
+  [Wes](/grad-job-guide/about#authors)'s were the bare 
   minimum required (e.g., they sufficed to get him an interview at 
   Wesleyan) but they were mentioned as a concern (until he was able to 
   convince them with his presentation) and he has no doubt that other teaching
-  places rejected him because of them. Teaching jobs will also want multiple 
+  places rejected him because of them. By contrast, 
+  [Kevin Angstadt](/grad-job-guide/about#authors)'s
+  and
+  [Hammad Ahmad](/grad-job-guide/about#authors)'s materials represent more of
+  an upper bound, resulting in very successful searchs with multiple offers.  
+  Teaching jobs will also want multiple 
   numerical evaluations (e.g., [Wes](/grad-job-guide/about#authors) was asked explicitly what his numerical teaching
   evaluations were at Wesleyan, and we imagine that they're even more serious about
   it at other departments).
