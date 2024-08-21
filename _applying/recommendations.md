@@ -60,8 +60,8 @@ written papers together for many years; I have taken classes, written at least
 one paper, and supported grants with John Knight throughout my graduate career;
 and Mark Harman and I have been in contact about my work since before I received
 my Masters.  I was told by at least one department chair that the strength of my
-letters was critically important to securing the interview(s) in question.  I
-encourage you to select your letter writers carefully.
+letters was critically important to securing the interview(s) in question.  My subsequent experience participating in and chairing faculty searches at Carnegie Mellon, corroborates the importance of letters;  I
+encourage you to select your recommenders carefully.
 {% endcapture %}
 {% include quote.html content=quote user="legoues" %}
 
