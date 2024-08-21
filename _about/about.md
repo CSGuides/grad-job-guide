@@ -9,18 +9,22 @@ of Massachusetts, Amherst).
 In this Guide, we generally offer collective advice and speak in general terms. However, we will sometimes refer to specific authors by name. We provide
 information about each author's search below to provide context.
 
-* [Wes Weimer:](https://web.eecs.umich.edu/~weimerw/) Conducted a 2005 search for a position in programming languages or software
-engineering, which led to a role at the University of Virginia.
+* [Wes Weimer](https://web.eecs.umich.edu/~weimerw/): Conducted a 2005 search for a position in programming languages or software
+engineering in academia or industry, which led to a role at the University of Virginia.
 
-* [Claire Le Goues:](https://clairelegoues.com/) Conducted a 2013 search for a position in programming languages or software
-engineering, which led to a role Carnegie Mellon University.
-* Zak Fry: Conducted a 2014 search for industrial research positions, which led to a role at GrammaTech.
-* [Kevin Angstadt:](https://myslu.stlawu.edu/~kangstadt/) Conducted a 2019 search for a programming languages position, which led to a role at St. Lawrence University.
-* [Kevin Leach:](https://kjl.name/) Conducted a 2020 search for a position in software engineering or security, which led to a role at Vanderbilt University.  
-* [Madeline Endres:](https://madelineendres.com) Conducted a 2024 search for a software engineering position, which led to a role at the University of Massachusetts, Amherst.
+* [Claire Le Goues](https://clairelegoues.com/): Conducted a 2013 search for a position in programming languages or software
+engineering in research academia or industry, which led to a role Carnegie Mellon University.
+
+* Zak Fry: Conducted a 2014 search for industrial research positions in software systems, which led to a role at GrammaTech.
+
+* [Kevin Angstadt](https://myslu.stlawu.edu/~kangstadt/): Conducted a 2019 search for a programming languages position in teaching-focused academia, which led to a role at St. Lawrence University.
+
+* [Kevin Leach](https://kjl.name/): Conducted a 2020 search for a position in software engineering or security in research or teaching-focused academia, which led to a role at Vanderbilt University.  
+
+* [Madeline Endres](https://madelineendres.com): Conducted a 2024 search for a software engineering position in research academia, which led to a role at the University of Massachusetts, Amherst.
 
 
-Kevin and Madeline are the primary
+Kevin Angstadt and Madeline Endres are the primary
 maintainers of this version of the guide (there are older versions out
 there, but we anticipate this site to be most up-to-date).
 
