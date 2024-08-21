@@ -27,7 +27,7 @@ cities, and Pittsburgh is cool, and it is conveniently located for both my
 family and my partner's family.  It also has a fairly large tech scene,
 allowing my spouse to get a job.  The fact that CMU CS is a highly ranked
 department was not irrelevant, but it is not the only reason I accepted the
-position.  See below for more commentary on department rankings.
+position.  
 
 I found deciding very difficult.  You will end up connecting, hanging out,
 and talking with a large number of people at every school, and it's hard to turn
