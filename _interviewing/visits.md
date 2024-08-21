@@ -158,7 +158,7 @@ situations, such as deciding whether to drink alcohol, dealing with
 someone dominating the conversation, etc.
 
 We recommend that you plan in advance for potentially stressful social situations.
-For example, [Madeline](/grad-job-guide/about#authors) made it a rule to have at most one glass of red wine, 
+For example, both [Claire](/grad-job-guide/about#authors) and [Madeline](/grad-job-guide/about#authors) made it a rule to have at most one glass of red wine, 
 and only if someone else ordered alcohol first.
 
 ## Personal Considerations

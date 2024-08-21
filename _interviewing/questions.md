@@ -16,7 +16,7 @@ repeated hers when necessary.
 
 * *What's the funding situation like here?* Have you had good luck with 
   grants recently? When you were a new faculty member, 
-  did you get much help with grant-writing?
+  did you get much help with grant-writing?  Do you know of senior faculty collaborating with junior faculty, for example? 
 
 * *What's your least favorite part about working here?* 
   Everyone has only great things to say about this place. 
@@ -71,7 +71,7 @@ repeated hers when necessary.
 
 * *Are the faculty young or old?* Is the university structured and
   hierarchical? Do decisions come down from on high? How much power do young
-  faculty members have? 
+  faculty members have? How much do young faculty shoulder the service/teaching load?
 
 * *What's it like to live here?* How long is your commute? 
 
@@ -82,7 +82,7 @@ repeated hers when necessary.
     No one gets mad at anyone else. We sometimes squabble over space.
 
 * *What's the general view on (your research area) here?*
-  Is it a second-class citizen? Is theory emphasized? Practice? Building big systems? 
+  Is it a second-class citizen? Is theory emphasized? Practice? Building big systems? Is the department planning to grow the area beyond this hire? 
 
 **Questions they may ask you:**
 
@@ -99,7 +99,7 @@ ask you during these individual meetings. Here are some examples:
 * *Are you married? Do you have a two-body problem?*
   * See below on the [two-body problem](#dual-career-couples).
 
-* *What will your CAREER award be about?* 
+* *What will your CAREER proposal be about?* 
 
 * *What will your first student's Ph.D. topic be?* How many students do you plan to have? 
 
@@ -136,6 +136,15 @@ people interviewing her in several departments). <span class="highlight">You wan
 potential colleagues that you are someone they wouldn't mind working 
 with or sharing a hallway with. Being able to hold a reasonable 
 conversation for 30 minutes is a good start.</span>
+
+
+{% capture quote %}
+From my perspective on the other side, I will echo the above and say, having
+some questions/being able to hold a conversation is a genuinely good thing.
+_However_, please make sure to let your interviewers get a word in edgewise.  A
+candidate who _never_ lets an interviewer ask a question can frustrate a search committee. 
+{% endcapture %}
+{% include quote.html content=quote user="legoues" %}
 
 {% capture quote %}
 I would first note that for any type of interview, having looked up the people

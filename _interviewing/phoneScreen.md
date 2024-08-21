@@ -23,7 +23,7 @@ you can ask:
 so that she could refer to them if needed.
 
 In our experience, screenings typically last 20-40 minutes, and are conducted
-over phone or video conferencing. You will often start by introducing
+via video conferencing. You will often start by introducing
 yourself and your research (some institutions may ask you to
 prepare slides). Then, for the next 10-15 minutes, your interviewers
 will ask you questions about your career goals and research. Finally, the last

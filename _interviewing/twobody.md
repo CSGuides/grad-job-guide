@@ -11,7 +11,7 @@ were single when they were on the market; [Claire](/grad-job-guide/about#authors
 and [Hammad](/grad-job-guide/about#authors) 
 had partners who were
 planning to move with them and find a job in the software industry; [Kevin Leach](/grad-job-guide/about#authors)
-and [Yu](/grad-job-guide/about#authors) were partners seeking academic positions together in
+and Yu were partners seeking academic positions together in
 the same department (the traditional two-body problem); 
 [Madeline](/grad-job-guide/about#authors) had a partner who wanted to be in a location where
 they could pursue their career in the arts.  [Wes](/grad-job-guide/about#authors), [Kevin Leach](/grad-job-guide/about#authors), and [Yu](/grad-job-guide/about#authors)
@@ -22,10 +22,8 @@ and
 did not. 
 
 You may be asked about your marital or relationship status during your
-interviews.  [Claire](/grad-job-guide/about#authors) actually never had anyone ask her this outright. Perhaps
-times changed since 2005, or perhaps interviewers are more sensitive about the
-issue with a female candidate than they are with a male candidate.  Regardless,
-this question is illegal. 
+interviews, though [Claire](/grad-job-guide/about#authors) never was, and believes that interviewers have become more attuned to this issue in general (especially with candidates who present as female).  Regardless,
+the question is illegal. 
 
 {% capture quote %}
 Everyone will want to know.  I put it at the top of my CV and I am
@@ -70,7 +68,7 @@ more likely it is that they can find something for your partner in time to
 convince you that accepting the position is beneficial for you and your family.
 There is a school of thought that one should wait until one knows a department
 is interested before divulging a two-body situation.  However, I have seen this
-backfire for other couples more than once, in that by the time an offer is on
+backfire for other couples more than once, at multiple places, in that by the time an offer is on
 the table, it is too late to arrange for an interview with another department.
 This is obviously a bigger problem if your partner is also in academia.
 
@@ -136,8 +134,8 @@ employees that they think they could work with every day on a personal level.
 
 One final note on partners and jobs: emigrating to Canada with a partner appears
 to be pretty trivial, based on [Claire](/grad-job-guide/about#authors)'s (serious) conversations with Waterloo on
-the subject.  The Canadian immigration system is much more straightforward than
-the US system (as of July 2013), and their HR departments are practiced in
+the subject.  The Canadian immigration system remains straightforward, at least compared to
+the US, and their HR departments are practiced in
 providing support for the process.
 
 Now that you've finished your interviews, it's time to [make a decision](/grad-job-guide/deciding)
