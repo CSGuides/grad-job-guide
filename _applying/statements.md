@@ -88,7 +88,7 @@ research.
 References aren't required in a research 
 statement, but they don't hurt if you feel better including them (
 or if you have a bunch of publications and
-want to highlight that). Kevin Leach notes that by the time he was
+want to highlight that). [Kevin Leach](/grad-job-guide/about#authors) notes that by the time he was
 applying for jobs, he had published across several disciplines.  He used
 citations in his research statement to help the reader follow which
 publications were most relevant in constructing a coherent narrative.
@@ -149,6 +149,53 @@ meaningless platitudes. For example,
 to different CS careers, including metrics on attendance and
 and the positive feedback she received. However, some readers may 
 expect a diversity philosophy at the start.
+
+From the faculty side, [Wes]((/grad-job-guide/about#authors), who has chaired a Diversity Committee for
+many years, been involved in such committees at multiple institutions, and helped push for the 
+consideraiton of Diversity Statements at Michigan, encourages you to place an 
+emphasis on showing your <i>understanding</i> of the complexity and nuance of these issues, as well as the 
+<i>activities</i> you have carried out (or plan to carry out) to improve climate and broaden participation in computing, rather
+than on your personal <i>identity</i>. Many institutions, especially some state schools, are forbidden from
+considering applicant identity directly. In that light, "I am a member of group XYZ" may be less compelling
+than "I founded a summer program to support XYZ students, and used my personal experience as a member of that group
+to focus activities on challenges ABC and DEF, which may disproportionately impact members of that population." 
+
+Regarding activities, [Wes]((/grad-job-guide/about#authors) further encourages you to include numbers and outcomes where possible. For example, 
+list how many people attended your community-building event, quantify how participants found your speaker series helpful, 
+count how many of the high school students you spoke to went on to apply, and so on. This may require planning in
+advance: if you have already done the hard work of bringing in and advertising a guest speaker, 
+giving all of the attendees a survey with a few Likert and freeform questions may not be much 
+more effort on top of that, but will strengthen your Diversity Statement. For example, a hiring committee
+choosing between applicants stating 
+
+> I organized a community-building ice cream social for first-year XYZ students
+
+and 
+
+> I organized a community-building ice cream social for first-year XYZ students. 20 people attended and participants gave an average survey response of 4.6/5.0 to the statement "This event made me more likely to declare the CS major." One participant wrote, "I thought there wouldn't be anyone else like me in CS, but I met some fun people here."
+
+... will almost certainly find the second to be more compelling. In addition, you are encouraged to
+include any evidence that your efforts have spanned multiple years and that they will continue without you.
+Informally, administrations often see diversity activities as falling into a "graveyard of broken dreams", where one enthusiastic person
+runs an activity for one cycle and then graduates or moves on, and the activity falls apart without that leader. 
+Evidence that you have trained replacements, secured funding, or otherwise started something that will
+continue to operate "on its own" will look particularly attractive. 
+Because hiring committees are looking to hire you for many years, and institutions often make decisions about
+which programs to continue based on these considerations (e.g., how many people did it help, to what degree did it help them,
+how much did it cost in terms of time or resources, can it be sustained, etc.), including that sort of information
+in your essay will make it easier for the committee to conclude that you align with their institutional practices. 
+
+Concretely, many US universities have recently produced, adapted and refined rubrics for evaluating
+Diversity Statements. Many of these show a convergence of ideas and best practices. For example, the Michigan State Univeristy
+rubric is based on the University of California at Berkeley rubric, which was itself adapted by the University of California at Irvine, etc. 
+Using these rubrics to guide the construction of your Diversity Statement is thus more likely to result in a single
+statement that is assessed positively at multiple institutions. Some of these rubrics (including the original Berkeley one) can
+be harder to find on the web (e.g., they may be structured for faculty hiring committees, not for applicants), so we have archived three public 
+examples here for your convenience:
+
+- [University of Colorado, Denver --- DEI Statement Rubric](assets/materials/deirubrics/DEI-Statement-Rubric-Colorado-Denver.pdf)
+- [University of California, Irvine --- DEI Statement Rubric](assets/materials/deirubrics/DEI-Statement-Rubric-UC-Irvine.pdf)
+- [Michigan State Univeristy --- DEI Statement Rubric](assets/materials/deirubrics/DEI-Statement-Rubric-MSU.pdf)
 
 For examples of diversity statements, see the 
 [Example Materials](/grad-job-guide/exampleMaterials) tab.
