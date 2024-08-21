@@ -19,9 +19,9 @@ increasing freedom to pursue your interests. Both large universities and smaller
 
 
 - **US Research Academia**: This includes "top-ten" schools like MIT,
-  CMU, Berkeley, Stanford, and Cornell as well schools with lower rankings 
-  like UC Irvine, Purdue, Rutgers, and Virginia. *Professors often consider 
-  this the default type of application*---even if it may not be where most applicants end up.
+  CMU, Berkeley, Stanford, and Cornell; other R1 schools
+  like UC Irvine, Purdue, Rutgers, and Virginia; and schools outside R1, where research is still a component of a tenure track position, but usually modulated by a higher teaching expectation. *Professors often consider 
+  this (especially for R1 positions) the default type of application*---even if it may not be where most applicants end up.
   You may benefit from talking to your advisors and mentors about other options. 
 
 - **Industrial Research Labs**: This category includes
@@ -36,7 +36,7 @@ increasing freedom to pursue your interests. Both large universities and smaller
 
 - **Industrial "Startups"**: This includes Ph.D.-seeking high-tech
   companies or recently-formed startups. Examples
-  include Coverity, Green Hills, Fortify and EMC. 
+  include Green Hills, Sourcegraph, Fortify, Nuro and EMC. 
   We don’t have personal experience in this area, but others suggest
   that this work typically involves taking a research idea much further 
   than in academia, from concept to product, with all the steps along 
@@ -141,20 +141,15 @@ increasing freedom to pursue your interests. Both large universities and smaller
   the teaching-focused instructors faculty at your university.-->
 
 - **Standard Industry**: If you want to get a job as a standard
-  Developer, your Ph.D. certainly qualifies you. You don't need
+  SWE, your Ph.D. certainly qualifies you. You don't need
   this document in that case. While grad students often aim for more 
   research-oriented roles, these positions are a solid option, 
-  particularly if you face a two-body problem. A key advantage is the 
-  work-life balance, with clear boundaries between work and personal 
-  time.
+  particularly if you face a two-body problem. 
 
 - **Post-Docs**: Post-doc positions are still somewhat rare in Computer 
   Science. However, they have become 
-  more common in the US following both the 2008 the financial crisis and 
-  also COVID-19; during and after both, many schools froze hiring. 
-  The low job supply encouraged
-  candidates into post-doc roles. It then became more
-  difficult for fresh PhDs to compete with such buffed CVs.
+  more common in the US, typically following crises, such as the 2008 the financial crisis and 
+  also COVID-19, which prompt hiring freezes (and the NSF to sponsor Computing Fellows). It can then be relatively more difficult for fresh PhDs to compete against such emerging postdocs. 
   This is particularly true in some disciplines. For example, anecdotally, post-docs are much more
   common in CS Theory. That said, it is
   still possible (as of 2024) to acquire a tenure-track faculty position in Software Engineering or
@@ -166,6 +161,13 @@ increasing freedom to pursue your interests. Both large universities and smaller
   the US On the other hand, if you have taken a post-doc
   people will expect more publications. The general advice is to accept 
   a tenure-track job if you can get one without a post-doc.
+
+  Note that it has also become quite common for graduating PhDs to secure a
+  tenure track position and then (request to) defer their start date by a year
+  to complete a post-doc. This can allow a new faculty member time to expand
+  their research program in tenurable ways without all the demands of a new
+  tenure track position. We do not address securing these positions in this
+  Guide.
 
 **In this Guide, we focus on the jobs where we have the
 most direct experience: US Research Academia, Industrial Research Labs,
@@ -196,7 +198,7 @@ types of institutions have different deadlines.
   carefully and keep track of deadlines using a spreadsheet.*
 
 - **Industrial Research Labs**: Industry typically conducts rolling interviews, 
-  but the main hiring season often aligns with academia. 
+  but the main hiring season often aligns with academia (typically with a bit more flexibility). 
 
 - **Industrial "Startups"**: These also generally follow industry's
   more flexible hiring timeline.
@@ -207,15 +209,12 @@ types of institutions have different deadlines.
 - **Non-US Research Academia** and **Non-US Indistrual Research Labs**: Timelines can vary widely, and may not
   align with the US academic calendar.
 
-- **Top-Tier Teaching Academia**: These schools often begin interviews up to 
+- **Teaching Academia**: (both Top-Tier and otherwise) These schools often begin interviews up to 
   two months earlier than Research Academia, sometimes as early as October. As 
   a result, your application and letters of recommendation will need to be 
   submitted weeks in advance, with some deadlines as early as late September. 
   *If you plan to apply to these schools, make sure your references are 
   prepared well ahead of time.*
-
-- **Teaching Academia**: Follows a similar schedule to Top-Tier Teaching
-  Academia.
 
 - **"Instructor" Positions**: Depending on the school, these can follow the
   Research or Teaching Academia schedule.
