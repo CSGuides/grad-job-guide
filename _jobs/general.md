@@ -8,12 +8,12 @@ and are not meant to be definitive.
 these categories may not be as helpful for non-US 
 applicants.*
 
-[The term **R1**](https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States) refers to a doctoral-granting 
+The term [**R1**](https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States) refers to a doctoral-granting 
 institution with very high research activity. 
 A [**liberal arts college**](https://en.wikipedia.org/wiki/Liberal_arts_college) emphasizes undergraduate humanities and
 scientific education. In general, liberal arts colleges are private and smaller than larger public state universities. 
 (A <i>university</i> has a graduate program and a <i>college</i> does not.)
-[The term **tenure**](https://en.wikipedia.org/wiki/Academic_tenure) refers to a secure job that cannot easily be terminated,
+The term [**tenure**](https://en.wikipedia.org/wiki/Academic_tenure) refers to a secure job that cannot easily be terminated,
 increasing freedom to pursue your interests. Both large universities and smaller colleges can offer tenured positions
 (or not) and both research-focused and teaching-focused positions can be tenured (or not). 
 
@@ -31,8 +31,8 @@ increasing freedom to pursue your interests. Both large universities and smaller
   MIT Lincoln Labs, GrammaTech, Kestrel Institute, and Johns Hopkins
   University Applied Physics Laboratories;
   and other
-  (Federally Funded 
-  Research and Development Centers)[https://en.wikipedia.org/wiki/Federally_funded_research_and_development_centers] (FFRDCs) like Raytheon BBN and MITRE.
+  [Federally Funded 
+  Research and Development Centers](https://en.wikipedia.org/wiki/Federally_funded_research_and_development_centers) (FFRDCs) like Raytheon BBN and MITRE.
 
 - **Industrial "Startups"**: This includes Ph.D.-seeking high-tech
   companies or recently-formed startups. Examples
