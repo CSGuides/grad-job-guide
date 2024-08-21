@@ -125,7 +125,16 @@ candidates.
 For instance, Spring 2005 was highly competitive with many strong applicants in PL/SE, 
 while 2013 was more of a candidate's market: the hiring freeze post-financial crisis was
 thawing, and the wave of candidates who had started postdocs in 2008 and applied
-for faculty positions 2 or 3 years later had thinned.
+for faculty positions 2 or 3 years later had thinned.  
+
+{% capture quote %}
+Based on something like 15 years of observing the market, I feel comfortable
+claiming that SE/PL is effectively never "hot".  But, as they fall
+squarely into the bread-and-butter category of Computer Science (everyone has to
+teach programming!), there appears to be a pretty consistent level of demand in
+these areas (subject to prevailing market conditions, of course).  
+{% endcapture %}
+{% include quote.html content=quote user="legoues" %}
 
 ### Advice for Industrial Positions
 
