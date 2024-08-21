@@ -28,8 +28,16 @@ lower-level mechanisms (e.g., mentioning that you use a particular
 type of dataflow analysis). **Make it easy for a hiring chair in
 your area to quickly realize you're one of theirs!**
 
-(On a related note: if a portal asks you to select research area keywords, please be
-accurate. Selecting them all does not help you.)
+If a portal asks you to select research area keywords, it is to your
+advantage to be accurate. At many institutions, different groups of faculty will
+read different applications: for example, architecture faculty may read 
+and evaluate architecture applications. If you are an architecture candidate
+who has one theory publication, checking both the architecture and theory boxes runs the risk that your
+application will be evaluated by theory professors, who may or may not know if
+ASPLOS and MICRO are good venues, etc. This issue can be difficult to navigate for
+interdisciplinary applicants, and we recommend talking to your advisor about how to position yourself
+and using other mechanisms available to you (such as your cover letter and research statement) to
+further clarify your expertise. 
 
 Reasons you are excited about the position can include the type of
 school (public vs. private, R1 vs. liberal arts), the location, 
