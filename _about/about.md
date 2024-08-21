@@ -13,7 +13,7 @@ information about each author's search below to provide context.
 engineering in academia or industry; accepted a position as a tenure track assistant professor at the University of Virginia.
 
 * [Claire Le Goues](https://clairelegoues.com/): Conducted a 2013 search for a position in programming languages or software
-engineering in research academia or industry; accepted a position as a tenure track assistant professor at Carnegie Mellon University.
+engineering in research academia or industry; accepted a position as a tenure track assistant professor at Carnegie Mellon University.  She has since served on the hiring committee and as Chair of the hiring committee a number of times in her home department at CMU, [S3D](https://s3d.cmu.edu/).
 
 * Zak Fry: Conducted a 2014 search for industrial research positions in software systems; accepted a role as a Research Scientist at GrammaTech.
 
