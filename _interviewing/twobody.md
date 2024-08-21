@@ -5,16 +5,23 @@ you should disclose your partnered status.*
 The advice in this section applies to both regular dual-career couples and those
 facing the actual *academic two-body problem*.
 
-For context, [Wes](/grad-job-guide/about#authors) was single when he was on the market; [Claire](/grad-job-guide/about#authors) had a partner who was
-planning to move with her and find a job in the software industry; [Kevin](/grad-job-guide/about#authors)
-Leach and [Yu](/grad-job-guide/about#authors) were partners seeking academic positions together in
+For context, [Wes](/grad-job-guide/about#authors) and 
+[Kevin Angstadt](/grad-job-guide/about#authors)
+were single when they were on the market; [Claire](/grad-job-guide/about#authors) 
+and [Hammad](/grad-job-guide/about#authors) 
+had partners who were
+planning to move with them and find a job in the software industry; [Kevin Leach](/grad-job-guide/about#authors)
+and [Yu](/grad-job-guide/about#authors) were partners seeking academic positions together in
 the same department (the traditional two-body problem); 
 [Madeline](/grad-job-guide/about#authors) had a partner who wanted to be in a location where
-they could pursue their career in the arts.  [Wes](/grad-job-guide/about#authors), [Kevin](/grad-job-guide/about#authors), and [Yu](/grad-job-guide/about#authors)
+they could pursue their career in the arts.  [Wes](/grad-job-guide/about#authors), [Kevin Leach](/grad-job-guide/about#authors), and [Yu](/grad-job-guide/about#authors)
 mentioned their relationship statuses in their cover letters; 
-[Claire](/grad-job-guide/about#authors) and [Madeline](/grad-job-guide/about#authors) did not. 
+[Claire](/grad-job-guide/about#authors), [Madeline](/grad-job-guide/about#authors) 
+and 
+[Hammad](/grad-job-guide/about#authors)
+did not. 
 
-As mentioned above, you may be asked about your marital status during your
+You may be asked about your marital or relationship status during your
 interviews.  [Claire](/grad-job-guide/about#authors) actually never had anyone ask her this outright. Perhaps
 times changed since 2005, or perhaps interviewers are more sensitive about the
 issue with a female candidate than they are with a male candidate.  Regardless,
