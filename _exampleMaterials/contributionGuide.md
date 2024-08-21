@@ -19,10 +19,10 @@ You are strongly encouraged to consider <i>opportunity costs</i> when evaluating
 your graduate career. In addition, the benefit of a particular activity varies depending on the career you are seeking. For example, if you are 
 looking for a teaching-focused position, at a certain point, serving as instructor of record in a course may be more useful than any number of
 additional peer-reviewed publications. Conversely, if you are looking for an industrial research position, spending a summer on an internship or
-demonstrating that your research can be deployed may be much mroe useful than teaching a class. And so on. 
+demonstrating that your research can be deployed may be much more useful than teaching a class. And so on. 
 
 In addition, you are strongly encouraged to consider <i>selectivity</i> when evaluating your outcomes. Leaving aside the (important) conversation
-about whether rankings mean anything, whether rankgs are moral or useful, etc., it is currently the case that instuations that perceive themselves
+about whether rankings mean anything, whether rankings are moral or useful, etc., it is currently the case that instuations that perceive themselves
 to be higher ranked (or to have a "big name" or a strong reputation) end up being more selective in terms of applicants&mdash;they will require more in each aspect before extending an offer.
 [Wes](/grad-job-guide/about#authors) notes that one way you can get a feeling for this, especially for academia, is to go to the websites of schools
 you are considering, find some of their recently-hired faculty, download their CVs (or go to DBLP), and then <i>only consider the resume items and publications they
@@ -30,7 +30,7 @@ had by the year they were hired</i>. For example, you might look at recently-hir
 at the Univeristy of New Mexico and use this technique to get a broad sense of what those schools end up expecting.  
 
 [Wes](/grad-job-guide/about#authors) notes that a higher-ranked school is <i>not</i> "better": instead, this is a technique for gaining more grounded
-information about selecvtivity and mitigating imposter syndrome. As a concrete example, 
+information about selectivity and mitigating imposter syndrome. As a concrete example, 
 <a href="https://en.wikipedia.org/wiki/Stephanie_Forrest">Stephanie Forrest</a> received R1 tenure-track offers from both the University of Michigan
 and also the Univeristy of Arizona and accepted the offer at Arizona because it was a better fit for her context. [Wes](/grad-job-guide/about#authors) often recommends that applicants seeking academic jobs sit down (perhaps with their advisors) and determine that 
 "on average, my record is comparable to people who are accepted at schools ranked XYZ", and then start, as a baseline, by applying to other
