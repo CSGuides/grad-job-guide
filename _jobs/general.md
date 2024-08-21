@@ -1,12 +1,24 @@
 # What Jobs Exist?
 
 Despite the canonical "industry versus academia" phrasing, there are
-actually many options available. Below, we introduce several job
-categories. *Note that this guide is written from a U.S. perspective, so 
-these categories may not be as helpful for non-U.S. 
+actually many options available. Below, we introduce several broad job
+categories. These categories are meant to help make you aware of options
+and are not meant to be definitive. 
+*Note that this guide is written from a US perspective, so 
+these categories may not be as helpful for non-US 
 applicants.*
 
-- **U.S. Research Academia**: This includes "top-ten" schools like MIT,
+[The term **R1**](https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States) refers to a doctoral-granting 
+institution with very high research activity. 
+A [**liberal arts college**](https://en.wikipedia.org/wiki/Liberal_arts_college) emphasizes undergraduate humanities and
+scientific education. In general, liberal arts colleges are private and smaller than larger public state universities. 
+(A <i>university</i> has a graduate program and a <i>college</i> does not.)
+[The term **tenure**](https://en.wikipedia.org/wiki/Academic_tenure) refers to a secure job that cannot easily be terminated,
+increasing freedom to pursue your interests. Both large universities and smaller colleges can offer tenured positions
+(or not) and both research-focused and teaching-focused positions can be tenured (or not). 
+
+
+- **US Research Academia**: This includes "top-ten" schools like MIT,
   CMU, Berkeley, Stanford, and Cornell as well schools with lower rankings 
   like UC Irvine, Purdue, Rutgers, and Virginia. *Professors often consider 
   this the default type of application*---even if it may not be where most applicants end up.
@@ -18,9 +30,9 @@ applicants.*
   research organizations that are adjacent to academia, like
   MIT Lincoln Labs, GrammaTech, Kestrel Institute, and Johns Hopkins
   University Applied Physics Laboratories;
-  and other 
-  Federally Funded 
-  Research and Development Centers (FFRDCs) like Raytheon BBN and MITRE.
+  and other
+  (Federally Funded 
+  Research and Development Centers)[https://en.wikipedia.org/wiki/Federally_funded_research_and_development_centers] (FFRDCs) like Raytheon BBN and MITRE.
 
 - **Industrial "Startups"**: This includes Ph.D.-seeking high-tech
   companies or recently-formed startups. Examples
@@ -32,15 +44,17 @@ applicants.*
   we've received suggests that this can be very rewarding, and "right 
   out of school" is not a bad time to try it.
 
-- **Non-U.S. U.S.-Like Research Academia**: This includes institutions like McGill, Toronto,
+- **Non-US US-Like Research Academia**: This includes institutions like McGill, Toronto,
   Waterloo, and UBC in Canada; EPFL in Switzerland; University College London
-  in the UK; and lesser-known places like
-  John Cabot University in Italy. These schools operate similarly to U.S. 
+  in the UK;
+  KTH Royal Institute of Technology in Sweden; 
+  and lesser-known places like
+  John Cabot University in Italy. These schools operate similarly to US 
   universities with respect to tenure and typically conduct classes in 
-  English. However, U.S. applicants are sometimes not taken as 
+  English. However, US applicants are sometimes not taken as 
   seriously, as they often decline job offers when given. 
   Apply to these positions only if you are serious about them, to avoid 
-  making the process harder for others.
+  making the process harder for others. 
   <!--The trick here is that they tend not to take US applicants seriously. US
   applicants typically tend (for whatever reason -- picking the known over the
   unknown, staying close to family, trying to use such places as safety schools,
@@ -52,7 +66,7 @@ applicants.*
   <p>When applying to these institutions, it's important to convey
   why they should take your application seriously. We recommend including a few sentences in your cover letter and research
   statement explicitly stating why you really want to go there (e.g., you speak the local language, have family
-  there, or are not tied to the U.S.). Also emphasize these points during 
+  there, or are not tied to the US). Also emphasize these points during 
   phone calls and interviews. For example, [Claire](/grad-job-guide/about#authors)'s Francophone 
   background and fluency in French were relevant in Canada, even outside 
   Quebec.</p>
@@ -61,7 +75,7 @@ applicants.*
   basic political and geographical details (e.g., the name
   of the current prime minister, or all of the provinces of the country 
   in question). If you are offered a position, ask about immigration 
-  assistance and support for you and your spouse (if applicable)..  
+  assistance and support for you and your spouse (if applicable).  
   The school will have experience with these issues and can be quite
   helpful.  It is also legitimate to ask about differences between 
   academic systems.  For example, salaries in Canada are 12-month, not 
@@ -76,6 +90,19 @@ applicants.*
   get along capitally, especially as compared to all other schools, which are
   plagued by infighting and competition.</p></details>
 
+- **International Industrial Research Labs**:
+  This category includes institutions like the 
+  CISPA Helmholtz Center for Information Security (in Germany),
+  Max Planck Institutes (in Germany), 
+  and the 
+  National Institute for Research in Digital Science and Technology (INRIA in France).
+  These institutions are perhaps more likely to be state-affiliated than US labs,
+  but just as with US labs, their finances, and thus the freedom and quality of
+  life they afford, wax and wane over time. 
+  In addition, we note that a number of larger research organizations, like Google and Microsoft,
+  have labs in other countries (e.g., the UK, Canada, China, India, etc.).
+  All of the caveats about Non-US US-Like Research Academia apply. 
+
 - **Non-US Research Academia**: This includes institutions like ENS in
   France, Oxford in the UK and Tsinghua in China. These schools may not
   conduct classes in English, usually have different promotion and tenure
@@ -87,8 +114,7 @@ applicants.*
    
 - **Top-Tier Teaching Academia**: This includes places like Carleton,
   Williams, Wesleyan, Oberlin, Bowdoin and Brown. Faculty here still conduct research
-  but undergraduate education is emphasized, and the graduate program is smaller or non-existent. (As an aside, a
-  <i>university</i> has a graduate program and a <i>college</i> does not.) 
+  but undergraduate education is emphasized, and the graduate program is smaller or non-existent. 
   Teaching three or more courses per year is common. 
 
 - **Teaching Academia**: This includes smaller liberal arts colleges 
@@ -123,8 +149,8 @@ applicants.*
   time.
 
 - **Post-Docs**: Post-doc positions are still somewhat rare in Computer 
-  Science, especially outside of CS Theory. However, they have become 
-  more common in the U.S. following both the 2008 the financial crisis and 
+  Science. However, they have become 
+  more common in the US following both the 2008 the financial crisis and 
   also COVID-19; during and after both, many schools froze hiring. 
   The low job supply encouraged
   candidates into post-doc roles. It then became more
@@ -136,8 +162,8 @@ applicants.*
   
   Taking a post-doc can give you time to build your publication record. 
   In addition, post-docs can be helpful
-  for non U.S. grad students who eventually want a full-time position in 
-  the U.S. On the other hand, if you have taken a post-doc
+  for non US grad students who eventually want a full-time position in 
+  the US On the other hand, if you have taken a post-doc
   people will expect more publications. The general advice is to accept 
   a tenure-track job if you can get one without a post-doc.
 
@@ -158,7 +184,7 @@ will submit applications in the fall of Year X-1 (or by mid-January of
 Year X). Deciding where to apply early is crucial because different 
 types of institutions have different deadlines.
 
-- **U.S. Research Academia**:  The earliest deadlines are around November 15th, 
+- **US Research Academia**:  The earliest deadlines are around November 15th, 
   with most applications due in December or early January. 
   Job postings often state when they will "start considering" applications, but 
   many positions accept and review late submissions. 
@@ -175,11 +201,11 @@ types of institutions have different deadlines.
 - **Industrial "Startups"**: These also generally follow industry's
   more flexible hiring timeline.
 
-- **Non-U.S. U.S.-Like Research Academia**: Like with U.S. Research Academia, 
+- **Non-US US-Like Research Academia**: Like with US Research Academia, 
   your applications will typically be due in November, December, or January.
 
-- **Non-U.S. Research Academia**: Timelines can vary widely, and may not
-  align with the U.S. academic calendar.
+- **Non-US Research Academia** and **Non-US Indistrual Research Labs**: Timelines can vary widely, and may not
+  align with the US academic calendar.
 
 - **Top-Tier Teaching Academia**: These schools often begin interviews up to 
   two months earlier than Research Academia, sometimes as early as October. As 
@@ -202,9 +228,11 @@ types of institutions have different deadlines.
   for faculty positions before turning to post-doc opportunities.
 
 Finally, it is common for institutions to "run late" with job postings.
-For example, in 2023, Bowdoin College Computer Science posted a job
+For example, in 2023, the Bowdoin College Computer Science department posted a job
 opportunity for an assitant professor position on December 10th
-(months later than many other postings for that cycle). Applicants
+(months later than many other postings for that cycle, and after one of the
+authors of this guide had already participated in eight interviews for
+similar teaching-focused positions). Applicants
 often revisit departmental webpages to see if openings have been posted. 
 Such a delay may be caused by various reasons (e.g., getting 
 regulatory approval for the posting text, finalizing permission from
