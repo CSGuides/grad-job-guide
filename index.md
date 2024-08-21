@@ -20,7 +20,7 @@ This website offers a *summary of experiences, insights, and advice*---including
 * Multiple searches resulting in job offers in industrial research (e.g.,
   GrammaTech, Lincoln Labs, etc.).
 * Multiple searches resulting in job offers at liberal arts colleges (e.g.,
-  Pomona, St. Lawrence, etc.).
+  Harvey Mudd, St. Lawrence, etc.).
 
 **This website is structured as a how-to guide for graduate students.**
 We provide collective advice, quote and commentary from a few individuals, and application materials from many individuals. 
