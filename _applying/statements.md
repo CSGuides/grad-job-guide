@@ -193,9 +193,9 @@ statement that is assessed positively at multiple institutions. Some of these ru
 be harder to find on the web (e.g., they may be structured for faculty hiring committees, not for applicants), so we have archived three public 
 examples here for your convenience:
 
-- [University of Colorado, Denver --- DEI Statement Rubric](assets/materials/deirubrics/DEI-Statement-Rubric-Colorado-Denver.pdf)
-- [University of California, Irvine --- DEI Statement Rubric](assets/materials/deirubrics/DEI-Statement-Rubric-UC-Irvine.pdf)
-- [Michigan State Univeristy --- DEI Statement Rubric](assets/materials/deirubrics/DEI-Statement-Rubric-MSU.pdf)
+- [University of Colorado, Denver &mdash; DEI Statement Rubric](../assets/materials/deirubrics/DEI-Statement-Rubric-Colorado-Denver.pdf)
+- [University of California, Irvine &mdash; DEI Statement Rubric](../assets/materials/deirubrics/DEI-Statement-Rubric-UC-Irvine.pdf)
+- [Michigan State Univeristy &mdash; DEI Statement Rubric](../assets/materials/deirubrics/DEI-Statement-Rubric-MSU.pdf)
 
 For examples of diversity statements, see the 
 [Example Materials](/grad-job-guide/exampleMaterials) tab.
