@@ -1,9 +1,9 @@
 {
     "coverLetter": [1, "Cover Letter", "applying/#cover-letters"],
     "cv": [2, "CVs/Resume", "applying/#preparing-your-resume"],
-    "researchStatement": [3, "Research Statement", "applying/#preparing-your-resume"],
-    "teachingStatement": [4, "Teaching Statement", "applying/#preparing-your-research-and-teaching-statements"],
-    "diversityStatement": [5, "Diversity Statement", null],
-    "jobTalk": [6, "Job Talk", null],
-    "teachingTalk": [7, "Teaching Talk", null]
+    "researchStatement": [3, "Research Statement", "applying/#preparing-your-statements"],
+    "teachingStatement": [4, "Teaching Statement", "applying/#teaching-statement"],
+    "diversityStatement": [5, "Diversity Statement", "applying/#diversity-statement"],
+    "jobTalk": [6, "Job Talk", "interviewing/#preparing-your-job-talk"],
+    "teachingTalk": [7, "Teaching Talk", "interviewing/#preparing-your-teaching-talk"]
 }
