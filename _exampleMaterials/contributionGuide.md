@@ -31,8 +31,7 @@ at the Univeristy of New Mexico and use this technique to get a broad sense of w
 [Wes](/grad-job-guide/about#authors) notes that a higher-ranked school is <i>not</i> "better": instead, this is a technique for gaining more grounded
 information about selecvtivity and mitigating imposter syndrome. As a concrete example, 
 <a href="https://en.wikipedia.org/wiki/Stephanie_Forrest">Stephanie Forrest</a> received R1 tenure-track offers from both the University of Michigan
-and also the Univeristy of Arizona and accepted the offer at Arizona because it was a better fit for her context. 
-[Wes](/grad-job-guide/about#authors) often recommends that applicants seeking academic jobs sit down (perhaps with their advisors) and determine that 
+and also the Univeristy of Arizona and accepted the offer at Arizona because it was a better fit for her context. [Wes](/grad-job-guide/about#authors) often recommends that applicants seeking academic jobs sit down (perhaps with their advisors) and determine that 
 "on average, my record is comparable to people who are accepted at schools ranked XYZ", and then start, as a baseline, by applying to other
 schools in a distirbution around XYZ, but also include some "safety schools" that may be less selective and some "aspirational schools"
 that may be more selective, plus schools that are paritcularly interested in (e.g., are building a center in, have a history of strength in, etc.) 
