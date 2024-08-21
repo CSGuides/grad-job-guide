@@ -12,14 +12,12 @@ step is to find actual positions to apply for. Here are some approaches:
   be extremely helpful.
   <details><summary>Expand for our personal experience with word of mouth and job offers</summary>
   
-  <p>
-  [Claire](/grad-job-guide/about#authors) gave two conference talks in the six months before applying for jobs and
+  <p>    <a href="/grad-job-guide/about#authors">Claire</a>a> gave two conference talks in the six months before applying for jobs and
   found this approach extremely useful.  She did not end those talks with "I am on
   the job market," but should have in hindsight. 
   </p>
 
-  <p>
-  [Madeline](/grad-job-guide/about#authors) attended a conference right before she went on the job market, and she did end her 
+  <p><a href="/grad-job-guide/about#authors">Madeline</a> attended a conference right before she went on the job market, and she did end her 
   talk with "I am on the job market". Two of her job offers came from 
   institutions where she talked to faculty members afterward.
   </p>
