@@ -1,18 +1,22 @@
-{%- assign author = site.data.people | where:"id", include.user  | first -%}
+{%- assign author = site.data.people | where:"id", include.user | first -%}
 
 <div class="chat">   
   <div class="chat-history">
     <ul class="chat-ul">
       <li class="clearfix">
         <div class="message-data align-right">
-          <span class="message-data-name">
-            {{ author.display }}&nbsp;
+          <div class="message-data-flex">
+            <div class="message-data-info">
+              <span class="message-data-name">
+                {{ author.display }}, {{ author.cycle }} cycle for {{ author.target }}
+              </span>
+            </div>
             {%- if author.avatar -%}
               {%- capture src -%}/assets/materials/{{author.id | uri_escape }}/{{author.avatar | uri_escape }}{%- endcapture -%}
               {%- assign url = src | relative_url -%}
               <img src="{{ url }}" alt="{{ author.display }}" class="img-thumbnail thumb" />
             {%- endif -%}
-          </span>
+          </div>
         </div>
         <div class="message {{ author.id }}-message float-md-right">
           {{ include.content | escape | markdownify }}

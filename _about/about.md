@@ -78,8 +78,8 @@ wisdom on this subject. They include, but are not limited to:
 - Mark Wegman (IBM)
 - Donna Weimer (Juniata)
 
-Claire did not consult many people for her contributions to this document, as
-she modified it after it had long been written. However, beyond Wes, she would
+[Claire](/grad-job-guide/about#authors) did not consult many people for her contributions to this document, as
+she modified it after it had long been written. However, beyond [Wes](/grad-job-guide/about#authors), she would
 particularly like to acknowledge the support and assistance of:
 
 - Katie Stolee (Iowa State)

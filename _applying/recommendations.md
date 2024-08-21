@@ -109,7 +109,7 @@ We recommend that you create and share a spreadsheet with your letter writers th
 * A link to the submission portal 
 * Any special instructions or notes
 
-[You can see [Wes's](/grad-job-guide/about#authors) letter-writer chart here.]({{ "/assets/materials/weimer/list.html" | relative_url }})
+You can see [Wes](/grad-job-guide/about#authors)'s letter-writer chart [here]({{ "/assets/materials/weimer/list.html" | relative_url }}).
 It's not perfect and I'm sure you could improve on the format but no
 one complained. It should also give you an idea of how the due dates vary
 between top-tier teaching-ish schools (e.g., Oberlin at November 19) and

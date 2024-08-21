@@ -73,3 +73,26 @@ content: "";
   color: lightblue;
   text-decoration: underline;
 }
+
+.message-data-flex {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: flex-end; /* Aligns the content to the right */
+}
+
+.message-data-info {
+  background-color: #3b3b3b; /* Or any other color you prefer */
+  padding: 5px 10px;
+  border-radius: 4px;
+  color: white;
+  flex: 0 0 auto; /* Prevents the box from growing beyond the text width */
+  max-width: 80%; /* Ensures it doesn't exceed the container width */
+  margin-right: 10px; /* Adds space between the text box and the avatar */
+}
+
+.thumb {
+  max-height: 70px; 
+  border-radius: 50%; 
+  flex-shrink: 0; 
+}

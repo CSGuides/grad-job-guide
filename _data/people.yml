@@ -97,6 +97,7 @@
   avatar: zak.jpeg
   color: "#008000"
   cycle: "2013-2014"
+  target: Industrial Research
   resume:
     - file: fry-cv.pdf
   research:
