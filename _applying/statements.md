@@ -78,7 +78,7 @@ We now detail each statement in turn.
 
 ## Research Statement
 The traditional approach here is to craft your research statement 
-by summarizing your thesis proposal. These statements are typically 2-3 
+by summarizing your thesis proposal. These statements are typically 3-4
 pages long and start with an overview of your research goals. They then 
 discuss each main thrust of your thesis proposal. If you are applying for a 
 teaching-focused job, such as in Liberal Arts academia, you might consider 
@@ -98,7 +98,7 @@ For examples of research statements, see the
 
 ## Teaching Statement
 
-Teaching statements are also typically 2-3 pages long, with three pages
+Teaching statements are typically 2-3 pages long, with longer
 being more common if you are going for a teaching-focused role.
 
 They usually begin with an overview of your *teaching philosophy*,
@@ -111,13 +111,20 @@ experiences that you might want to talk about, and then think about if there
 are any underlying values connecting them. In the rest of your statement, you'll want to
 summarize your teaching experience, and then demonstrate how your
 teaching philosophy is realized through compelling examples and
-anecdotes.
+anecdotes.  Specificity is helpful.  
 
-If you are applying for a *research-focused* position, you might consider
-including your approach to mentoring junior researchers. If you
-are going for a *teaching-focused* position, you may want to focus
-more on classroom teaching, and talk about your experience with lecturing and
-course design.
+It is not unusual for tenure track applicants to have relatively little explicit
+teaching experience. If you are applying for such a *research-focused* position,
+it's also often beneficial to include your approach to mentoring junior
+researchers (with, again, specific examples). You can also signal awareness of
+modern pedagogy by educating yourself and using associated vocabular
+appropriately, without overdoing it; such awareness is nice to see in a tenure
+track applicant, as it can suggest thoughtfulness, even if you don't have as
+much experience.
+
+If you are going for a *teaching-focused* position, you may want to focus more
+on classroom teaching, and talk about your experience with lecturing and course
+design.
 
 For examples of teaching statements, see the 
 [Example Materials](/grad-job-guide/exampleMaterials) tab.
@@ -129,7 +136,8 @@ creative and the best one they had seen in a while.  Given how interesting
 his isn't, that gives you a good idea for how low the bar is set if you
 want to do something personal with your teaching statement. Being
 yourself is still key, however. Not everyone should go for a teaching
-statement in which they claim not to be nice. [Kevin Angstdat](/grad-job-guide/about#authors)'s statement
+statement in which they claim not to be nice.
+[Kevin Angstdat](/grad-job-guide/about#authors)'s statement
 is something of an upper bound on teaching statement
 impressiveness, and a statement
 like his works well if you're aiming for a teaching job.
@@ -138,7 +146,7 @@ like his works well if you're aiming for a teaching job.
 
 Since 2015, Diversity Statements (or Diversity, Equity, and 
 Inclusion Statements) have
-become increasingly popular. These are typically 1-2 pages long 
+become increasingly popular (sometimes given names like "Broader Impact" statements). These are typically 1-2 pages long 
 and demonstrate your commitment to contributing to a supportive 
 and inclusive environment. We provide additional guidance on these statements because
 they may be less familiar to applicants and because there may be less "institutional knowledge" 
@@ -155,7 +163,7 @@ expect a diversity philosophy at the start.
 From the faculty side, [Wes](/grad-job-guide/about#authors), who has chaired or been
 involved in Diversity Committees for
 many years at multiple institutions, and helped push for the 
-consideraiton of Diversity Statements at Michigan, encourages you to place an 
+consideration of Diversity Statements at Michigan, encourages you to place an 
 emphasis on showing your <i>understanding</i> of the complexity and nuance of these issues, as well as the 
 <i>activities</i> you have carried out (or plan to carry out) to improve climate and broaden participation in computing, rather
 than on your personal <i>identity</i>. Many institutions, especially some state schools, are forbidden from
