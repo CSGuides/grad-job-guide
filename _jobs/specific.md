@@ -41,8 +41,8 @@ step is to find actual positions to apply for. Here are some approaches:
   many schools won’t have their ads up until mid-Fall Semester.
   <details><summary>Expand for our recommendations for using this approach:</summary>
 
-  <p>
-  [Claire](/grad-job-guide/about#authors) took the top 100 schools on one such list
+  <p><a href="/grad-job-guide/about#authors">Claire</a> 
+   took the top 100 schools on one such list
   and put them in a spreadsheet, with a separate section for Canadian schools.
   She updated the spreadsheet whenever a school posted a job  Before applying, 
   she reviewed the schools that were
@@ -51,8 +51,7 @@ step is to find actual positions to apply for. Here are some approaches:
   institution (UVA).
   </p>
 
-  <p>
- [Madeline](/grad-job-guide/about#authors) took the union of the top 30 schools from CSRankings and US News 
+  <p><a href="/grad-job-guide/about#authors">Madeline</a> took the union of the top 30 schools from CSRankings and US News 
   & World Report, adding institutions with historical strength in her 
   research area (software engineering). She then filtered schools based 
   on those that were hiring and her geographical preferences.
@@ -61,7 +60,10 @@ step is to find actual positions to apply for. Here are some approaches:
   <p>If you choose a similar approach, we recommend adjusting your starting 
   list and filtering criteria to suit your own goals. Not everyone wants to work
   at a top-ranked school, so don't feel like "top 100" is the only way to go.  For
-  example, [Claire](/grad-job-guide/about#authors) focused on larger departments, while and [Madeline](/grad-job-guide/about#authors) preferred
+  example, 
+    <a href="/grad-job-guide/about#authors">Claire</a> 
+    focused on larger departments, while 
+    <a href="/grad-job-guide/about#authors">Madeline</a> preferred
   universities in coastal states within two hours of a major city. You are likely to
   have different preferences.</p>
   </details>
