@@ -1,18 +1,30 @@
 # Dealing With Rejection
 
 After you have had an interview with a place there are basically only two
-reasons for them to reject you. 
+reasons for them to reject you:
 
-- One is that they "couldn't build a consensus." Variants on this phrase
-  are common. Since you'll be there for a long time (e.g., with tenure) it's
-  important that everyone get along. Thus if one or two people argue against
-  you, your odds of getting a job there are low. However, since you were
-  offered an interview there were at least a few people who liked you, so
-  rather than being able to say "everyone hated you" they will say "we
-  couldn't form a strong consensus". 
-- Another possibility is that you were their second or third choice ("in
-  line") and that the first person they offered the job to accepted it. 
+- They "couldn't build a consensus." Variants on this phrase are common. 
+- You were their second or third choice, and one of the candidates they offered
+  the job to first, accepted.  
 
+Many of the factors that can lead those situations have nothing to do with you.
+For example, research area is often a big concern in hiring. If there's only one
+position available, and there was also a really amazing Theory candidate, and
+the existing theory faculty won the argument, you may be out of luck, no matter
+how great you were.
+
+Additionally, hiring decisions aren't _typically_ decided by a strict majority
+vote. A new hire is a big investment of departmental time and energy, especially
+since they'll (hopefully) be around for a long time (e.g., with tenure). It's
+therefore important that everyone be more or less on board. Perfect agreement
+amongst a group of professors is rare-to-unheard-of, but if more than a couple
+of people are relatively less enthusiastic (or a couple of people are opposed
+outright), no matter the reason, a department is unlikely to be able to make an
+offer. 
+
+Rejection can be hard. Try to remember that the fact that you were offered an
+interview at all means that at least a few people there think highly of you, and
+almost certainly still do.  
 
 You should tread carefully in the time period after your interviews but
 before your official offers. Many department chairs have told [Wes](/grad-job-guide/about#authors) that they
