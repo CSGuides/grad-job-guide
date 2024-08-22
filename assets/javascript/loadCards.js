@@ -242,6 +242,8 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
   });
 
   $("#filterModeToggle").on('change', updateFiltering);
+}).fail(function(jqxhr, textStatus, error) {
+  console.error("Error loading contributors.json:", textStatus, error);
 });
 
 $(document).foundation();
