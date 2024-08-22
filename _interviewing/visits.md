@@ -166,6 +166,18 @@ if the host is drinking) is "never say anything mean about anyone, especially no
 institution or other institutions at which you are interviewing". 
 She notes that this rule applies even if your current institution is legitimately dysfunctional.
 
+**Following Up:** 
+We recommending sending "thank you" emails, at least to your host. We also
+recommend following up with schools in which you're interested, especially if you have
+deadlines from other schools. 
+
+[Wes](/grad-job-guide/about#authors) notes that during an interview you may receive
+invitations from individual faculty to move toward collaboration on a future or paper or grant proposal. 
+If you do not receive an offer from that school, it is understood that those 
+invitations to feel out a collaboration are entirely optional. There are many good people at many good institutions
+you might work with, and there is no expectation that you form a working relationship with
+each one. Phrased another way, being nice to people and looking for potential collaborations does
+not hurt you (instead, it helps you). 
 
 ## Personal Considerations
 

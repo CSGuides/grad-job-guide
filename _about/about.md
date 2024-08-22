@@ -10,7 +10,7 @@ In this Guide, we generally offer collective advice and speak in general terms. 
 information about each author's search below to provide context.
 
 * [Wes Weimer](https://web.eecs.umich.edu/~weimerw/): Conducted a 2005 search for a position in programming languages or software
-engineering in academia or industry; accepted a position as a tenure track assistant professor at the University of Virginia.
+engineering in academia or industry; accepted a position as a tenure track assistant professor at the University of Virginia. He is now a professor at the Univeristy of Michigan. 
 
 * [Claire Le Goues](https://clairelegoues.com/): Conducted a 2013 search for a position in programming languages or software
 engineering in research academia or industry; accepted a position as a tenure track assistant professor at Carnegie Mellon University.  She has since served on the hiring committee and as Chair of the hiring committee a number of times in her home department at CMU, [S3D](https://s3d.cmu.edu/).
