@@ -14,13 +14,13 @@ of a candidate. They effectively never include mistakes, failures or
 weaknesses. (Consider Melanie Stefan's notion of a [CV of
 Failures](https://www.nature.com/articles/nj7322-467a) as a useful contrast!)
 
-This page provides neither a random nor indicative sample applicants, and the
+This page provides neither a random nor indicative sample of applicants, and the
 materials are biased towards top-tier outcomes across multiple categories of
 positions. These may be the right kinds of jobs for you to consider, but they
 also might not be, for your career and personal goals! As a concrete example, <a
 href="https://en.wikipedia.org/wiki/Stephanie_Forrest">Stephanie Forrest</a>
 received R1 tenure-track offers from both the University of Michigan and also
-the Univeristy of Arizona and accepted the offer at Arizona because it was a
+the University of Arizona and accepted the offer at Arizona because it was a
 better fit for her context.
 
 In evaluating your own choices and possible outcomes, we encourage you to
@@ -46,15 +46,15 @@ might compare recently-hired faculty at the University of Michigan to
 those at the Univeristy of New Mexico to develop a broad sense
 of expectations.
 
-The latter suggestion serves to help mitigate your imposter syndrome while
+The latter suggestion serves to help you mitigate your imposter syndrome while
 giving you the information necessary to make good job search and career choices.
 [Wes](/grad-job-guide/about#authors) recommends that applicants seeking
 academic jobs sit down (perhaps with their advisors) and determine that "on
-average, my record is comparable to people who are accepted at schools ranked
-XYZ", and then start, as a baseline, by applying to other schools in a
-distirbution around XYZ, but also include some "safety schools" that may be less
-selective and some "aspirational schools" that may be more selective, plus
-schools that are paritcularly interested in (e.g., are building a center in,
+average, my record is comparable to people who are hired at schools ranked
+XYZ".  Then start, as a baseline, by applying to other schools in a
+distribution around XYZ, but also include some "safety schools" that may be less
+selective, and some "aspirational schools" that may be more selective, plus
+schools that are particularly interested in (e.g., are building a center in,
 have a history of strength in, etc.) an area that aligns with their expertise.
 
 {% capture quote %}
