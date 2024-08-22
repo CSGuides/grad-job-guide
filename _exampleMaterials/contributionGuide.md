@@ -20,7 +20,7 @@ positions. These may be the right kinds of jobs for you to consider, but they
 also might not be, for your career and personal goals! As a concrete example, <a
 href="https://en.wikipedia.org/wiki/Stephanie_Forrest">Stephanie Forrest</a>
 received R1 tenure-track offers from both the University of Michigan and also
-the Univeristy of Arizona and accepted the offer at Arizona because it was a
+the University of Arizona and accepted the offer at Arizona because it was a
 better fit for her context.
 
 In evaluating your own choices and possible outcomes, we encourage you to
