@@ -151,7 +151,24 @@ you're offering me if you allow me to spend it any way I like").
 This is easier if you can justify your request(s).  For example, [Claire](/grad-job-guide/about#authors) blocked
 out some travel plans (for some reason, SE conferences in 2013-2015 were all in
 far-flung locations) and
-detailed computing equipment.  Ask about: (1) the degree to which TAing can cover a
+detailed computing equipment. When negotiating, [Madeline](/grad-job-guide/about#authors) provided 
+universities with a detailed spreadsheet outlining her desired startup budget. This budget 
+included line items for travel and research group morale activities, such as lab lunches. The largest 
+part of her budget related to equipment that she needed for her research. Depending on the school, she requested funding for a 
+combination of an eye-tracker, an fNIRS machine (a neuroimaging device), and several Apple Vision Pros. The specific combination 
+varied based on the existing resources at each school. For instance, at one university, she requested a smaller 
+fNIRS machine designed to integrate with an existing one, allowing her to focus the negotiation on other aspects of her budget.
+
+**We recommend that if you are negotiating with universities for equipment, you first inquire about the equipment the 
+institution already possesses.** This will allow you to justify the necessity of new equipment and 
+explain how it will complement the department’s existing resources. *For large purchases 
+(e.g. [Madeline](/grad-job-guide/about#authors)’s fNIRs machine), we also recommend that you reach 
+out to a company representative to get an exact quote that you can forward to departments.* Overall, 
+[Madeline](/grad-job-guide/about#authors)  was able to more than double allotted equipment or 
+discretionary funds at multiple universities.
+
+Beyond equipment, we also recommend that you
+ask about: (1) the degree to which TAing can cover a
 student cost, and policies/norms (e.g., do all first year students typically
 TA? Does that render them free to their advisor?), (2) department policies on faculty/student
 equipment, (3) the computing facilities, and
