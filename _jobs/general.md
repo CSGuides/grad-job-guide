@@ -215,7 +215,7 @@ types of institutions have different deadlines.
 
   <a href="https://www.monperrus.net/martin/">Martin Monperrus</a>
   notes: "In Europe, applications are not synchronized, even within a country. Some centralized countriess, such as France, may be synchronized. In France, most applications (but not all) are due in February/March, for interviews in May/June."
-  He further elaborates that "it's a good practice to to do an informal visit to the place before the official deadline. Europe is a small continent. I did a German tour &mdash; five places in five days &mdash; for finding a postdoc."
+  He further elaborates that "it's a good practice to do an informal visit to the place before the official deadline. Europe is a small continent. I did a German tour &mdash; five places in five days &mdash; for finding a postdoc."
 
 - **Teaching Academia**: (both Top-Tier and otherwise) These schools often begin interviews up to 
   two months earlier than Research Academia, sometimes as early as October. As 
