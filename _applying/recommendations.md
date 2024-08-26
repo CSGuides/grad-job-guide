@@ -35,6 +35,10 @@ discussing potential letter writers with your advisor, seek their input
 on who might provide the most compelling endorsements based on your career 
 goals. Give your letter writers plenty of advance notice.
 
+<a href="https://www.monperrus.net/martin/">Martin Monperrus</a> notes that letters of recommendation
+are "very big in the US, not so big in Europe. Because of this cultural difference, European applicants may not realize how much effort they must put in for their US application letters."
+
+
 {% capture quote %}
 At the end of the day, I can only offer myself as a data point for
 what was "good enough". I had never written a paper with Alex Aiken but I
