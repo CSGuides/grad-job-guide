@@ -44,25 +44,32 @@ increasing freedom to pursue your interests. Both large universities and smaller
   we've received suggests that this can be very rewarding, and "right 
   out of school" is not a bad time to try it.
 
-- **Non-US US-Like Research Academia**: This includes institutions like McGill, Toronto,
+- **Non-US Academia**: Some institutions are structured
+  similar to US universities. Examples include McGill, Toronto,
   Waterloo, and UBC in Canada; EPFL in Switzerland; University College London
   in the UK;
   KTH Royal Institute of Technology in Sweden; 
   and lesser-known places like
   John Cabot University in Italy. These schools operate similarly to US 
   universities with respect to tenure and typically conduct classes in 
-  English. However, US applicants are sometimes not taken as 
+  English.
+
+  Other international institutions may follow different structures.
+  Examples include ENS in
+  France, Oxford in the UK and Tsinghua in China. These schools may not
+  conduct classes in English, usually have different promotion and tenure
+  schemes, and often have different requirements (e.g., post-docs, 
+  second degrees). For example, in the UK, a post-doc is effectively 
+  mandatory. Hiring is often localized, so if you’re not already 
+  familiar a given institution or location, you may not want to count on 
+  them as a job option.
+
+  In both cases, US applicants are sometimes not taken as 
   seriously, as they often decline job offers when given. 
   Apply to these positions only if you are serious about them, to avoid 
   making the process harder for others. 
-  <!--The trick here is that they tend not to take US applicants seriously. US
-  applicants typically tend (for whatever reason -- picking the known over the
-  unknown, staying close to family, trying to use such places as safety schools,
-  etc.) not to accept jobs even when they are offered. You should only apply for 
-  non-US positions if you're serious about them. You're making it harder for 
-  everyone else otherwise.-->
 	<details>
-	<summary>Expand for more on applying to Non-US US-Like Research Academia</summary>
+	<summary>Expand for more on applying to Non-US Academia</summary>
   <p>When applying to these institutions, it's important to convey
   why they should take your application seriously. We recommend including a few sentences in your cover letter and research
   statement explicitly stating why you really want to go there (e.g., you speak the local language, have family
@@ -95,22 +102,20 @@ increasing freedom to pursue your interests. Both large universities and smaller
   CISPA Helmholtz Center for Information Security (in Germany),
   Max Planck Institutes (in Germany), 
   and the 
-  National Institute for Research in Digital Science and Technology (INRIA in France).
+  National Institute for Research in Digital Science and Technology (Inria in France).
   These institutions are perhaps more likely to be state-affiliated than US labs,
   but just as with US labs, their finances, and thus the freedom and quality of
   life they afford, wax and wane over time. 
   In addition, we note that a number of larger research organizations, like Google and Microsoft,
   have labs in other countries (e.g., the UK, Canada, China, India, etc.).
-  All of the caveats about Non-US US-Like Research Academia apply. 
+  All of the caveats about Non-US US-Like Research Academia apply.
 
-- **Non-US Research Academia**: This includes institutions like ENS in
-  France, Oxford in the UK and Tsinghua in China. These schools may not
-  conduct classes in English, usually have different promotion and tenure
-  schemes, and often have different requirements (e.g., post-docs, 
-  second degrees). For example, in the UK, a post-doc is effectively 
-  mandatory. Hiring is often localized, so if you’re not already 
-  familiar a given institution or location, you may not want to count on 
-  them as a job option.
+  <a href="https://www.monperrus.net/martin/">Martin Monperrus</a>, Professor of Software Technology at KTH Royal Institute of Technology in Sweden
+  (and previously at the University of Lille in France, Inria in France, and Darmstadt University
+  of Technology in Germany), notes that an important distinction in Europe is between research-only institutions (like CNRS, Inria, Fraunhofer)
+  and research-plus-education institutions (universities, like ENS or KTH). In his opinion,
+  "the biggest advantage of the latter is that you get much better recruitment channels because you're closer to students".
+
    
 - **Top-Tier Teaching Academia**: This includes places like Carleton,
   Williams, Wesleyan, Oberlin, Bowdoin and Brown. Faculty here still conduct research
@@ -203,11 +208,14 @@ types of institutions have different deadlines.
 - **Industrial "Startups"**: These also generally follow industry's
   more flexible hiring timeline.
 
-- **Non-US US-Like Research Academia**: Like with US Research Academia, 
+- **Non-US Institutions**: For institutions that follow US structures, 
   your applications will typically be due in November, December, or January.
-
-- **Non-US Research Academia** and **Non-US Indistrual Research Labs**: Timelines can vary widely, and may not
+  For others, timelines can vary widely, and may not
   align with the US academic calendar.
+
+  <a href="https://www.monperrus.net/martin/">Martin Monperrus</a>
+  notes: "In Europe, applications are not synchronized, even within a country. Some centralized countriess, such as France, may be synchronized. In France, most applications (but not all) are due in February/March, for interviews in May/June."
+  He further elaborates that "it's a good practice to to do an informal visit to the place before the official deadline. Europe is a small continent. I did a German tour &mdash; five places in five days &mdash; for finding a postdoc."
 
 - **Teaching Academia**: (both Top-Tier and otherwise) These schools often begin interviews up to 
   two months earlier than Research Academia, sometimes as early as October. As 
