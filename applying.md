@@ -26,6 +26,11 @@ Many positions will also ask for:
 6. A [Diversity Statement](#diversity-statement)
 7. Three [Indicative Publications](#selecting-indicative-publications)
 
+Some international universities have extremely structured templates, 
+such as this 
+<a href="https://www.kth.se/polopoly_fs/1.695604.1703153880!/CV%20template%20for%20the%20employment%20and%20promotion%20of%20teachers_s_231201.docx">"CV template for the employment and promotion of teachers"</a>
+from KTH Royal Institute of Technology in Sweden. 
+
 *On the rest of this tab, we’ll provide an overview and tips to help you get started on each part of your application.* 
 
 We also include select examples of successful materials from each category. *More examples are available
