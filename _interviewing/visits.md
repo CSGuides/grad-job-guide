@@ -4,6 +4,10 @@ We’ll cover what you can expect during a typical multi-day interview,
 including the length and structure, different types of meetings 
 embedded into the overall interview, and tips for planning and preparation.
 
+<a href="https://www.monperrus.net/martin/">Martin Monperrus</a> notes that this can vary significantly for
+European interviews: there is "huge diversity depending on the country and univeristy. Perhaps the only common point is the formal interview (from 45 minutes to 2 hours) in front of a committee (5-10 people)."
+This guide discusses an average US interview. 
+
 ## Length and Structure of the Interview
 
 A typical interview lasts about one to two days, depending largely on the size of 
@@ -165,6 +169,9 @@ and only if someone else ordered alcohol first.
 if the host is drinking) is "never say anything mean about anyone, especially not your current
 institution or other institutions at which you are interviewing". 
 She notes that this rule applies even if your current institution is legitimately dysfunctional.
+
+<a href="https://www.monperrus.net/martin/">Martin Monperrus</a> 
+elaborates that for European interviews, "the informal dinner/lunch is a classic, and &mdash; cultural difference :) &mdash; it might happen in a good restaurant. My recurring advice to my students is <emph>to train to have a great academic conversation at a restaurant</emph>".
 
 **Following Up:** 
 We recommending sending "thank you" emails, at least to your host. We also
