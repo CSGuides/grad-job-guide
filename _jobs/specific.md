@@ -127,6 +127,14 @@ while 2013 was more of a candidate's market: the hiring freeze post-financial cr
 thawing, and the wave of candidates who had started postdocs in 2008 and applied
 for faculty positions 2 or 3 years later had thinned.  
 
+Also, while in an ideal world, the schools that you apply to should not depend on the school you got your Ph.D.,
+in practice, the rank of your doctoral or post-doctoral institution can have a big impact on where
+you ultimately get interviewed or hired. Typically, people get hired by schools that are ranked similarly or
+lower than their doctoral institution.
+This is not always the case. For example, [Claire](/grad-job-guide/about#authors)
+was at a school ranked around 20th (UVA), but got hired by a school ranked 1st (CMU). However, this is
+the exception rather than the rule. As found by one [study](https://www.science.org/doi/10.1126/sciadv.1400005), "only 9 to 14% of faculty are placed at institutions more prestigious than their doctorate". We thus recommend including some schools ranked lower than your doctoral institution on your list.
+
 {% capture quote %}
 Based on something like 15 years of observing the market, I feel comfortable
 claiming that SE/PL is effectively never "hot".  But, as they fall
