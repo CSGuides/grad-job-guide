@@ -132,6 +132,16 @@
       "teachingStatement": "akamil/teaching_2015_akamil.pdf",
       "profileImageLoc": "akamil/akamil4_akamil.jpg",
       "tags": ["Programming Languages", "High Performance Computing", "Teaching-Focused Position", "No Post-doc"]
+    },
+    {
+      "id": 13,
+      "name": "Chunqiu Steven Xia",
+      "cycle": "2025-2026",
+      "cv": "xia/xia-cv.pdf",
+      "researchStatement": "xia/xia-research.pdf",
+      "teachingStatement": "xia/xia-teaching.pdf",
+      "tags": ["Software Engineering", "AI", "No Post-doc", "R1 Tenure Track"]
     }
+    
   ]
   
