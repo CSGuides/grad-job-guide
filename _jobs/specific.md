@@ -31,6 +31,11 @@ step is to find actual positions to apply for. Here are some approaches:
   these databases to identify schools that are hiring, and then visiting 
   the department websites to double-check the details.
 
+- **CS Jobs at Undergrad Institutions**: If you are applying for a job at a
+  primarily-undergraduate institution (PUI), such as a liberal arts college,
+  the excellent <a href="https://cs-pui.github.io/">CS Jobs at Undergraduate
+  Institutions</a> <tt>cs-pui</tt> guide maintains a very useful listing.
+
 - **Rankings + Google**:  If you’re applying for academic positions, 
   using department rankings can be a useful strategy. The three most
   popular are from US News & World Report, the CRA Taulbee Survey, and 
